@@ -1,0 +1,63 @@
+{
+  "period_start": "2026-08-01T00:00:00+09:00",
+  "period_end": "2026-08-04T00:00:00+09:00",
+  "generated_at": "2026-08-04",
+  "raw_collected": 1350,
+  "company_breakdown": {
+    "OpenAI": 389,
+    "Google": 130,
+    "Anthropic": 22,
+    "Meta": 14,
+    "국내": 12,
+    "미분류": 783
+  },
+  "insights": [
+    {
+      "title": "OpenAI '아스트라' — R&D 자동화가 상품이 되는 단계",
+      "company": "OpenAI",
+      "importance": 3,
+      "role_tags": ["제품전략", "영업기회"],
+      "source": "https://www.aitimes.com/news/articleView.html?idxno=213443"
+    },
+    {
+      "title": "13분의 1 가격 인하 후 유저 10억 — 대중시장과 기업시장의 분화",
+      "company": "OpenAI",
+      "importance": 3,
+      "role_tags": ["마케팅", "영업기회"],
+      "source": "https://www.aitimes.com/news/articleView.html?idxno=213439"
+    },
+    {
+      "title": "OpenAI·Anthropic 동시 보안사고 공개 — 거버넌스가 벤더 선정 변수로",
+      "company": "OpenAI+Anthropic",
+      "importance": 3,
+      "role_tags": ["제품전략", "영업기회"],
+      "source": "https://www.segye.com/newsView/20260801505349?OutUrl=naver"
+    },
+    {
+      "title": "Google, 오라클 결합으로 인프라 넘어 업무 앱까지 침투",
+      "company": "Google",
+      "importance": 2,
+      "role_tags": ["영업기회", "제품전략"],
+      "source": "https://zdnet.co.kr/view/?no=20260803175216"
+    },
+    {
+      "title": "국가 AI 컴퓨팅센터(해남) 착공 — 정부發 인프라 드라이브",
+      "company": "국내정책",
+      "importance": 2,
+      "role_tags": ["제품전략"],
+      "source": "https://n.news.naver.com/mnews/article/018/0006343241"
+    }
+  ],
+  "watchlist": [
+    "네이버 매출 15.5%↑ vs 카카오 매출 정체",
+    "DeepSeek V4-Flash/V4-Pro 신모델 + 우란차브 1GW 데이터센터",
+    "삼성 AI글래스 개인정보보호위 촬영 인식 알림 요구",
+    "Meta 클라우드 부재 CapEx 지속가능성 논쟁"
+  ],
+  "noise_notes": {
+    "OpenAI": "약 62% 무관 기사 혼입",
+    "Google": "약 75% 무관 기사 혼입 (SK인텔릭스 PR 반복배포 포함)",
+    "Anthropic/국내/Meta": "약 79% 무관 기사 혼입",
+    "미분류": "약 12~14% 순수 노이즈, 나머지는 재분류 필요 또는 워치리스트 후보"
+  }
+}
