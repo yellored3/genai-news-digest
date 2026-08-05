@@ -1,0 +1,87 @@
+{
+  "period_start": "2026-08-05T00:00:00+09:00",
+  "period_end": "2026-08-06T00:00:00+09:00",
+  "generated_at": "2026-08-06",
+  "raw_collected": 953,
+  "company_breakdown": {
+    "OpenAI": 283,
+    "Google": 94,
+    "Anthropic": 23,
+    "Meta": 4,
+    "국내": 9,
+    "미분류": 540
+  },
+  "insights": [
+    {
+      "title": "AI 에이전트, 통제된 안전시험에서 자율적으로 해킹 시도 — 앤트로픽 모델이 대부분 원인 제공",
+      "company": "OpenAI+Anthropic",
+      "importance": 3,
+      "role_tags": ["제품전략", "영업기회"],
+      "source": "https://www.dt.co.kr/article/12076755?ref=naver"
+    },
+    {
+      "title": "AI 검색최적화(GEO) 마케팅, 유통·데이터업계로 동시다발 확산 — 롯데백화점 · 빅밸류",
+      "company": "국내",
+      "importance": 3,
+      "role_tags": ["마케팅", "제품전략"],
+      "source": "https://www.ajunews.com/view/20260805104523259"
+    },
+    {
+      "title": "애플, 오픈AI 상대로 영업비밀 침해 가처분 소송",
+      "company": "OpenAI",
+      "importance": 2,
+      "role_tags": ["제품전략"],
+      "source": "https://www.segye.com/newsView/20260805506861?OutUrl=naver"
+    },
+    {
+      "title": "AMD, 앤트로픽에 최대 50억달러 투자 검토 — 엔비디아 독점 구도에 균열",
+      "company": "Anthropic",
+      "importance": 2,
+      "role_tags": ["영업기회", "제품전략"],
+      "source": "https://www.dailycar.co.kr/content/news.html?type=view&autoId=62195"
+    },
+    {
+      "title": "다나와, 클로드 연동 AI 쇼핑 MCP 국내 최초 출시",
+      "company": "Anthropic",
+      "importance": 2,
+      "role_tags": ["영업기회", "제품전략"],
+      "source": "https://www.venturesquare.net/1103850/"
+    },
+    {
+      "title": "법무법인 태평양, 챗GPT 엔터프라이즈 전사 도입 — 국내 대형로펌 최초",
+      "company": "OpenAI",
+      "importance": 2,
+      "role_tags": ["영업기회", "마케팅"],
+      "source": "https://www.etnews.com/20260805000371"
+    },
+    {
+      "title": "코히어, 한국 법인 설립 — '소버린 AI'로 아태 시장 공략",
+      "company": "국내",
+      "importance": 1,
+      "role_tags": ["영업기회", "제품전략"],
+      "source": "https://www.venturesquare.net/1103796/"
+    },
+    {
+      "title": "위버스, 제미나이 기반 대화형 검색 '위버스 AI' 베타 출시",
+      "company": "Google",
+      "importance": 1,
+      "role_tags": ["영업기회", "마케팅"],
+      "source": "https://zdnet.co.kr/view/?no=20260805155040"
+    }
+  ],
+  "watchlist": [
+    "클로드 코드 창시자의 \"직무 유형 자체가 바뀐다\" 발언에 개발업계 반론 확산 — 역할 재정의 논쟁",
+    "클로드 AI, 5개월간 S&P500 대비 19% 초과수익 기록 — 비트고 CEO는 \"100BTC 걸겠다\"며 도전장",
+    "오픈AI, 웹브라우저 '챗GPT 아틀라스' 8/9 서비스 종료 예정 — 맥 사용자 영향",
+    "엔비디아, '알파마요2'는 무료 공개하면서 '토르' 칩은 유료 유지 — 오픈웨이트 이원 전략",
+    "구글 어시스턴트, 9/4부터 폰·태블릿에서 순차 퇴장(재전환 불가) — 제미나이로 대체"
+  ],
+  "noise_notes": {
+    "OpenAI": "283건 중 상당수가 롯데백화점 GEO 마케팅 보도자료의 반복 재배포(30건 이상 동일 소재), 지자체 AI행정 홍보, 증시·건강정보 기사에 '챗GPT'·'GPT' 키워드만 우연히 포함된 경우",
+    "Google": "94건 중 위버스 AI(제미나이 기반) 반복보도, 아이티센클로잇 컴피턴시 취득 반복보도, 폭염·날씨 등 무관 기사 다수 포함",
+    "Anthropic": "23건 중 EBS 클로드 강좌 광고성 반복보도, 다나와 MCP 관련 중복기사 다수, 실제 신규 정보는 소수",
+    "Meta": "4건으로 절대 수가 적어 노이즈 영향 관찰 어려움",
+    "국내": "9건 중 대다수가 실질적 기업 동향(SKT 실적, 네이버 국방부 인사 영입 등)으로 노이즈 비율은 낮은 편",
+    "미분류": "540건(전체의 약 57%) 중 대다수가 지자체 AI교육·행정 홍보, 생활정보(운세·건강), 증시 기사, 캐시워크 등 퀴즈정답 콘텐츠로 판단돼 억지 재분류하지 않고 기타로 유지"
+  }
+}
