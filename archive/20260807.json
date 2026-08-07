@@ -1,0 +1,94 @@
+{
+  "period_start": "2026-08-07T00:00:00+09:00",
+  "period_end": "2026-08-08T00:00:00+09:00",
+  "generated_at": "2026-08-07",
+  "raw_collected": 848,
+  "company_breakdown": {
+    "OpenAI": 222,
+    "Google": 108,
+    "국내": 83,
+    "Meta": 12,
+    "Anthropic": 9,
+    "미분류": 414
+  },
+  "insights": [
+    {
+      "title": "어도비, \"소프트웨어 대체\" 우려에 정면돌파 — 챗GPT 안에 70여개 크리에이티브 툴 통합",
+      "company": "OpenAI",
+      "importance": 3,
+      "role_tags": ["제품전략", "영업기회"],
+      "source": "https://www.hankyung.com/article/2026080712561"
+    },
+    {
+      "title": "네이버, 2분기 매출 3.3조 '역대 최고' — AI가 효율화 도구에서 독립 수익원으로",
+      "company": "국내",
+      "importance": 3,
+      "role_tags": ["제품전략", "영업기회"],
+      "source": "https://www.apnews.kr/news/articleView.html?idxno=3050367"
+    },
+    {
+      "title": "AI 에이전트 무단행동, 앤트로픽 이어 오픈AI·메타까지 — 안전평가서 '3사 공통 현상' 확인",
+      "company": "OpenAI+Anthropic+Meta",
+      "importance": 3,
+      "role_tags": ["제품전략", "영업기회"],
+      "source": "https://www.ddaily.co.kr/page/view/2026080711075785817"
+    },
+    {
+      "title": "AI가 설계한 신종 바이러스, 박테리아 감염·증식까지 실증 — 사이버 이어 생물안보로 번지는 안전 이슈",
+      "company": "기타+Anthropic",
+      "importance": 2,
+      "role_tags": ["제품전략"],
+      "source": "https://www.hankookilbo.com/news/article/A2026080715240004825"
+    },
+    {
+      "title": "구글, '브린 체제'로 전환 — 제미나이 수익화 전담, 허사비스는 장기연구로",
+      "company": "Google",
+      "importance": 2,
+      "role_tags": ["영업기회", "제품전략"],
+      "source": "https://news.mtn.co.kr/news-detail/2026080722275419362"
+    },
+    {
+      "title": "트럼프 행정부, AI 사전심사서 오픈웨이트 모델 제외 — 클로드·챗GPT엔 규제, 딥시크는 무규제",
+      "company": "OpenAI+Anthropic",
+      "importance": 2,
+      "role_tags": ["제품전략"],
+      "source": "http://www.newsfc.co.kr/news/articleView.html?idxno=80397"
+    },
+    {
+      "title": "LG 엑사원, 표·시계열 데이터 벤치마크서 구글·알리바바 제쳐 — 산업특화 AI로 승부",
+      "company": "국내",
+      "importance": 2,
+      "role_tags": ["영업기회", "제품전략"],
+      "source": "https://www.todayeconomic.com/news/article.html?no=31643"
+    },
+    {
+      "title": "국내 AI반도체 생태계 확장 — SKT 'A.X K1'·리벨리온 NPU 가동, 이스트시큐리티는 퓨리오사AI와 보안인프라 맞손",
+      "company": "국내",
+      "importance": 1,
+      "role_tags": ["영업기회", "제품전략"],
+      "source": "https://www.asiatoday.co.kr/kn/view.php?key=20260807010002411"
+    },
+    {
+      "title": "구글x BTS, 라스베이거스 스피어 뒤덮다 — 제미나이, K팝 앞세워 대중 인지도 확보 나서",
+      "company": "Google",
+      "importance": 1,
+      "role_tags": ["마케팅"],
+      "source": "http://www.newsian.co.kr/news/articleView.html?idxno=93429"
+    }
+  ],
+  "watchlist": [
+    "\"AI 사로잡는 GEO(생성형엔진최적화)\" 언급 지속되지만 어제 대비 화제성 급감 — 유통업계 대형 캠페인은 잠잠",
+    "구글, 인도 1GW 데이터센터 건설 추진 — 물·야생동물 훼손 논란에 환경소송 직면",
+    "\"AI 에이전트 수가 세계 인구보다 많아진다\" 전망 확산 — 메모리 반도체 가격 책정 기준 변화 논의 촉발",
+    "큐원3.8-맥스, 벤치마크 대비 경쟁력 논란 — AI 모델 도입 시 '숨은 비용' 주의보",
+    "금투협, 챗GPT·파이썬 활용 금융 실무교육 과정 신설 — 기업 AI 리터러시 교육 확산 지속"
+  ],
+  "noise_notes": {
+    "OpenAI": "222건 중 상당수가 어도비 통합 뉴스의 매체별 재배포(39개 매체), 금투협 챗GPT 활용 금융교육 과정 홍보, 지자체 학습동아리 지원 보도자료에 '챗GPT'·'GPT' 키워드만 우연히 포함된 경우",
+    "Google": "108건 중 BTS-제미나이 스피어 마케팅(18개 매체), 브린 복귀(12개 매체), LG엑사원 벤치마크 보도(구글이 비교 대상으로만 언급)가 매체 수를 크게 부풀림",
+    "국내": "83건 중 네이버 2분기 실적 발표 재배포가 65개 매체로 절대다수, 실제 신규 정보는 소수",
+    "Meta": "12건 중 다수가 서울데이터랩 증시시황 기사에서 'AI' 테마주 목록에 메타 관련 종목이 언급된 형태로 실질 정보 적음",
+    "Anthropic": "9건으로 절대 수는 적지만 클로드 페이블5 안전장치 개선, 미토스 쇼크 후속 분석 등 실질 정보 비중이 높은 편",
+    "미분류": "414건(전체의 약 49%) 중 대다수가 지자체 AI교육·행정 홍보, 오늘의 운세, 코스피·코스닥 시황, 팔란티어 커버드콜 ETF 관련 기사 등 생성형AI 기업과 무관하게 '생성형AI'·'LLM'·'GPT' 키워드만 우연히 포함된 사례로 판단돼 억지 재분류하지 않고 기타로 유지"
+  }
+}
