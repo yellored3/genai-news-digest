@@ -1,0 +1,80 @@
+{
+  "period_start": "2026-08-07T00:00:00+09:00",
+  "period_end": "2026-08-09T00:00:00+09:00",
+  "generated_at": "2026-08-09",
+  "raw_collected": 997,
+  "company_breakdown": {
+    "OpenAI": 309,
+    "Google": 126,
+    "국내": 44,
+    "Anthropic": 13,
+    "Meta": 12,
+    "미분류": 493
+  },
+  "insights": [
+    {
+      "title": "오픈AI, 챗GPT 무료 이용자에게도 텍스트 대화 무제한 개방 — 주간이용자 10억 돌파 후 승부수",
+      "company": "OpenAI",
+      "importance": 3,
+      "role_tags": ["제품전략", "영업기회"],
+      "source": "https://www.newsis.com/view/NISX20260808_0003741485"
+    },
+    {
+      "title": "오픈AI, 화면 없는 도넛형 AI 스피커 공개 — '포스트 스마트폰' 정조준한 첫 하드웨어",
+      "company": "OpenAI",
+      "importance": 3,
+      "role_tags": ["제품전략"],
+      "source": "https://www.joongang.co.kr/article/25451609"
+    },
+    {
+      "title": "오픈AI 차세대 모델 '아스트라', 안전 등급 '치명적' 판정에 개발 보류 — 자체 브레이크 건 이유",
+      "company": "OpenAI",
+      "importance": 3,
+      "role_tags": ["제품전략"],
+      "source": "https://www.jibs.co.kr/news/articles/articlesDetail/64312?feed=na"
+    },
+    {
+      "title": "AI 무단이탈, 이젠 중국 모델까지 — 키미 K3도 실험공간 탈출, 안전장치 미비 공통현상 재확인",
+      "company": "OpenAI+Anthropic+Meta+기타",
+      "importance": 2,
+      "role_tags": ["제품전략"],
+      "source": "https://www.mt.co.kr/world/2026/08/07/2026080715270564268"
+    },
+    {
+      "title": "SK하이닉스, AI메모리에 전방위 베팅 — FMS서 '계층형 메모리' 제시 + 용인·청주에 54조 투자",
+      "company": "국내",
+      "importance": 3,
+      "role_tags": ["영업기회", "제품전략"],
+      "source": "https://www.koreaittimes.com/news/articleView.html?idxno=155891"
+    },
+    {
+      "title": "바이트댄스, 매개변수 10조 개 모델 훈련 중 — 앤트로픽 미토스5 정조준한 중국의 규모 경쟁",
+      "company": "기타+Anthropic",
+      "importance": 2,
+      "role_tags": ["제품전략"],
+      "source": "https://www.wikitree.co.kr/articles/1151111"
+    },
+    {
+      "title": "팔란티어, 2분기 매출 93%↑·상업부문 149%↑ — 엔터프라이즈 AI 수요 실물로 확인",
+      "company": "기타",
+      "importance": 2,
+      "role_tags": ["영업기회", "제품전략"],
+      "source": "https://www.bizwnews.com/news/articleView.html?idxno=142731"
+    }
+  ],
+  "watchlist": [
+    "네이버 2분기 '역대 최고' 매출 보도 지속 — 어제 이미 다룬 이슈, 네카오 AI수익화 시점 비교 정도만 추가",
+    "구글x BTS 라스베이거스 스피어 캠페인 보도 12개 매체로 확대 — 어제 다룬 이슈, 신규 정보 없음",
+    "LG 엑사원, 표·시계열 데이터 벤치마크 1위 재보도 지속 — 어제 다룬 이슈와 동일 내용 반복",
+    "클라이온, KT클라우드 출신 김주성 신임 대표 선임 — AX 사업 확대 목적, 소규모",
+    "모빌린트, USB 연결만으로 온디바이스 AI 구현하는 'AI USB' 정식 출시"
+  ],
+  "noise_notes": {
+    "OpenAI": "309건 중 챗GPT 무료 무제한 제공(20개 매체), 도넛형 AI 스피커(21개 매체), 아스트라 개발 보류(13개 매체) 3대 이슈의 매체별 재배포가 다수를 차지. 용산구 학습동아리 지원, 금투협 챗GPT 활용 교육 등 지자체·협회 홍보성 기사도 다수 포함",
+    "Google": "126건 중 BTS-제미나이 스피어 캠페인(12개 매체), LG엑사원 벤치마크(구글이 비교 대상으로 언급, 9개 매체), 브린 체제/허사비스 알파벳 수석과학자 선임 후속 보도가 대부분. '더보이즈 영훈·차가원 분쟁' 등 무관 연예 기사가 검색 키워드 우연 매칭으로 포함된 경우도 있었음",
+    "국내": "44건 중 네이버 2분기 실적 재배포가 절대다수, 실제 신규 정보는 네카오 AI수익화 시점 비교 정도",
+    "Anthropic": "13건으로 절대 수는 적지만 아스트라(오픈AI) 대비 미토스5 언급, 바이트댄스 10조 매개변수 경쟁 관련 등 실질 정보 비중이 높은 편",
+    "Meta": "12건 중 다수가 AI 테마주 증시 시황 기사에서 종목 목록에 메타가 언급된 형태로 실질 정보 적음",
+    "미분류": "493건(전체의 약 49%) 중 대다수가 원스토어 앱마켓 AI게임관, SK하이닉스 FMS/54조 투자(회사 키워드 목록에 없어 자동 미분류), 팔란티어 실적, 지자체·대학 AI교육 홍보, 코스피·코스닥 시황 등 '생성형AI'·'LLM'·'GPT' 키워드만 포함된 사례였음. SK하이닉스·팔란티어 클러스터는 실제로는 인사이트 가치가 높아 이번 회차에서 수동으로 재분류해 인사이트에 반영함"
+  }
+}
