@@ -1,0 +1,77 @@
+{
+  "period_start": "2026-08-12T00:00:00+09:00",
+  "period_end": "2026-08-13T00:00:00+09:00",
+  "generated_at": "2026-08-13",
+  "raw_collected": 1081,
+  "company_breakdown": {
+    "OpenAI": 389,
+    "Google": 130,
+    "Anthropic": 30,
+    "국내": 12,
+    "Meta": 7,
+    "미분류": 513
+  },
+  "insights": [
+    {
+      "title": "현대차·BNK·NH농협·한진, 생성형 AI '전사 표준업무'로 일제히 전환 — 파일럿 시대의 종료",
+      "company": "국내(현대차·BNK금융·NH농협은행·한진)",
+      "importance": 5,
+      "role_tags": ["영업기회", "제품전략"],
+      "source": "https://www.thepublic.kr/news/articleView.html?idxno=314786"
+    },
+    {
+      "title": "오픈AI, IPO 앞두고 COO·제품리더·AI윤리책임자까지 연쇄 이탈 — 후임자 없는 공백 다수",
+      "company": "OpenAI",
+      "importance": 4,
+      "role_tags": ["영업기회", "제품전략"],
+      "source": "https://www.aitimes.com/news/articleView.html?idxno=213832"
+    },
+    {
+      "title": "제미나이 MAU 10억 돌파 + 국내 앱 첫 네이버 추월 — 유통력이 만든 구글의 확산 속도",
+      "company": "Google",
+      "importance": 4,
+      "role_tags": ["제품전략", "마케팅"],
+      "source": "https://www.news1.kr/world/usa-canada/6257139"
+    },
+    {
+      "title": "앤스로픽, 클로드 전 모델에 비가시적 워터마크 적용 — EU AI법이 만든 글로벌 표준화 압력",
+      "company": "Anthropic",
+      "importance": 4,
+      "role_tags": ["제품전략"],
+      "source": "https://www.kmib.co.kr/article/view.asp?arcid=9000002611&cp=nv"
+    },
+    {
+      "title": "엔비디아, 경량 AI모델 '네모트론 3.5' 무료 공개 — 모델은 공짜로 풀고 GPU 수요는 지킨다",
+      "company": "기타(엔비디아)",
+      "importance": 3,
+      "role_tags": ["제품전략"],
+      "source": "https://www.industrynews.co.kr/news/articleView.html?idxno=84354"
+    },
+    {
+      "title": "AWS '아마존 퀵', 국내 SI파트너 통해 공급 확대 — '답변하는 AI'에서 '일하는 AI'로",
+      "company": "기타(AWS/메가존클라우드)",
+      "importance": 3,
+      "role_tags": ["제품전략", "영업기회"],
+      "source": "https://news.mtn.co.kr/news-detail/2026081216043999506"
+    },
+    {
+      "title": "코난테크놀로지·웹케시·클루커스, 국내 B2B 에이전틱 AI 플랫폼 동시 출시 — 재판매를 넘어 자체 브랜드 경쟁으로",
+      "company": "국내(코난테크놀로지·웹케시·클루커스)",
+      "importance": 3,
+      "role_tags": ["제품전략", "마케팅"],
+      "source": "https://n.news.naver.com/mnews/article/029/0003042116?sid=105"
+    }
+  ],
+  "watchlist": [
+    "다나와, 생성형 AI발 유입 트래픽 1년새 119% 증가 — 가격비교 서비스가 AI쇼핑 관문으로 부상 중이나 단일업체 이슈라 인사이트 승격은 보류",
+    "챗GPT·제미나이 국내 이용경험률 1·2위(41.8%/9.8%, 외산 합계 53.8%) — 제미나이 인사이트에 배경 데이터로 흡수, 별도 인사이트로는 미승격",
+    "앤스로픽·오픈AI·딥시크·문샷AI IPO 동시 추진 — 오픈AI 임원이탈 인사이트에 배경으로 흡수",
+    "구글 앱 국내 MAU 네이버 첫 추월(4,702만 vs 4,684만) — 제미나이 인사이트에 통합, DAU 기준은 네이버가 여전히 우세",
+    "어제(8/11) 다룬 김수키 해킹·서울시 AI구독지원·신원 챗GPT엔터프라이즈·클레온 IPO 등은 오늘 후속보도 없음 — 화제성 소진으로 판단",
+    "어제 watchlist였던 오픈AI '아스트라' 중단, GPT-5.6 'Luna' 무료개방, 구글 '브린 체제', AI모델 '대탈주'는 오늘 관련 기사 0건 — 완전히 소멸된 이슈로 재분류"
+  ],
+  "noise_notes": {
+    "OpenAI": "389건 중 다수가 '챗GPT/GPT' 문자열의 단순 언급(제품 비교·일반 IT 기사 인용)으로, 오픈AI 자체 뉴스는 임원이탈·리눅스앱 출시·IPO 경쟁·클루커스 파트너십 등 상위 클러스터로 걸러 반영.",
+    "미분류": "513건(약 47%) 중 상당수는 국내 대기업 개별 AX 사례(현대차·BNK·NH농협·한진·LG CNS·LG유플러스·삼성SDS·다나와·서울우유 등)로, 서브에이전트가 title/description 기반으로 재분류해 클러스터에 반영했다. 나머지는 '생성형AI'가 산업 전반의 배경 키워드로만 등장한 산업뉴스(영남이공대 실습교육, 반크 가짜뉴스 추적, 한싹 총판계약, 통신3사 결합상품 등)로 인사이트 승격에서 제외."
+  }
+}
