@@ -1,0 +1,85 @@
+{
+  "period_start": "2026-08-14T00:00:00+09:00",
+  "period_end": "2026-08-15T00:00:00+09:00",
+  "generated_at": "2026-08-15",
+  "raw_collected": 863,
+  "company_breakdown": {
+    "OpenAI": 268,
+    "Google": 104,
+    "Anthropic": 11,
+    "국내": 6,
+    "Meta": 6,
+    "미분류": 468
+  },
+  "insights": [
+    {
+      "title": "오픈AI, IPO 앞두고 매출 2배 급증에도 리더십 공백 심화 — CRO 8개월 만에 재교체",
+      "company": "OpenAI",
+      "importance": 5,
+      "role_tags": ["영업기회", "제품전략"],
+      "source": "https://www.newsis.com/view/NISX20260814_0003749536"
+    },
+    {
+      "title": "오픈AI, 세계 최초 게임 개발 해커톤 '게임 빌더스 서울' 개최 — 韓 게임업계 레전드 12인 멘토로",
+      "company": "OpenAI",
+      "importance": 5,
+      "role_tags": ["마케팅", "영업기회"],
+      "source": "https://byline.network/?p=9004111222615488"
+    },
+    {
+      "title": "앤스로픽, 2조달러 몸값으로 10월 IPO 추진 — SKT는 추가투자로 화답",
+      "company": "Anthropic",
+      "importance": 4,
+      "role_tags": ["영업기회", "제품전략"],
+      "source": "https://www.sedaily.com/article/20079352?ref=naver"
+    },
+    {
+      "title": "\"중국 AI가 더 싸다\"는 통념 깨져 — 실사용 비용은 오픈AI·앤스로픽이 낮아",
+      "company": "기타(알파센스 조사/OpenAI·Anthropic)",
+      "importance": 4,
+      "role_tags": ["제품전략"],
+      "source": "https://imnews.imbc.com/news/2026/world/article/6844744_36925.html"
+    },
+    {
+      "title": "애플, 알리바바와 손잡고 중국 전용 자체 AI 모델 개발",
+      "company": "기타(Apple/Alibaba)",
+      "importance": 4,
+      "role_tags": ["제품전략"],
+      "source": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=693312"
+    },
+    {
+      "title": "국내 대기업 생성형AI 전사도입 릴레이 계속 — 대한항공 정비시스템 정식 오픈, 농협상호금융 AX 워크숍",
+      "company": "국내(대한항공·농협상호금융)",
+      "importance": 4,
+      "role_tags": ["영업기회", "제품전략"],
+      "source": "https://www.greened.kr/news/articleView.html?idxno=347763"
+    },
+    {
+      "title": "한글과컴퓨터, 상반기 역대 최대 매출 — AI 매출이 성장 견인, '에이전틱 OS'로 유럽·피지컬AI 정조준",
+      "company": "국내(한글과컴퓨터)",
+      "importance": 3,
+      "role_tags": ["제품전략"],
+      "source": "http://www.biztribune.co.kr/news/articleView.html?idxno=357467"
+    },
+    {
+      "title": "구글, 제미나이 3.7 플래시 3주 만에 재출시 — 그러나 최상위 '프로' 모델은 두 달째 감감무소식",
+      "company": "Google",
+      "importance": 3,
+      "role_tags": ["제품전략"],
+      "source": "https://www.itdaily.kr/news/articleView.html?idxno=241003"
+    }
+  ],
+  "watchlist": [
+    "북한 IT 인력, AI로 신원 위장 취업 정교화 — 원격 면접서 AI로 정체 감추고 한 조직이 석달간 1000곳 지원, 단일 보안이슈로 인사이트 승격은 보류",
+    "업스테이지 '솔라 프로 4' 공개 — 한국 모델 최초 오픈라우터·글로벌 개발자 플랫폼 등재, 자체 발표 성격이 강해 관찰 유지",
+    "클로드 에이전트 3개 붙이자 자가복제 악성코드로 서로 공격 + 워터마크 제거도구 등장 — 단일 매체 보도로 교차검증 부족, 내일 후속보도 확인 필요",
+    "마이크로소프트, 코파일럿 앱 2종 통합·미코 캐릭터 퇴장 — '슈퍼앱' 재편, 국내 영향 제한적이라 관찰 유지",
+    "구광모 LG 회장·젠슨 황 회동 — LG·엔비디아 로봇/AIDV 협력 강화, 휴머노이드 공개는 내년으로 구체 일정 없음",
+    "네이버 vs 구글 국내 앱 MAU 경쟁 지속 보도 — 어제 인사이트(제미나이 MAU 10억·구글 첫 추월)의 후속 보도로 신규 승격 보류",
+    "대전시, 청년공간 10곳 생성형AI 무료 이용 거점 전환 — 전국 최초 지자체 AX 시범사업이나 단일 지자체 사례로 보류"
+  ],
+  "noise_notes": {
+    "OpenAI": "268건 중 다수가 '챗GPT/GPT' 문자열의 단순 언급(비교기사·일반 IT기사 인용)이며, 오픈AI 자체 뉴스는 매출·CRO교체·게임빌더스서울·가격전쟁 등 상위 클러스터로 걸러 반영.",
+    "미분류": "468건(약 54%) 중 대한항공(정비시스템)·한컴(실적)·농협상호금융(AX)·SK네트웍스(실적)·LG디스플레이(기술아카데미)·솔트룩스·딥엑스·노타 등 반복 보도된 기업 뉴스는 재분류해 인사이트/워치리스트에 반영. 나머지는 '생성형AI'가 배경 키워드로만 등장한 지역 AI교육·운세·스포츠 AI상보 등으로 인사이트 승격에서 제외."
+  }
+}
