@@ -1,0 +1,62 @@
+{
+  "period_start": "2026-08-14T00:00:00+09:00",
+  "period_end": "2026-08-17T00:00:00+09:00",
+  "generated_at": "2026-08-17",
+  "raw_collected": 1139,
+  "company_breakdown": {
+    "OpenAI": 406,
+    "Google": 153,
+    "Anthropic": 34,
+    "국내": 8,
+    "Meta": 4,
+    "미분류": 515
+  },
+  "insights": [
+    {
+      "title": "\"AI 쓸수록 손해\"…비용 통제 실패로 2028년 기업 20% \"AI 도입 중단\" 전망",
+      "company": "기타(산업 전반)",
+      "importance": 5,
+      "role_tags": [
+        "제품전략"
+      ],
+      "source": "https://www.yna.co.kr/view/AKR20260814121300017?input=1195m"
+    },
+    {
+      "title": "AI 가격전쟁 본격화 — 오픈AI·앤트로픽 파격 인하가 오히려 매출 급증으로 이어져",
+      "company": "OpenAI/Anthropic",
+      "importance": 4,
+      "role_tags": [
+        "제품전략",
+        "영업기회"
+      ],
+      "source": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=693487"
+    },
+    {
+      "title": "북한, 한국 대상 해킹 13.8%↑로 표적 1위 — AI·딥페이크로 채용·개발자 공급망까지 침투",
+      "company": "기타(보안/북한)",
+      "importance": 4,
+      "role_tags": [
+        "제품전략"
+      ],
+      "source": "https://www.kukinews.com/article/view/kuk202608160018"
+    },
+    {
+      "title": "'국가대표 AI' 독파모 2차 평가, 이중 기준 논란 — 모티프 이변 뒤엔 규칙 시비",
+      "company": "국내(모티프/업스테이지/SKT/LG AI연구원)",
+      "importance": 3,
+      "role_tags": [
+        "제품전략"
+      ],
+      "source": "https://www.hani.co.kr/arti/economy/it/1273123.html"
+    },
+    {
+      "title": "구글 검색, '샘 올트먼 사망' 오보 확산 — 위키피디아 훼손이 AI 지식패널까지 오염",
+      "company": "Google",
+      "importance": 3,
+      "role_tags": [
+        "마케팅"
+      ],
+      "source": "https://www.sedaily.com/article/20079021?ref=naver"
+    }
+  ]
+}
