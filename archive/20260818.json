@@ -1,0 +1,101 @@
+{
+  "period_start": "2026-08-14T00:00:00+09:00",
+  "period_end": "2026-08-18T00:00:00+09:00",
+  "generated_at": "2026-08-18",
+  "raw_collected": 1299,
+  "company_breakdown": {
+    "기타": 551,
+    "Google": 188,
+    "Anthropic": 53,
+    "OpenAI": 468,
+    "국내": 8,
+    "Meta": 4
+  },
+  "insights": [
+    {
+      "title": "오픈AI 연매출 400억달러·앤스로픽 첫 흑자 — AI 빅2 IPO 레이스 본격화",
+      "company": "OpenAI/Anthropic",
+      "importance": 5,
+      "role_tags": [
+        "제품전략",
+        "영업기회"
+      ],
+      "source": "https://www.edaily.co.kr/news/newspath.asp?newsid=03178326645547320"
+    },
+    {
+      "title": "스페이스X, 오픈AI가 놓친 '커서' 85조원에 인수 — 코딩AI, 우주로 간다",
+      "company": "기타(xAI/스페이스X, OpenAI 비교)",
+      "importance": 4,
+      "role_tags": [
+        "제품전략"
+      ],
+      "source": "https://www.dt.co.kr/article/12078359?ref=naver"
+    },
+    {
+      "title": "구글, 3주 만에 또 '제미나이 플래시' — 플래그십 공백 속 톱티어 경쟁서 밀려",
+      "company": "Google",
+      "importance": 4,
+      "role_tags": [
+        "제품전략"
+      ],
+      "source": "https://www.khan.co.kr/article/202608141021001"
+    },
+    {
+      "title": "챗GPT에 살해 계획 적었다가 체포 — 오픈AI 위험대화 탐지, FBI 공조로 실제 작동",
+      "company": "OpenAI",
+      "importance": 4,
+      "role_tags": [
+        "제품전략"
+      ],
+      "source": "https://www.insight.co.kr/news/568435"
+    },
+    {
+      "title": "딥시크, 프로모션 요금 깨고 API값 최대 4.7배 인상 — 中 AI 저가출혈 경쟁 균열",
+      "company": "기타(DeepSeek)",
+      "importance": 3,
+      "role_tags": [
+        "제품전략",
+        "영업기회"
+      ],
+      "source": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=693384"
+    },
+    {
+      "title": "애플, 알리바바와 손잡고 중국 전용 AI 자체 개발 — 美中 AI 이중생태계 심화",
+      "company": "기타(Apple/Alibaba, OpenAI·Anthropic 비교)",
+      "importance": 4,
+      "role_tags": [
+        "제품전략"
+      ],
+      "source": "https://www.aitimes.com/news/articleView.html?idxno=213966"
+    },
+    {
+      "title": "대전시, 전국 최초 청년공간 AI 무료 거점 — 공공부문 AI 접근성 격차 해소 시동",
+      "company": "기타(대전시·공공부문)",
+      "importance": 3,
+      "role_tags": [
+        "영업기회",
+        "마케팅"
+      ],
+      "source": "https://www.etnews.com/20260813000210"
+    },
+    {
+      "title": "업스테이지 '솔라 프로 4', 한국 모델 최초 글로벌 개발자 플랫폼 등재",
+      "company": "국내(업스테이지)",
+      "importance": 4,
+      "role_tags": [
+        "제품전략",
+        "영업기회"
+      ],
+      "source": "https://www.aitimes.kr/news/articleView.html?idxno=41450"
+    },
+    {
+      "title": "북한 IT 위장취업 조직, AI로 3개월 만에 1000곳 지원 — 채용 사기 자동화 확산 (낮은 확신도)",
+      "company": "기타(보안/북한)",
+      "importance": 3,
+      "role_tags": [
+        "제품전략"
+      ],
+      "source": "https://www.news1.kr/world/usa-canada/6258776"
+    }
+  ]
+}
