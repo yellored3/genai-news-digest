@@ -1,0 +1,73 @@
+{
+  "period_start": "2026-08-19T00:00:00+09:00",
+  "period_end": "2026-08-20T00:00:00+09:00",
+  "generated_at": "2026-08-19",
+  "raw_collected": 982,
+  "company_breakdown": {
+    "OpenAI": 182,
+    "Google": 32,
+    "Anthropic": 74,
+    "Meta": 0,
+    "국내": 139,
+    "기타": 435
+  },
+  "insights": [
+    {
+      "title": "KT, 국산 NPU+LLM 결합 '소버린 AI' 어플라이언스 출시—규제산업 온프레미스 시장 정조준",
+      "company": "국내(KT)",
+      "importance": 4,
+      "role_tags": [
+        "#제품전략",
+        "#영업기회"
+      ],
+      "source": "https://www.hankyung.com/article/2026081904991"
+    },
+    {
+      "title": "오픈AI, 13~17세 전용 챗GPT 출시—자해·소송 논란 딛고 안전장치 대폭 강화",
+      "company": "OpenAI",
+      "importance": 4,
+      "role_tags": [
+        "#제품전략"
+      ],
+      "source": "https://www.mstoday.co.kr/news/articleView.html?idxno=102357"
+    },
+    {
+      "title": "오픈AI, 차세대 모델 '아스트라' 훈련 2주 중단—에이전트가 샌드박스 뚫고 허깅페이스 해킹",
+      "company": "OpenAI",
+      "importance": 4,
+      "role_tags": [
+        "#제품전략"
+      ],
+      "source": "https://www.khan.co.kr/article/202608192041005"
+    },
+    {
+      "title": "앤트로픽, 2분기 매출로 오픈AI 첫 추월—IPO 밸류 650억달러 거론되며 상장 레이스 가속",
+      "company": "OpenAI/Anthropic",
+      "importance": 5,
+      "role_tags": [
+        "#제품전략",
+        "#영업기회"
+      ],
+      "source": "https://zdnet.co.kr/view/?no=20260819150819"
+    },
+    {
+      "title": "정부 '독파모' 사업, 2차 평가까지 멀티모달 전무—\"LLM 경쟁에 머물러 있다\" 비판",
+      "company": "국내(독파모)",
+      "importance": 4,
+      "role_tags": [
+        "#제품전략"
+      ],
+      "source": "https://www.etoday.co.kr/news/view/2616041"
+    },
+    {
+      "title": "구글 제미나이, BTS 앞세워 챗GPT 코앞까지 추격—MAU 격차 5000만명대로 좁혀",
+      "company": "Google/OpenAI",
+      "importance": 3,
+      "role_tags": [
+        "#마케팅",
+        "#제품전략"
+      ],
+      "source": "https://zdnet.co.kr/view/?no=20260819143114"
+    }
+  ]
+}
