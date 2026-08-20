@@ -1,0 +1,75 @@
+{
+    "period_start": "2026-08-20T00:00:00+09:00",
+    "period_end": "2026-08-21T00:00:00+09:00",
+    "generated_at": "2026-08-20",
+    "raw_collected": 944,
+    "company_breakdown": {
+        "OpenAI": 245,
+        "Google": 68,
+        "Anthropic": 22,
+        "Meta": 10,
+        "국내": 16,
+        "기타": 583
+    },
+    "insights": [
+        {
+            "title": "오픈AI '챗GPT 워크'·코덱스 주간 이용자 1000만 돌파—\"클로드→코덱스 이동\" 주장은 정량 근거 없어",
+            "company": "OpenAI/Anthropic",
+            "importance": 4,
+            "role_tags": [
+                "#제품전략",
+                "#영업기회"
+            ],
+            "source": "https://www.mt.co.kr/tech/2026/08/20/2026082010064817622"
+        },
+        {
+            "title": "오픈AI, \"2027년 상장\" 공식화—\"앤트로픽 선행 상장에도 우리는 우리 레이스\"",
+            "company": "OpenAI/Anthropic",
+            "importance": 4,
+            "role_tags": [
+                "#영업기회",
+                "#제품전략"
+            ],
+            "source": "https://www.edaily.co.kr/news/newspath.asp?newsid=01610486645549288"
+        },
+        {
+            "title": "오픈AI·구글, 청소년 모드에서 '감정 표현' 동시 제거—AI 의존 논란에 업계 표준 가드레일 수렴",
+            "company": "OpenAI/Google",
+            "importance": 4,
+            "role_tags": [
+                "#제품전략"
+            ],
+            "source": "https://www.viva100.com/article/20260819501122"
+        },
+        {
+            "title": "앤트로픽 클로드, 지메일 '자동발송' 옵션 추가—생산성 확대와 오작동 리스크 동시 부상",
+            "company": "Anthropic",
+            "importance": 4,
+            "role_tags": [
+                "#제품전략",
+                "#영업기회"
+            ],
+            "source": "https://www.aitimes.com/news/articleView.html?idxno=214171"
+        },
+        {
+            "title": "국내 금융권, AI 엔진 자체개발 대신 외산 독점 도입—메리츠증권·위불 'Vega AI' 손잡아",
+            "company": "국내(메리츠증권)/Google",
+            "importance": 3,
+            "role_tags": [
+                "#영업기회",
+                "#제품전략"
+            ],
+            "source": "https://www.gokorea.kr/news/articleView.html?idxno=875746"
+        },
+        {
+            "title": "구글 제미나이, 개학 시즌 앞두고 무료 공세로 학생 시장 정조준",
+            "company": "Google",
+            "importance": 3,
+            "role_tags": [
+                "#마케팅",
+                "#영업기회"
+            ],
+            "source": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=694315"
+        }
+    ]
+}
