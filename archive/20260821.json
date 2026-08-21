@@ -1,0 +1,65 @@
+{
+    "period_start": "2026-08-21T00:00:00+09:00",
+    "period_end": "2026-08-22T00:00:00+09:00",
+    "generated_at": "2026-08-21",
+    "raw_collected": 860,
+    "company_breakdown": {
+        "OpenAI": 237,
+        "Google": 92,
+        "Anthropic": 20,
+        "Meta": 10,
+        "국내": 28,
+        "기타": 473
+    },
+    "insights": [
+        {
+            "title": "앤트로픽, 목표 기업가치 2조달러 IPO 서류 8월 말 제출—오픈AI는 '2027년 완주' 선언대로 올해 상장 보류",
+            "company": "Anthropic/OpenAI",
+            "importance": 4,
+            "role_tags": [
+                "#영업기회",
+                "#제품전략"
+            ],
+            "source": "https://www.sedaily.com/article/20081982?ref=naver"
+        },
+        {
+            "title": "카카오, AI·플랫폼 인적분할 단행—'카카오AI' 6조·'카카오X' 10조, 대형 LLM 대신 온디바이스·라우팅 전략",
+            "company": "국내(카카오)",
+            "importance": 4,
+            "role_tags": [
+                "#제품전략",
+                "#영업기회"
+            ],
+            "source": "http://www.segyebiz.com/newsView/20260821505367?OutUrl=naver"
+        },
+        {
+            "title": "챗GPT, 맥에서 아이메시지·SMS 자동 응답—애플 프라이버시 정책과 정면 충돌, 클로드 지메일 자동발송과 닮은꼴",
+            "company": "OpenAI",
+            "importance": 4,
+            "role_tags": [
+                "#제품전략"
+            ],
+            "source": "https://www.etnews.com/20260821000004"
+        },
+        {
+            "title": "구글, 대학생에 제미나이 1년 무료+AI프로 74% 할인—어제 예고했던 '개학 시즌 무료 공세'가 숫자로 구체화",
+            "company": "Google",
+            "importance": 3,
+            "role_tags": [
+                "#마케팅",
+                "#영업기회"
+            ],
+            "source": "https://www.edaily.co.kr/News/Read?newsId=02748646645549616&mediaCodeNo=257"
+        },
+        {
+            "title": "Z세대 AI 상담사 시대—AI가 상담 대상 2위(26%)로 가족(18%) 제쳐, 빅테크가 '감정 가드레일' 서두른 이유를 보여주는 실사용 데이터",
+            "company": "기타",
+            "importance": 3,
+            "role_tags": [
+                "#제품전략",
+                "#마케팅"
+            ],
+            "source": "https://www.job-post.co.kr/news/articleView.html?idxno=224661"
+        }
+    ]
+}
