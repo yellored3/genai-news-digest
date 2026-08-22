@@ -1,0 +1,65 @@
+{
+    "period_start": "2026-08-21T00:00:00+09:00",
+    "period_end": "2026-08-23T00:00:00+09:00",
+    "generated_at": "2026-08-23",
+    "raw_collected": 1026,
+    "company_breakdown": {
+        "OpenAI": 315,
+        "Google": 109,
+        "Anthropic": 32,
+        "Meta": 10,
+        "국내": 32,
+        "기타": 528
+    },
+    "insights": [
+        {
+            "title": "앤트로픽, 2분기 매출 14.6배 급증 공개—오픈AI 앞선 밸류로 스페이스X 넘는 사상 최대 IPO 노린다",
+            "company": "Anthropic/OpenAI",
+            "importance": 4,
+            "role_tags": [
+                "#영업기회",
+                "#제품전략"
+            ],
+            "source": "https://www.mt.co.kr/world/2026/08/22/2026082216095693847"
+        },
+        {
+            "title": "앤트로픽, 클로드 전용 자체 AI칩 설계팀 신설—엔비디아 의존도 낮추기 시동",
+            "company": "Anthropic",
+            "importance": 3,
+            "role_tags": [
+                "#제품전략"
+            ],
+            "source": "https://www.tokenpost.kr/news/cryptocurrency/395378"
+        },
+        {
+            "title": "네이버, 업계 최초로 개인 창작자에 AI 인용 보상금 월 최대 1000만원 지급",
+            "company": "국내(네이버)",
+            "importance": 3,
+            "role_tags": [
+                "#마케팅",
+                "#제품전략"
+            ],
+            "source": "https://economist.co.kr/article/view/ecn202608210026"
+        },
+        {
+            "title": "챗GPT발 청소년 안전사고 재발—매사추세츠 살해사건과 별개로 플로리다는 '공공위해요소' 지정 소송 추진",
+            "company": "OpenAI",
+            "importance": 5,
+            "role_tags": [
+                "#제품전략",
+                "#영업기회"
+            ],
+            "source": "https://www.aitimes.com/news/articleView.html?idxno=214246"
+        },
+        {
+            "title": "오픈AI 코덱스, 20일 만에 500만명 급증해 2000만 돌파—최상위 모델까지 가격 인하하며 앤트로픽과 정면승부",
+            "company": "OpenAI",
+            "importance": 3,
+            "role_tags": [
+                "#제품전략",
+                "#영업기회"
+            ],
+            "source": "https://www.aitimes.com/news/articleView.html?idxno=214240"
+        }
+    ]
+}
