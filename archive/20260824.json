@@ -1,0 +1,84 @@
+{
+    "period_start": "2026-08-21T00:00:00+09:00",
+    "period_end": "2026-08-24T00:00:00+09:00",
+    "generated_at": "2026-08-24",
+    "raw_collected": 1185,
+    "company_breakdown": {
+        "OpenAI": 393,
+        "Google": 171,
+        "Anthropic": 42,
+        "Meta": 5,
+        "국내": 127,
+        "기타": 447
+    },
+    "insights": [
+        {
+            "title": "앤트로픽, 2조달러 IPO 눈앞—매출 실체는 확인됐지만 '인프라 덫'이라는 새 반론 등장",
+            "company": "Anthropic",
+            "importance": 5,
+            "role_tags": [
+                "#영업기회",
+                "#제품전략"
+            ],
+            "source": "https://www.mt.co.kr/world/2026/08/22/2026082216095693847"
+        },
+        {
+            "title": "카카오, '인적분할' 이사회 결의로 실행 단계 돌입—카카오AI 매출 6조·챗GPT 협업 1300만명",
+            "company": "국내",
+            "importance": 4,
+            "role_tags": [
+                "#영업기회",
+                "#제품전략"
+            ],
+            "source": "http://www.thebigdata.co.kr/view.php?ud=2026082110390925020a47484cf8_23"
+        },
+        {
+            "title": "AI 모델 '가격 수렴' 본격화—오픈AI 최상위 모델도 20%↓, 배경엔 그록4.6의 '5배 저렴한' 동급 성능",
+            "company": "OpenAI",
+            "importance": 4,
+            "role_tags": [
+                "#제품전략",
+                "#영업기회"
+            ],
+            "source": "https://www.khan.co.kr/article/202608231645001"
+        },
+        {
+            "title": "오픈AI는 훈련 멈추고 구글은 출시 미루고—안전성 문제가 처음으로 개발 속도에 제동",
+            "company": "OpenAI/Google",
+            "importance": 4,
+            "role_tags": [
+                "#제품전략"
+            ],
+            "source": "https://www.thepublic.kr/news/articleView.html?idxno=315806"
+        },
+        {
+            "title": "챗GPT발 청소년 안전 이슈, '나이 확인=개인정보 수집' 딜레마로 번지다",
+            "company": "OpenAI",
+            "importance": 3,
+            "role_tags": [
+                "#제품전략"
+            ],
+            "source": "https://view.asiae.co.kr/article/2026082111210364658"
+        },
+        {
+            "title": "네이버, 'AI 인용 보상'의 진짜 배경은 '제로클릭'—AI브리핑이 만든 창작자 트래픽 공백",
+            "company": "국내",
+            "importance": 3,
+            "role_tags": [
+                "#마케팅",
+                "#제품전략"
+            ],
+            "source": "https://www.mk.co.kr/article/12128090"
+        },
+        {
+            "title": "'모두의 AI'에 안 보이는 네이버—국가 AI 챗봇 사업, 통신3사+α 4파전으로",
+            "company": "국내",
+            "importance": 3,
+            "role_tags": [
+                "#영업기회",
+                "#제품전략"
+            ],
+            "source": "https://byline.network/?p=9004111222616013"
+        }
+    ]
+}
