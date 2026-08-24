@@ -1,0 +1,82 @@
+{
+    "period_start": "2026-08-24T00:00:00+09:00",
+    "period_end": "2026-08-25T00:00:00+09:00",
+    "generated_at": "2026-08-25",
+    "raw_collected": 775,
+    "company_breakdown": {
+        "OpenAI": 196,
+        "Google": 60,
+        "Anthropic": 28,
+        "Meta": 9,
+        "국내": 10,
+        "기타": 472
+    },
+    "insights": [
+        {
+            "title": "오픈AI, 자사 모델의 '허깅페이스 침해' 사고 후폭풍—규제 반대에서 강화 요구로 급선회",
+            "company": "OpenAI",
+            "importance": 5,
+            "role_tags": [
+                "#제품전략"
+            ],
+            "source": "https://www.etnews.com/20260824000012"
+        },
+        {
+            "title": "앤트로픽 IPO 밸류 2조달러 육박—데이터센터 지역반발, 첫 공식 리스크요인으로 명시",
+            "company": "Anthropic",
+            "importance": 5,
+            "role_tags": [
+                "#영업기회",
+                "#제품전략"
+            ],
+            "source": "http://www.inews24.com/view/1997648"
+        },
+        {
+            "title": "앤트로픽 최고가 모델 '페이블5', 출시 두 달째 지출 비중 11%대 정체—가격경쟁 파고, 앤트로픽까지 덮치다",
+            "company": "Anthropic",
+            "importance": 4,
+            "role_tags": [
+                "#제품전략",
+                "#영업기회"
+            ],
+            "source": "https://www.tokenpost.kr/news/cryptocurrency/396235"
+        },
+        {
+            "title": "허깅페이스, '오픈AI발 침해사고' 겪고도 몸값은 3배 폭등—130억달러 매각 추진",
+            "company": "OpenAI",
+            "importance": 3,
+            "role_tags": [
+                "#제품전략",
+                "#영업기회"
+            ],
+            "source": "https://www.safetimes.co.kr/news/articleView.html?idxno=245129"
+        },
+        {
+            "title": "퍼플렉시티, 엔비디아 추가 투자 논의—몸값 300억달러 이상 거론",
+            "company": "기타",
+            "importance": 3,
+            "role_tags": [
+                "#영업기회"
+            ],
+            "source": "https://www.mt.co.kr/tech/2026/08/24/2026082415230690773"
+        },
+        {
+            "title": "알리바바, 14조원 규모 유상증자로 AI 인프라·LLM 투자 확대",
+            "company": "기타",
+            "importance": 2,
+            "role_tags": [
+                "#영업기회"
+            ],
+            "source": "https://it.chosun.com/news/articleView.html?idxno=2023092168708"
+        },
+        {
+            "title": "중국 해킹조직 UAT-10147, AI 기반 도구로 웹서버 17만대 공격 자동화",
+            "company": "기타",
+            "importance": 2,
+            "role_tags": [
+                "#제품전략"
+            ],
+            "source": "https://www.dailysecu.com/news/articleView.html?idxno=208173"
+        }
+    ]
+}
