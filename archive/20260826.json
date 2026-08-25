@@ -1,0 +1,94 @@
+{
+    "period_start": "2026-08-25T00:00:00+09:00",
+    "period_end": "2026-08-26T00:00:00+09:00",
+    "generated_at": "2026-08-26",
+    "raw_collected": 817,
+    "company_breakdown": {
+        "OpenAI": 164,
+        "Google": 69,
+        "Anthropic": 14,
+        "Meta": 1,
+        "국내": 72,
+        "기타": 497
+    },
+    "insights": [
+        {
+            "title": "가성비 AI 경쟁 확산—클로드 오푸스5, 출시 한 달 만에 페이블5 추월",
+            "company": "Anthropic",
+            "importance": 5,
+            "role_tags": [
+                "#제품전략",
+                "#영업기회"
+            ],
+            "source": "https://www.kmib.co.kr/article/view.asp?arcid=9000005801&cp=nv"
+        },
+        {
+            "title": "중국 해커, 생성형 AI 총동원해 사이버공격 2배 폭증—왜 하필 '딥시크'인가",
+            "company": "기타",
+            "importance": 4,
+            "role_tags": [
+                "#제품전략"
+            ],
+            "source": "https://www.aitimes.com/news/articleView.html?idxno=214344"
+        },
+        {
+            "title": "'모두의 AI', 이통3사 국민 서비스 격돌—4개월 만에 국산 모델 띄울 수 있나",
+            "company": "국내",
+            "importance": 4,
+            "role_tags": [
+                "#영업기회",
+                "#제품전략"
+            ],
+            "source": "https://kpenews.com/View.aspx?No=4197688"
+        },
+        {
+            "title": "라이너, 500억 시리즈C 유치—국내 AI 스타트업, 사우디 AX 시장 진출",
+            "company": "국내",
+            "importance": 4,
+            "role_tags": [
+                "#영업기회",
+                "#제품전략"
+            ],
+            "source": "https://www.venturesquare.net/1108479/"
+        },
+        {
+            "title": "LS ITC×모티프테크놀로지스, '국가대표 AI' 제조현장 실증 나서—37개 매체 동시 보도",
+            "company": "국내",
+            "importance": 3,
+            "role_tags": [
+                "#제품전략"
+            ],
+            "source": "https://www.mt.co.kr/tech/2026/08/25/2026082511282587368"
+        },
+        {
+            "title": "LG유플러스 '유독 Pick', AI 구독 8종 확대—정작 유통은 구글·클로드",
+            "company": "국내",
+            "importance": 3,
+            "role_tags": [
+                "#마케팅",
+                "#영업기회"
+            ],
+            "source": "https://www.dt.co.kr/article/12080139?ref=naver"
+        },
+        {
+            "title": "안철수, 청년 생성형 AI 구독료 연 30만원 세액공제 법안 발의",
+            "company": "기타",
+            "importance": 3,
+            "role_tags": [
+                "#마케팅",
+                "#영업기회"
+            ],
+            "source": "https://www.ddaily.co.kr/page/view/2026082515000895761"
+        },
+        {
+            "title": "SK하이닉스 \"AI 메모리 병목 해소, 결국 '쌓는 것'\"—3D 적층 승부수",
+            "company": "기타",
+            "importance": 3,
+            "role_tags": [
+                "#제품전략",
+                "#영업기회"
+            ],
+            "source": "https://www.mt.co.kr/tech/2026/08/25/2026082511282587368"
+        }
+    ]
+}
