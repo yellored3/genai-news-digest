@@ -1,0 +1,110 @@
+{
+    "period_start": "2026-08-27T00:00:00+09:00",
+    "period_end": "2026-08-28T00:00:00+09:00",
+    "generated_at": "2026-08-28",
+    "raw_collected": 957,
+    "company_breakdown": {
+        "OpenAI": 278,
+        "Google": 73,
+        "Anthropic": 33,
+        "Meta": 7,
+        "국내": 37,
+        "기타": 529
+    },
+    "insights": [
+        {
+            "title": "앤트로픽, 매출로 오픈AI 첫 추월…IPO 9~10월 조준",
+            "company": "Anthropic",
+            "importance": 5,
+            "role_tags": [
+                "#제품전략",
+                "#영업기회"
+            ],
+            "source": "https://www.wikitree.co.kr/articles/1155237"
+        },
+        {
+            "title": "앤트로픽, 컴퓨팅 선점 전략 가속…장기계약 총 3000억달러 돌파",
+            "company": "Anthropic",
+            "importance": 5,
+            "role_tags": [
+                "#제품전략"
+            ],
+            "source": "https://www.newspim.com/news/view/20260827001259"
+        },
+        {
+            "title": "오픈AI, AI 에이전트 700여 개 집단 해킹 사건…에이전트 신뢰성 경고",
+            "company": "OpenAI",
+            "importance": 5,
+            "role_tags": [
+                "#제품전략"
+            ],
+            "source": "https://www.news1.kr/world/international-economy/6271392"
+        },
+        {
+            "title": "엔비디아, 2분기 매출 962억달러…13분기 연속 신기록으로 AI 고점론 눌러",
+            "company": "기타",
+            "importance": 4,
+            "role_tags": [
+                "#영업기회"
+            ],
+            "source": "https://www.news1.kr/world/international-economy/6270705"
+        },
+        {
+            "title": "엔비디아, 허깅페이스 129억달러 인수 추진…오픈소스 AI 주도권 확보",
+            "company": "기타",
+            "importance": 4,
+            "role_tags": [
+                "#제품전략"
+            ],
+            "source": "https://www.mediafine.co.kr/news/articleView.html?idxno=88113"
+        },
+        {
+            "title": "국내 '독파모' 성적표 공개…벤치마크와 실사용성 괴리 논란",
+            "company": "국내",
+            "importance": 4,
+            "role_tags": [
+                "#제품전략",
+                "#영업기회"
+            ],
+            "source": "https://www.techm.kr/news/articleView.html?idxno=154708"
+        },
+        {
+            "title": "구글, AI 안전팀 본사 편입…독립성 우려 확산",
+            "company": "Google",
+            "importance": 4,
+            "role_tags": [
+                "#제품전략"
+            ],
+            "source": "https://www.aitimes.com/news/articleView.html?idxno=214488"
+        },
+        {
+            "title": "세일즈포스, 앤트로픽에 '포스' 브랜드 첫 개방…'클로드포스' 탄생",
+            "company": "Anthropic",
+            "importance": 4,
+            "role_tags": [
+                "#제품전략",
+                "#영업기회"
+            ],
+            "source": "https://www.wikitree.co.kr/articles/1155482"
+        },
+        {
+            "title": "앤트로픽, AWS 서울 리전에 최신 클로드 투입…국내 금융권 공략 가속",
+            "company": "Anthropic",
+            "importance": 4,
+            "role_tags": [
+                "#영업기회",
+                "#마케팅"
+            ],
+            "source": "https://zdnet.co.kr/view/?no=20260827172314"
+        },
+        {
+            "title": "정체불명 AI '옥스 알파', 알고 보니 중국 Z.ai…국적 은폐 전략 노출",
+            "company": "기타",
+            "importance": 3,
+            "role_tags": [
+                "#제품전략"
+            ],
+            "source": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=695858"
+        }
+    ]
+}
