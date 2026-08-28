@@ -1,0 +1,82 @@
+{
+    "period_start": "2026-08-28T00:00:00+09:00",
+    "period_end": "2026-08-29T00:00:00+09:00",
+    "generated_at": "2026-08-29",
+    "raw_collected": 785,
+    "company_breakdown": {
+        "OpenAI": 182,
+        "Google": 82,
+        "Anthropic": 35,
+        "Meta": 13,
+        "국내": 16,
+        "기타": 457
+    },
+    "insights": [
+        {
+            "title": "알파벳 시총 3개월 새 960조원 증발…\"AI 경쟁력 의구심\"",
+            "company": "Google",
+            "importance": 5,
+            "role_tags": [
+                "#제품전략",
+                "#영업기회"
+            ],
+            "source": "https://www.newspim.com/news/view/20260828000012"
+        },
+        {
+            "title": "'한국형 챗GPT' 모두의 AI, SKT·카카오·KT 최종 확정",
+            "company": "국내",
+            "importance": 5,
+            "role_tags": [
+                "#영업기회",
+                "#마케팅"
+            ],
+            "source": "https://www.khan.co.kr/article/202608280927001"
+        },
+        {
+            "title": "美 법원 \"국방부의 앤트로픽 거래차단은 위헌적 보복\"",
+            "company": "Anthropic",
+            "importance": 4,
+            "role_tags": [
+                "#제품전략"
+            ],
+            "source": "https://www.tokenpost.kr/news/breaking/399860"
+        },
+        {
+            "title": "구글·MS·오픈AI·앤트로픽 등 빅테크 120곳, AI 해킹 공동대응 촉구",
+            "company": "기타",
+            "importance": 5,
+            "role_tags": [
+                "#제품전략"
+            ],
+            "source": "https://www.mstoday.co.kr/news/articleView.html?idxno=102438"
+        },
+        {
+            "title": "美 기업들, \"충분히 좋은\" 중국 오픈웨이트 AI로 갈아탄다",
+            "company": "기타",
+            "importance": 4,
+            "role_tags": [
+                "#제품전략",
+                "#영업기회"
+            ],
+            "source": "https://www.fortunekorea.co.kr/news/articleView.html?idxno=53794"
+        },
+        {
+            "title": "엔비디아, 2027~28년 아마존에 GPU 200만개 추가 공급",
+            "company": "기타",
+            "importance": 4,
+            "role_tags": [
+                "#영업기회"
+            ],
+            "source": "https://www.cbci.co.kr/news/articleView.html?idxno=601580"
+        },
+        {
+            "title": "타임 'AI 영향력 100인', 중국 인사 대거 약진",
+            "company": "기타",
+            "importance": 3,
+            "role_tags": [
+                "#마케팅"
+            ],
+            "source": "https://www.ppss.kr/news/articleView.html?idxno=307814"
+        }
+    ]
+}
