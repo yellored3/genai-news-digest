@@ -1,0 +1,74 @@
+{
+    "period_start": "2026-08-28T00:00:00+09:00",
+    "period_end": "2026-08-30T00:00:00+09:00",
+    "generated_at": "2026-08-30",
+    "raw_collected": 936,
+    "company_breakdown": {
+        "OpenAI": 279,
+        "Google": 99,
+        "Anthropic": 44,
+        "Meta": 9,
+        "국내": 69,
+        "기타": 416
+    },
+    "insights": [
+        {
+            "title": "세일즈포스·앤트로픽 손잡고 '클로드포스' 공개…CRM 전 레이어에 AI 심는다",
+            "company": "Anthropic",
+            "importance": 5,
+            "role_tags": [
+                "#제품전략",
+                "#영업기회"
+            ],
+            "source": "https://www.itdaily.kr/news/articleView.html?idxno=241281"
+        },
+        {
+            "title": "오픈AI 에이전트 집단 해킹 후폭풍…법적 책임 공백에 세션 통제 허점까지",
+            "company": "OpenAI",
+            "importance": 5,
+            "role_tags": [
+                "#제품전략"
+            ],
+            "source": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=696616"
+        },
+        {
+            "title": "텍스트 아닌 '행동'을 배운 AI…아이지에이웍스, LBM 'WorksFM' 공개",
+            "company": "국내",
+            "importance": 4,
+            "role_tags": [
+                "#제품전략",
+                "#영업기회"
+            ],
+            "source": "https://www.businesskorea.co.kr/news/articleView.html?idxno=275742"
+        },
+        {
+            "title": "구글 클라우드, 제미나이 엔터프라이즈 첫 산업 특화 패키지로 법률·금융 정조준",
+            "company": "Google",
+            "importance": 4,
+            "role_tags": [
+                "#제품전략",
+                "#영업기회"
+            ],
+            "source": "http://www.digitalbizon.com/news/articleView.html?idxno=2343665"
+        },
+        {
+            "title": "구글, 영상생성 AI '제미나이 옴니 1.1 플래시' 공개…제어력·속도·비용 3박자",
+            "company": "Google",
+            "importance": 3,
+            "role_tags": [
+                "#제품전략"
+            ],
+            "source": "https://www.aitimes.com/news/articleView.html?idxno=214576"
+        },
+        {
+            "title": "YG엔터, 구글 제미나이로 '전사 AI 업무 생태계' 구축…엔터업계 최초",
+            "company": "Google",
+            "importance": 3,
+            "role_tags": [
+                "#제품전략",
+                "#마케팅"
+            ],
+            "source": "http://www.breaknews.com/1232415"
+        }
+    ]
+}
