@@ -1,0 +1,73 @@
+{
+    "period_start": "2026-08-28T00:00:00+09:00",
+    "period_end": "2026-08-31T00:00:00+09:00",
+    "generated_at": "2026-08-31",
+    "raw_collected": 1091,
+    "company_breakdown": {
+        "OpenAI": 340,
+        "Google": 120,
+        "Anthropic": 54,
+        "Meta": 2,
+        "국내": 19,
+        "기타": 535
+    },
+    "insights": [
+        {
+            "title": "앤트로픽, 신규 저작권 소송 속 IPO 초읽기 — 국내 수혜 구조까지 걸렸다",
+            "company": "Anthropic",
+            "importance": 5,
+            "role_tags": [
+                "#영업기회",
+                "#제품전략"
+            ],
+            "source": "https://www.hankookilbo.com/news/article/A2026082816310002968"
+        },
+        {
+            "title": "'모두의 AI', 사업자 확정 이후 남은 숙제 — GPU 부족과 68% 격차",
+            "company": "국내",
+            "importance": 4,
+            "role_tags": [
+                "#영업기회",
+                "#제품전략"
+            ],
+            "source": "https://www.etoday.co.kr/news/view/2619595"
+        },
+        {
+            "title": "클로드포스 발표 후폭풍 — 세일즈포스 주가 22% 급등, 시장이 먼저 검증했다",
+            "company": "Anthropic",
+            "importance": 4,
+            "role_tags": [
+                "#영업기회",
+                "#제품전략"
+            ],
+            "source": "https://www.tokenpost.kr/news/market/399818"
+        },
+        {
+            "title": "구글, 제미나이 '거의 매주' 업데이트 러시 — 속도로 승부하는 AI비서 전쟁",
+            "company": "Google",
+            "importance": 4,
+            "role_tags": [
+                "#제품전략"
+            ],
+            "source": "https://www.aitimes.com/news/articleView.html?idxno=214599"
+        },
+        {
+            "title": "AI 데이터센터, 전력이 다음 병목 — 소프트뱅크 330억달러 베팅과 '토큰 팩토리'론",
+            "company": "OpenAI",
+            "importance": 4,
+            "role_tags": [
+                "#제품전략"
+            ],
+            "source": "https://www.g-enews.com/view.php?ud=2026082923394992810c8c1c064d_1"
+        },
+        {
+            "title": "AI 구독료, 카드사의 새 격전지로",
+            "company": "국내",
+            "importance": 2,
+            "role_tags": [
+                "#마케팅"
+            ],
+            "source": "https://www.dailian.co.kr/news/view/1683901/?sc=Naver"
+        }
+    ]
+}
