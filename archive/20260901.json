@@ -1,0 +1,72 @@
+{
+    "period_start": "2026-08-31T00:00:00+09:00",
+    "period_end": "2026-09-01T00:00:00+09:00",
+    "generated_at": "2026-09-01",
+    "raw_collected": 825,
+    "company_breakdown": {
+        "OpenAI": 229,
+        "Google": 53,
+        "Anthropic": 13,
+        "Meta": 8,
+        "국내": 24,
+        "기타": 498
+    },
+    "insights": [
+        {
+            "title": "'모두의 AI' 9월 베타 출시 확정 — SKT·카카오·KT '실행형 AI' 삼파전",
+            "company": "국내",
+            "importance": 5,
+            "role_tags": ["#제품전략", "#영업기회"],
+            "source": "https://www.todayeconomic.com/news/article.html?no=31910"
+        },
+        {
+            "title": "국내 AI 정책 '삼각편대' 공식 출범 — 4개월 컨트롤타워 공백 해소",
+            "company": "국내",
+            "importance": 4,
+            "role_tags": ["#제품전략", "#영업기회"],
+            "source": "https://www.mt.co.kr/tech/2026/08/31/2026083111361415949"
+        },
+        {
+            "title": "앤트로픽, IPO 초읽기 속 대형 음원 저작권 소송 피소",
+            "company": "Anthropic",
+            "importance": 4,
+            "role_tags": ["#제품전략"],
+            "source": "https://www.mt.co.kr/world/2026/08/31/2026083110020013747"
+        },
+        {
+            "title": "EU, 챗GPT를 최고 수준 플랫폼으로 지정 — 위반 시 매출 6% 과징금",
+            "company": "OpenAI",
+            "importance": 4,
+            "role_tags": ["#제품전략"],
+            "source": "https://www.ebn.co.kr/news/articleView.html?idxno=1722389"
+        },
+        {
+            "title": "앤트로픽, 계정 탈취 공격 노출 — 인포스틸러가 2단계 인증 무력화",
+            "company": "Anthropic",
+            "importance": 3,
+            "role_tags": ["#제품전략"],
+            "source": "https://www.wikitree.co.kr/articles/1156318"
+        },
+        {
+            "title": "구글, 멀티 에이전트 '팀워크'로 미해결 학술 난제 7건 해결",
+            "company": "Google",
+            "importance": 3,
+            "role_tags": ["#제품전략"],
+            "source": "https://www.aitimes.com/news/articleView.html?idxno=214663"
+        },
+        {
+            "title": "바이낸스, 챗GPT·커서 연동 'AI 에이전트 OS' 공개 — 결제·온체인까지 확장 예고",
+            "company": "OpenAI",
+            "importance": 3,
+            "role_tags": ["#영업기회", "#제품전략"],
+            "source": "https://www.news1.kr/finance/blockchain-fintech/6274951"
+        },
+        {
+            "title": "국내 스타트업 아스테로모프, GPT 없이 자체 AI로 국제물리올림피아드 금메달급 성적",
+            "company": "OpenAI",
+            "importance": 3,
+            "role_tags": ["#제품전략", "#영업기회"],
+            "source": "https://www.kbsm.net/news/view.php?idx=532324"
+        }
+    ]
+}
