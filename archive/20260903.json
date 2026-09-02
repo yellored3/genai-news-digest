@@ -1,0 +1,65 @@
+{
+    "period_start": "2026-09-02T00:00:00+09:00",
+    "period_end": "2026-09-03T00:00:00+09:00",
+    "generated_at": "2026-09-03",
+    "raw_collected": 1012,
+    "company_breakdown": {
+        "OpenAI": 356,
+        "Google": 67,
+        "Anthropic": 24,
+        "Meta": 10,
+        "국내": 44,
+        "기타": 511
+    },
+    "insights": [
+        {
+            "title": "오픈AI 차세대 모델 '아스트라', 사이버보안 '심각(Critical)' 등급 첫 판정",
+            "company": "OpenAI",
+            "importance": 5,
+            "role_tags": ["#제품전략"],
+            "source": "https://www.aitimes.com/news/articleView.html?idxno=214736"
+        },
+        {
+            "title": "앤트로픽, '클로드 페이블 5.1'·보안특화 '미토스 5.1' 동시 공개 — 캐시비용 75% 인하",
+            "company": "Anthropic",
+            "importance": 5,
+            "role_tags": ["#제품전략", "#영업기회"],
+            "source": "https://www.aitimes.com/news/articleView.html?idxno=214725"
+        },
+        {
+            "title": "中 저가 AI發 토큰가격 폭락 — 오픈AI·앤트로픽 수익성 비상, IPO 리스크 누적",
+            "company": "OpenAI",
+            "importance": 4,
+            "role_tags": ["#영업기회", "#제품전략"],
+            "source": "https://www.sedaily.com/article/20086222?ref=naver"
+        },
+        {
+            "title": "애플-오픈AI 영업비밀 소송 격화 — 협력에서 경쟁으로 뒤바뀐 관계",
+            "company": "OpenAI",
+            "importance": 4,
+            "role_tags": ["#제품전략"],
+            "source": "https://www.aitimes.com/news/articleView.html?idxno=214742"
+        },
+        {
+            "title": "국내 금융권, 챗GPT·클로드·제미나이 '멀티 LLM' 동시 도입 — LS증권·하나카드",
+            "company": "국내",
+            "importance": 4,
+            "role_tags": ["#마케팅", "#영업기회", "#제품전략"],
+            "source": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5057867"
+        },
+        {
+            "title": "한국형 풀스택 AI 컨소시엄, 사우디 아람코 디지털 실증 완료 — 중동 진출 교두보",
+            "company": "국내",
+            "importance": 4,
+            "role_tags": ["#영업기회", "#제품전략"],
+            "source": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=697697"
+        },
+        {
+            "title": "'몸값 1조' AI 유니콘 뤼튼, 적자 속 IPO 주관사 선정 나서",
+            "company": "국내",
+            "importance": 3,
+            "role_tags": ["#영업기회"],
+            "source": "https://www.smartbizn.com/news/articleView.html?idxno=152799"
+        }
+    ]
+}
