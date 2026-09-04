@@ -1,0 +1,51 @@
+{
+    "period_start": "2026-09-04T00:00:00+09:00",
+    "period_end": "2026-09-05T00:00:00+09:00",
+    "generated_at": "2026-09-05",
+    "raw_collected": 1003,
+    "company_breakdown": {
+        "OpenAI": 305,
+        "Google": 194,
+        "Anthropic": 8,
+        "Meta": 12,
+        "국내": 16,
+        "기타": 468
+    },
+    "insights": [
+        {
+            "title": "오픈AI, 'GPT-6 아스트라' 공식 출시 — 역대 최고 벤치마크와 함께 사이버보안 '심각' 등급도 재확인",
+            "company": "OpenAI",
+            "importance": 5,
+            "role_tags": ["#제품전략"],
+            "source": "https://www.aitimes.kr/news/articleView.html?idxno=41756"
+        },
+        {
+            "title": "챗GPT·클로드·그록·제미나이 동시 장애 — 클라우드 인프라 집중 리스크 노출",
+            "company": "기타",
+            "importance": 5,
+            "role_tags": ["#제품전략"],
+            "source": "https://www.aitimes.com/news/articleView.html?idxno=214832"
+        },
+        {
+            "title": "엔비디아, 허깅페이스 17.8조원에 인수 — 오픈소스 AI 생태계 관문까지 장악",
+            "company": "기타",
+            "importance": 5,
+            "role_tags": ["#제품전략", "#영업기회"],
+            "source": "https://zdnet.co.kr/view/?no=20260904142839"
+        },
+        {
+            "title": "SKT·KT·카카오 '모두의 AI' 3파전 — 정부 주도 국산 AI 에이전트 10월 동시 출시",
+            "company": "국내",
+            "importance": 4,
+            "role_tags": ["#마케팅", "#영업기회", "#제품전략"],
+            "source": "https://www.joongangenews.com/news/articleView.html?idxno=545681"
+        },
+        {
+            "title": "KAIST, LLM의 SQL 오류 '부분 수정' 기술 SafeQL 개발 — 토큰 최대 15배 절감",
+            "company": "국내",
+            "importance": 4,
+            "role_tags": ["#제품전략"],
+            "source": "https://www.aitimes.kr/news/articleView.html?idxno=41764"
+        }
+    ]
+}
