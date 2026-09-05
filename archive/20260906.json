@@ -1,0 +1,65 @@
+{
+    "period_start": "2026-09-04T00:00:00+09:00",
+    "period_end": "2026-09-06T00:00:00+09:00",
+    "generated_at": "2026-09-06",
+    "raw_collected": 1187,
+    "company_breakdown": {
+        "OpenAI": 377,
+        "Google": 244,
+        "Anthropic": 15,
+        "Meta": 10,
+        "국내": 15,
+        "기타": 526
+    },
+    "insights": [
+        {
+            "title": "앤트로픽 IPO, 11월 美 중간선거 직전으로 한 달 연기 — 목표 밸류에이션 2조달러",
+            "company": "Anthropic",
+            "importance": 5,
+            "role_tags": ["#영업기회", "#제품전략"],
+            "source": "https://www.sisajournal-e.com/news/articleView.html?idxno=423538"
+        },
+        {
+            "title": "GPT-6 아스트라, 코파일럿엔 순항·챗GPT는 '엉망진창' — 올트먼 사과",
+            "company": "OpenAI",
+            "importance": 4,
+            "role_tags": ["#제품전략"],
+            "source": "https://www.wikitree.co.kr/articles/1157482"
+        },
+        {
+            "title": "챗GPT, 美 최대 전자의무기록 '에픽'과 연동 — 3억2500만명 환자기록 접근(읽기전용)",
+            "company": "OpenAI",
+            "importance": 4,
+            "role_tags": ["#제품전략", "#영업기회"],
+            "source": "https://www.wikitree.co.kr/articles/1157477"
+        },
+        {
+            "title": "시애틀타임스·뉴스데이, 오픈AI·MS 저작권 소송 제기 — 언론사 vs AI 학습데이터 전선 확대",
+            "company": "OpenAI",
+            "importance": 3,
+            "role_tags": ["#제품전략"],
+            "source": "https://www.tokenpost.kr/news/breaking/402931"
+        },
+        {
+            "title": "제미나이가 짠 등산 코스 따라갔다가 4300m 산속 조난",
+            "company": "Google",
+            "importance": 3,
+            "role_tags": ["#마케팅", "#제품전략"],
+            "source": "https://www.ytn.co.kr/_ln/0104_202609051355246604"
+        },
+        {
+            "title": "한국인 챗GPT 월 2324만명 쓰는데…국산 '모두의 AI'는 아직 벤치마크 경쟁 단계",
+            "company": "국내",
+            "importance": 4,
+            "role_tags": ["#마케팅", "#영업기회", "#제품전략"],
+            "source": "https://www.hankyung.com/article/202609044207g"
+        },
+        {
+            "title": "삼성, IFA 2026 '혁신상 4관왕' 앞세운 'AI 리빙' — 정작 생성형 AI는 냉장고 식재료 인식 정도",
+            "company": "Google",
+            "importance": 3,
+            "role_tags": ["#마케팅"],
+            "source": "https://www.g-enews.com/view.php?ud=202609041414132053084322ec9_1"
+        }
+    ]
+}
