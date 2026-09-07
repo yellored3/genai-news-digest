@@ -1,0 +1,51 @@
+{
+  "period_start": "2026-09-07T00:00:00+09:00",
+  "period_end": "2026-09-08T00:00:00+09:00",
+  "generated_at": "2026-09-08",
+  "raw_collected": 1067,
+  "company_breakdown": {
+    "OpenAI": 378,
+    "Google": 71,
+    "Anthropic": 30,
+    "Meta": 12,
+    "국내": 12,
+    "기타": 564
+  },
+  "insights": [
+    {
+      "title": "GPT-6 아스트라, 나흘 만에 '엉망진창 롤아웃'에서 'AGI 도래' 선언으로 — 반도체주 코스피 7000 눈앞",
+      "company": "OpenAI",
+      "importance": 5,
+      "role_tags": ["#제품전략", "#마케팅"],
+      "source": "https://zdnet.co.kr/view/?no=20260907170942"
+    },
+    {
+      "title": "오픈AI 수석과학자 \"속도조절 해야\", 같은 날 회사는 \"2028년 자동화 연구원\" 가속 보고서 — 정면 엇박자",
+      "company": "OpenAI",
+      "importance": 5,
+      "role_tags": ["#제품전략", "#마케팅"],
+      "source": "https://biz.heraldcorp.com/article/10864497?ref=naver"
+    },
+    {
+      "title": "앤트로픽, 국내 스타트업·공기업 양쪽에서 동시 확산 — 코스포 클로드 크레딧 2차·한전KDN 클로드 실습교육",
+      "company": "Anthropic",
+      "importance": 4,
+      "role_tags": ["#영업기회", "#제품전략"],
+      "source": "https://www.mt.co.kr/future/2026/09/07/2026090713270569977"
+    },
+    {
+      "title": "AI·LLM 서비스 취약점 반년 새 10배 폭증 — 카스퍼스키 \"패치 관리만으론 못 막는다\"",
+      "company": "기타",
+      "importance": 4,
+      "role_tags": ["#제품전략"],
+      "source": "https://byline.network/?p=9004111222618621"
+    },
+    {
+      "title": "삼성생명·하나증권·한전KDN, 하루 새 나란히 '사내 실무 AI' 공개 — '도입 여부'에서 '누가 더 깊이' 경쟁으로",
+      "company": "국내",
+      "importance": 4,
+      "role_tags": ["#제품전략", "#영업기회"],
+      "source": "https://www.newsis.com/view/NISX20260907_0003779546"
+    }
+  ]
+}
