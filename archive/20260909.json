@@ -1,0 +1,72 @@
+{
+  "period_start": "2026-09-08T00:00:00+09:00",
+  "period_end": "2026-09-09T00:00:00+09:00",
+  "generated_at": "2026-09-09",
+  "raw_collected": 922,
+  "company_breakdown": {
+    "OpenAI": 347,
+    "Google": 56,
+    "Anthropic": 16,
+    "Meta": 20,
+    "국내": 106,
+    "기타": 377
+  },
+  "insights": [
+    {
+      "title": "삼성SDS '리얼 서밋'에 올트먼 등장 — 오픈AI·앤트로픽 동시 껴안고 로봇까지 사업 확장",
+      "company": "국내",
+      "importance": 5,
+      "role_tags": ["#영업기회", "#제품전략"],
+      "source": "https://www.newsis.com/view/NISX20260908_0003780008"
+    },
+    {
+      "title": "같은 날 삼성전자는 '오픈웨이트' 미스트랄에 4.7조원 베팅 — 폐쇄형·개방형 AI 양쪽에 동시 헤지",
+      "company": "국내",
+      "importance": 4,
+      "role_tags": ["#제품전략", "#영업기회"],
+      "source": "https://www.aitimes.kr/news/articleView.html?idxno=41824"
+    },
+    {
+      "title": "엔비디아, 허깅페이스 17.7조원에 인수 — 7월 'GPT 모델 탈옥' 보안사고가 부른 생태계 재편",
+      "company": "OpenAI",
+      "importance": 5,
+      "role_tags": ["#제품전략", "#영업기회"],
+      "source": "https://www.greened.kr/news/articleView.html?idxno=349307"
+    },
+    {
+      "title": "\"AGI 도래\" 선언 나흘 만에 학계 반박 — 코스피도 7170 찍고 6950으로 반납",
+      "company": "OpenAI",
+      "importance": 5,
+      "role_tags": ["#마케팅", "#제품전략"],
+      "source": "https://www.cbci.co.kr/news/articleView.html?idxno=604645"
+    },
+    {
+      "title": "\"속도조절 해야\" vs \"가속\" 엇박자, 하루 만에 정리 — 올트먼도 결국 안전론에 합류",
+      "company": "OpenAI",
+      "importance": 4,
+      "role_tags": ["#제품전략"],
+      "source": "https://www.sedaily.com/article/20087954?ref=naver"
+    },
+    {
+      "title": "앤트로픽, 두 달 새 매출 4.7조→6.5조원 — SEC에 비공개 서류 내고 '1000억달러' IPO 겨냥",
+      "company": "Anthropic",
+      "importance": 5,
+      "role_tags": ["#영업기회", "#제품전략"],
+      "source": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008738417&plink=ORI&cooper=NAVER"
+    },
+    {
+      "title": "국산 AI반도체, '개발'에서 '양산'으로 — 세미파이브·하이퍼엑셀 삼성 4나노 첫 양산, 한컴도 퓨리오사 NPU 결합",
+      "company": "국내",
+      "importance": 4,
+      "role_tags": ["#제품전략", "#영업기회"],
+      "source": "https://www.hankyung.com/article/202609081297i"
+    },
+    {
+      "title": "EU \"챗GPT는 초대형 플랫폼\"·中 \"딥페이크도 배상\"…규제는 뛰는데 한국은 \"사각지대\"",
+      "company": "기타",
+      "importance": 4,
+      "role_tags": ["#제품전략"],
+      "source": "https://byline.network/?p=9004111222618815"
+    }
+  ]
+}
