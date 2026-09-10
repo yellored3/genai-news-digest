@@ -1,0 +1,72 @@
+{
+  "period_start": "2026-09-10T00:00:00+09:00",
+  "period_end": "2026-09-11T00:00:00+09:00",
+  "generated_at": "2026-09-10",
+  "raw_collected": 973,
+  "company_breakdown": {
+    "OpenAI": 312,
+    "Google": 72,
+    "Anthropic": 55,
+    "Meta": 13,
+    "국내": 68,
+    "기타": 453
+  },
+  "insights": [
+    {
+      "title": "오픈AI 코덱스 사용자 3주 만에 500만 급증, 1,500만 돌파 — \"프로 신규가입 중단\"까지 검토",
+      "company": "OpenAI",
+      "importance": 5,
+      "role_tags": ["#제품전략", "#영업기회"],
+      "source": "https://www.aitimes.com/news/articleView.html?idxno=215089"
+    },
+    {
+      "title": "\"10년 내 인류 멸종 확률 10% 이상\" — 앤트로픽 연구원, 초지능 경쟁 경고하며 퇴사",
+      "company": "Anthropic",
+      "importance": 4,
+      "role_tags": ["#제품전략"],
+      "source": "https://www.hankyung.com/article/202609105421i"
+    },
+    {
+      "title": "SK스퀘어, 11번가 운영비 50% 절감 — 80명이 AI 에이전트 90개 만들어 투자업무까지 자동화",
+      "company": "국내",
+      "importance": 4,
+      "role_tags": ["#제품전략", "#영업기회"],
+      "source": "https://www.mt.co.kr/tech/2026/09/10/2026091009151899979"
+    },
+    {
+      "title": "미중 AI IPO 레이스 본격화 — 딥시크 \"100조 목표\" 상하이 상장, 앤트로픽은 \"최대 2조달러\" 밸류로 미국행",
+      "company": "기타",
+      "importance": 5,
+      "role_tags": ["#영업기회", "#제품전략"],
+      "source": "https://www.ebn.co.kr/news/articleView.html?idxno=1723679"
+    },
+    {
+      "title": "구글, 핀란드에 150억달러 투자 — 미국 밖 첫 원전 전력 계약으로 AI 데이터센터 전력 확보",
+      "company": "Google",
+      "importance": 4,
+      "role_tags": ["#제품전략"],
+      "source": "https://www.news1.kr/world/usa-canada/6285630"
+    },
+    {
+      "title": "삼성전자, 미스트랄AI와 반도체 특화 AI 공동개발 — 국가 핵심기술은 온프레미스로 보호",
+      "company": "국내",
+      "importance": 3,
+      "role_tags": ["#제품전략", "#영업기회"],
+      "source": "https://www.e-science.co.kr/news/articleView.html?idxno=135158"
+    },
+    {
+      "title": "미 법무부·한국 공정위, 나란히 'AI 우회 인수' 정조준 — 지분매입 대신 \"인재만 빼가는\" 거래 규제",
+      "company": "기타",
+      "importance": 4,
+      "role_tags": ["#제품전략"],
+      "source": "https://www.edaily.co.kr/News/Read?newsId=03585046645578808&mediaCodeNo=257"
+    },
+    {
+      "title": "클로드 생태계는 커지는데 — 키움증권·유니티가 공식 통합 늘리는 동안 계정 해킹 피해도 속출",
+      "company": "Anthropic",
+      "importance": 4,
+      "role_tags": ["#영업기회", "#제품전략"],
+      "source": "http://www.sisacast.kr/news/articleView.html?idxno=99921"
+    }
+  ]
+}
