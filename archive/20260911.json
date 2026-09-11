@@ -1,0 +1,65 @@
+{
+    "period_start": "2026-09-11T00:00:00+09:00",
+    "period_end": "2026-09-12T00:00:00+09:00",
+    "generated_at": "2026-09-11",
+    "raw_collected": 938,
+    "company_breakdown": {
+        "OpenAI": 343,
+        "Google": 55,
+        "Anthropic": 22,
+        "Meta": 3,
+        "국내": 33,
+        "기타": 482
+    },
+    "insights": [
+        {
+            "title": "앤트로픽 \"중국 AI 7곳, 클로드 2300만 건 무단 증류\"…생물무기·감시 악용 사례도 무더기 공개",
+            "company": "Anthropic",
+            "importance": 5,
+            "role_tags": ["#제품전략", "#영업기회"],
+            "source": "https://www.mt.co.kr/world/2026/09/11/2026091111145075399"
+        },
+        {
+            "title": "카카오, '챗GPT 포 카카오' 파트너 10개 더 늘려 28개 서비스로 — 신세계면세점 등 유통업계 AI 에이전트 채널로 부상",
+            "company": "국내",
+            "importance": 5,
+            "role_tags": ["#마케팅", "#영업기회"],
+            "source": "https://byline.network/?p=9004111222619756"
+        },
+        {
+            "title": "오픈AI, 아스트라(GPT-6) 인기에 결국 $200 요금제 신규가입 중단",
+            "company": "OpenAI",
+            "importance": 5,
+            "role_tags": ["#영업기회", "#제품전략"],
+            "source": "https://www.etoday.co.kr/news/view/2624567"
+        },
+        {
+            "title": "퓨리오사AI, 싱가포르에 4번째 거점 설립 — 삼성SDS·LG AI연구원 레퍼런스 앞세워 APAC 공략",
+            "company": "국내",
+            "importance": 4,
+            "role_tags": ["#제품전략"],
+            "source": "https://www.aitimes.com/news/articleView.html?idxno=215174"
+        },
+        {
+            "title": "10대 85% \"주 2회 이상 AI 사용\"…AI 추천엔 지갑 열지만 'AI 광고'는 거부하는 이중잣대",
+            "company": "기타",
+            "importance": 5,
+            "role_tags": ["#마케팅", "#제품전략"],
+            "source": "https://zdnet.co.kr/view/?no=20260911100822"
+        },
+        {
+            "title": "서울시 '청년 AI 성장권' 예산 56억 전액 삭감 — 민주당 다수 시의회 vs 오세훈 시장 \"폭거\" 공방",
+            "company": "기타",
+            "importance": 4,
+            "role_tags": ["#영업기회"],
+            "source": "https://www.mediapen.com/news/view/1123046"
+        },
+        {
+            "title": "생성형AI 합성 오남용 처벌 확정되는 동안, 탐지기술은 국제무대에서 실력 검증 — '창과 방패'가 동시에 진행 중",
+            "company": "기타",
+            "importance": 4,
+            "role_tags": ["#제품전략"],
+            "source": "https://www.ppss.kr/news/articleView.html?idxno=310194"
+        }
+    ]
+}
