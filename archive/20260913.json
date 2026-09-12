@@ -1,0 +1,84 @@
+{
+    "period_start": "2026-09-11T00:00:00+09:00",
+    "period_end": "2026-09-13T00:00:00+09:00",
+    "generated_at": "2026-09-13",
+    "raw_collected": 1084,
+    "company_breakdown": {
+        "OpenAI": 420,
+        "Google": 69,
+        "Anthropic": 35,
+        "Meta": 4,
+        "국내": 20,
+        "기타": 536
+    },
+    "insights": [
+        {
+            "title": "카카오 '챗GPT 포 카카오', 결제 에이전트로 진화 — 신한카드·다이소몰 등 7곳 신규 연동, 28개 서비스로",
+            "company": "국내",
+            "importance": 2,
+            "role_tags": [
+                "#마케팅",
+                "#영업기회"
+            ],
+            "source": "https://www.aitimes.com/news/articleView.html?idxno=215125"
+        },
+        {
+            "title": "오픈AI 아스트라(GPT-6) $200 요금제 또 '품절' — 3년 전 GPT-4 사태 재현, 구조적 컴퓨팅 부족 드러나",
+            "company": "OpenAI",
+            "importance": 3,
+            "role_tags": [
+                "#영업기회",
+                "#제품전략"
+            ],
+            "source": "https://www.sedaily.com/article/20090043?ref=naver"
+        },
+        {
+            "title": "오픈AI, 월가 정조준 '챗GPT 포 파이낸셜 서비스' 출시 — 신입 애널리스트 도제식 훈련 붕괴 우려",
+            "company": "OpenAI",
+            "importance": 3,
+            "role_tags": [
+                "#제품전략",
+                "#영업기회"
+            ],
+            "source": "https://www.aitimes.com/news/articleView.html?idxno=215141"
+        },
+        {
+            "title": "아마존, 챗GPT 광고 개방 — 자사 쇼핑몰 접근 막던 아마존의 태세 전환",
+            "company": "OpenAI",
+            "importance": 2,
+            "role_tags": [
+                "#마케팅",
+                "#영업기회"
+            ],
+            "source": "https://biz.sbs.co.kr/article_hub/20000334007?division=NAVER"
+        },
+        {
+            "title": "앤트로픽·중국 AI '증류 전쟁' 격화 — 알리바바발 1.51억 건, 中 \"보편적 관행\" 정면 반박",
+            "company": "Anthropic",
+            "importance": 3,
+            "role_tags": [
+                "#제품전략"
+            ],
+            "source": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=699988"
+        },
+        {
+            "title": "구글, 핀란드에 20조원 원전 전력계약 — AI 데이터센터 전력난, 해외 원전으로 정면 돌파",
+            "company": "Google",
+            "importance": 2,
+            "role_tags": [
+                "#제품전략"
+            ],
+            "source": "https://www.thepublic.kr/news/articleView.html?idxno=318453"
+        },
+        {
+            "title": "카카오 손 뗀 '다음', 업스테이지 품에서 독자 AI 포털로 재편 — '콩'이 카카오프렌즈 대체",
+            "company": "국내",
+            "importance": 2,
+            "role_tags": [
+                "#마케팅",
+                "#제품전략"
+            ],
+            "source": "https://biz.newdaily.co.kr/site/data/html/2026/09/11/2026091100092.html"
+        }
+    ]
+}
