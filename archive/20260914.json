@@ -1,0 +1,74 @@
+{
+    "period_start": "2026-09-14T00:00:00+09:00",
+    "period_end": "2026-09-15T00:00:00+09:00",
+    "generated_at": "2026-09-14",
+    "raw_collected": 944,
+    "company_breakdown": {
+        "OpenAI": 308,
+        "Google": 47,
+        "Anthropic": 36,
+        "Meta": 2,
+        "국내": 5,
+        "기타": 546
+    },
+    "insights": [
+        {
+            "title": "앤스로픽 다리오 아모데이 '중국 AI 속도조절론' 재점화 — 정작 회사는 최대 2조달러 IPO 준비 중",
+            "company": "Anthropic",
+            "importance": 3,
+            "role_tags": [
+                "#제품전략",
+                "#영업기회"
+            ],
+            "source": "https://www.ajunews.com/view/20260914135536159"
+        },
+        {
+            "title": "앤트로픽, '트럼프 인맥' 럼그룹과 18조원 컴퓨팅 계약 — IPO 앞두고 정치 리스크 자처",
+            "company": "Anthropic",
+            "importance": 2,
+            "role_tags": [
+                "#제품전략"
+            ],
+            "source": "https://magazine.hankyung.com/business/article/202609143546b"
+        },
+        {
+            "title": "오픈AI, GPT-6 '아스트라' 요금제별 차등 배포 — Pro는 즉시, Plus는 특정 툴에서만",
+            "company": "OpenAI",
+            "importance": 2,
+            "role_tags": [
+                "#제품전략",
+                "#영업기회"
+            ],
+            "source": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=700279"
+        },
+        {
+            "title": "LG AI연구원, '엑사원' 삼성전자에도 개방 선언 — 범용 LLM 대신 산업 특화로 승부수",
+            "company": "국내",
+            "importance": 3,
+            "role_tags": [
+                "#제품전략",
+                "#영업기회"
+            ],
+            "source": "https://www.insightkorea.co.kr/news/articleView.html?idxno=254541"
+        },
+        {
+            "title": "챗GPT, 주 100만 명이 자살·자해 상담하는데 — '신뢰 연락처' 안전기능은 여전히 옵트인",
+            "company": "OpenAI",
+            "importance": 3,
+            "role_tags": [
+                "#제품전략"
+            ],
+            "source": "https://www.wikitree.co.kr/articles/1159459"
+        },
+        {
+            "title": "신한카드, 카드사 최초 '챗GPT 포 카카오' 연계 서비스 — 국내 금융권 AI 에이전트 경쟁 점화",
+            "company": "국내",
+            "importance": 2,
+            "role_tags": [
+                "#영업기회",
+                "#마케팅"
+            ],
+            "source": "http://www.finomy.com/news/articleView.html?idxno=261525"
+        }
+    ]
+}
