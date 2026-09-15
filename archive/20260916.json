@@ -1,0 +1,76 @@
+{
+    "period_start": "2026-09-15T00:00:00+09:00",
+    "period_end": "2026-09-16T00:00:00+09:00",
+    "generated_at": "2026-09-16",
+    "raw_collected": 1079,
+    "company_breakdown": {
+        "OpenAI": 295,
+        "Google": 102,
+        "Anthropic": 53,
+        "Meta": 4,
+        "국내": 11,
+        "기타": 614
+    },
+    "insights": [
+        {
+            "title": "빅테크 CEO들, 이례적으로 \"AI 속도 늦추자\" 공개 합의 — 안전 담론과 '죄수의 딜레마'",
+            "company": "기타",
+            "importance": 3,
+            "role_tags": [
+                "#제품전략",
+                "#영업기회"
+            ],
+            "source": "https://www.aitimes.com/news/articleView.html?idxno=215218"
+        },
+        {
+            "title": "삼성SDS, 국내 최초 앤트로픽 클로드 파트너 네트워크 '셀렉트 티어' 획득 — 원스톱 AX 공급 체계 구축",
+            "company": "Anthropic",
+            "importance": 2,
+            "role_tags": [
+                "#영업기회",
+                "#제품전략"
+            ],
+            "source": "https://www.khan.co.kr/article/202609152036025"
+        },
+        {
+            "title": "카카오, 독립 AI 앱 '카나나' 1년5개월 만에 종료 — 카카오톡 중심으로 AI 전략 재편",
+            "company": "국내",
+            "importance": 2,
+            "role_tags": [
+                "#제품전략",
+                "#마케팅"
+            ],
+            "source": "https://www.newsway.co.kr/news/view?ud=2026091514460939385"
+        },
+        {
+            "title": "구글, 사내 엔지니어에 경쟁사 '클로드' 사용 허용 — 제미나이 코딩 성능 부족 인정",
+            "company": "Google",
+            "importance": 2,
+            "role_tags": [
+                "#제품전략",
+                "#영업기회"
+            ],
+            "source": "https://www.tokenpost.kr/news/ai/408110"
+        },
+        {
+            "title": "애플, '시리 AI' 전면 개편 — 개인 맥락 이해하고 앱까지 조작, 10월 한국어 지원",
+            "company": "Google",
+            "importance": 3,
+            "role_tags": [
+                "#제품전략",
+                "#마케팅"
+            ],
+            "source": "http://www.inews24.com/view/2005992"
+        },
+        {
+            "title": "앤트로픽, '클로드 포 파이낸셜 어드바이저스' 출시 — 오픈AI 이어 월가 AI 주도권 경쟁",
+            "company": "Anthropic",
+            "importance": 2,
+            "role_tags": [
+                "#영업기회",
+                "#제품전략"
+            ],
+            "source": "https://www.aitimes.com/news/articleView.html?idxno=215289"
+        }
+    ]
+}
