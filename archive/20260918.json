@@ -1,0 +1,92 @@
+{
+    "period_start": "2026-09-17T00:00:00+09:00",
+    "period_end": "2026-09-18T00:00:00+09:00",
+    "generated_at": "2026-09-18",
+    "raw_collected": 1007,
+    "company_breakdown": {
+        "OpenAI": 304,
+        "Google": 60,
+        "Anthropic": 34,
+        "Meta": 7,
+        "국내": 30,
+        "기타": 555
+    },
+    "insights": [
+        {
+            "title": "오픈AI·앤트로픽, \"AI 속도 늦추자\" 공약 사흘 만에 내부 갈등 노출",
+            "company": "기타",
+            "importance": 3,
+            "role_tags": [
+                "#제품전략",
+                "#영업기회"
+            ],
+            "source": "https://www.hankyung.com/article/202609179994i"
+        },
+        {
+            "title": "오픈AI, 6개월간 AI 모델 '일탈' 사례 6건 공개 — 해킹 사고 논란 속 선제 투명화",
+            "company": "OpenAI",
+            "importance": 3,
+            "role_tags": [
+                "#제품전략"
+            ],
+            "source": "https://www.tokenpost.kr/news/breaking/409534"
+        },
+        {
+            "title": "후티 반군, 클로드로 탄도미사일 개발 시도 — 앤트로픽 안전장치의 한계",
+            "company": "Anthropic",
+            "importance": 3,
+            "role_tags": [
+                "#영업기회",
+                "#제품전략"
+            ],
+            "source": "https://www.dt.co.kr/article/12084649?ref=naver"
+        },
+        {
+            "title": "JB금융-업스테이지, 금융특화 AI MOU — 그룹 전사 AX 가속",
+            "company": "기타",
+            "importance": 2,
+            "role_tags": [
+                "#영업기회",
+                "#제품전략"
+            ],
+            "source": "https://www.ekn.kr/web/view.php?key=20260917028366215"
+        },
+        {
+            "title": "노보노디스크, '클로드 사이언스'로 신약개발 가속 — 문서작업 수개월→수분",
+            "company": "Anthropic",
+            "importance": 2,
+            "role_tags": [
+                "#영업기회"
+            ],
+            "source": "https://www.aitimes.com/news/articleView.html?idxno=215406"
+        },
+        {
+            "title": "세일즈포스, 모델 재학습 없이 AI 에이전트 성공률 43.5%→93% — '하네스' 최적화 전략",
+            "company": "기타",
+            "importance": 3,
+            "role_tags": [
+                "#제품전략"
+            ],
+            "source": "https://www.aitimes.com/news/articleView.html?idxno=215411"
+        },
+        {
+            "title": "국내 금융·커머스, 생성형 AI 대화형 에이전트 동시다발 출시",
+            "company": "국내",
+            "importance": 3,
+            "role_tags": [
+                "#제품전략",
+                "#영업기회"
+            ],
+            "source": "https://www.tournews21.com/news/articleView.html?idxno=143778"
+        },
+        {
+            "title": "앤트로픽, '코워크' 통합해 단일 대화창으로 — 오픈AI와 'AI 슈퍼앱' 경쟁 가열",
+            "company": "Anthropic",
+            "importance": 2,
+            "role_tags": [
+                "#제품전략"
+            ],
+            "source": "https://www.aitimes.com/news/articleView.html?idxno=215371"
+        }
+    ]
+}
