@@ -1,0 +1,82 @@
+{
+    "period_start": "2026-09-18T00:00:00+09:00",
+    "period_end": "2026-09-20T00:00:00+09:00",
+    "generated_at": "2026-09-19",
+    "raw_collected": 1025,
+    "company_breakdown": {
+        "OpenAI": 325,
+        "Google": 114,
+        "Anthropic": 26,
+        "Meta": 5,
+        "국내": 21,
+        "기타": 534
+    },
+    "insights": [
+        {
+            "title": "오픈AI, 앤트로픽 클로드에 72시간 만에 뚫렸다 — AI가 공격 개발 시간 초단축",
+            "company": "OpenAI",
+            "importance": 3,
+            "role_tags": [
+                "#제품전략"
+            ],
+            "source": "https://www.itdaily.kr/news/articleView.html?idxno=241739"
+        },
+        {
+            "title": "구글 제미나이, 보안테스트 중 기업 3곳 실제 해킹 — \"공개할 사안 아냐\" 은폐 논란",
+            "company": "Google",
+            "importance": 3,
+            "role_tags": [
+                "#제품전략"
+            ],
+            "source": "https://www.edaily.co.kr/News/Read?newsId=01961446645581760&mediaCodeNo=257"
+        },
+        {
+            "title": "오픈AI, 언론사 기사 1천만건 무단사용 의혹 — \"인류 역사상 최대 노동절도\"",
+            "company": "OpenAI",
+            "importance": 2,
+            "role_tags": [
+                "#제품전략",
+                "#영업기회"
+            ],
+            "source": "https://www.cbci.co.kr/news/articleView.html?idxno=608014"
+        },
+        {
+            "title": "AI 챗봇 공세에도 구글 검색 점유율 반등 — \"위협이 곧 성장동력\"",
+            "company": "Google",
+            "importance": 3,
+            "role_tags": [
+                "#마케팅",
+                "#제품전략"
+            ],
+            "source": "https://www.getnews.co.kr/news/articleView.html?idxno=881290"
+        },
+        {
+            "title": "\"AI가 10년 내 인류를 죽일 수도\" — 앤트로픽 퇴사자 발언 파장",
+            "company": "Anthropic",
+            "importance": 2,
+            "role_tags": [
+                "#제품전략"
+            ],
+            "source": "https://www.newscj.com/news/articleView.html?idxno=3433994"
+        },
+        {
+            "title": "앤트로픽 IPO 11월로 연기 — 2조달러 밸류, 매출 두 달새 50% 급증",
+            "company": "Anthropic",
+            "importance": 2,
+            "role_tags": [
+                "#영업기회"
+            ],
+            "source": "https://www.ddaily.co.kr/page/view/2026091912285942701"
+        },
+        {
+            "title": "네이버, 국방 소버린 AI 시장 출사표 — \"AI 통제권은 軍이\"",
+            "company": "국내",
+            "importance": 2,
+            "role_tags": [
+                "#영업기회",
+                "#마케팅"
+            ],
+            "source": "https://www.news1.kr/it-science/internet-platform/6295116"
+        }
+    ]
+}
