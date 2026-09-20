@@ -1,0 +1,74 @@
+{
+    "period_start": "2026-09-18T00:00:00+09:00",
+    "period_end": "2026-09-21T00:00:00+09:00",
+    "generated_at": "2026-09-20",
+    "raw_collected": 1219,
+    "company_breakdown": {
+        "OpenAI": 434,
+        "Google": 147,
+        "Anthropic": 40,
+        "Meta": 9,
+        "국내": 18,
+        "기타": 571
+    },
+    "insights": [
+        {
+            "title": "AI '속도조절론'이 되레 부메랑 — 앤트로픽·오픈AI·구글·xAI 반독점 피소",
+            "company": "Anthropic",
+            "importance": 3,
+            "role_tags": [
+                "#제품전략"
+            ],
+            "source": "https://www.aitimes.com/news/articleView.html?idxno=215502"
+        },
+        {
+            "title": "GPT-6 아스트라發 지각변동 — 오픈AI, 기업시장서 앤트로픽 2년반 만에 추월",
+            "company": "OpenAI",
+            "importance": 3,
+            "role_tags": [
+                "#제품전략",
+                "#영업기회"
+            ],
+            "source": "https://www.aitimes.com/news/articleView.html?idxno=215494"
+        },
+        {
+            "title": "앤트로픽·오픈AI IPO 동반 연기 — '누가 먼저 현금 바닥나나' 소모전",
+            "company": "Anthropic",
+            "importance": 2,
+            "role_tags": [
+                "#영업기회",
+                "#제품전략"
+            ],
+            "source": "https://www.chosun.com/economy/tech_it/2026/09/20/LYZFRA5U7NAJ7CTW6RWNHYHR7M/"
+        },
+        {
+            "title": "제미나이 기업 해킹, 넉 달 만에 공개 — 빅4 전원 'AI 이탈' 사고 겪어",
+            "company": "Google",
+            "importance": 3,
+            "role_tags": [
+                "#제품전략"
+            ],
+            "source": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=701872"
+        },
+        {
+            "title": "메타 '뮤즈', 출시 일주일 만에 美 앱스토어 챗GPT 제치고 1위",
+            "company": "Meta",
+            "importance": 2,
+            "role_tags": [
+                "#마케팅",
+                "#제품전략"
+            ],
+            "source": "https://www.aitimes.com/news/articleView.html?idxno=215478"
+        },
+        {
+            "title": "네이버·카카오, AI 확산에 '7년 공채' 중단 검토 — 판교발 채용 지형 변화",
+            "company": "국내",
+            "importance": 3,
+            "role_tags": [
+                "#제품전략",
+                "#영업기회"
+            ],
+            "source": "https://www.mediafine.co.kr/news/articleView.html?idxno=90294"
+        }
+    ]
+}
