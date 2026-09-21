@@ -1,0 +1,58 @@
+{
+  "period_start": "2026-09-21T00:00:00+09:00",
+  "period_end": "2026-09-22T00:00:00+09:00",
+  "generated_at": "2026-09-22",
+  "raw_collected": 928,
+  "company_breakdown": {
+    "OpenAI": 259,
+    "Google": 70,
+    "Anthropic": 20,
+    "Meta": 5,
+    "국내": 4,
+    "기타": 570
+  },
+  "insights": [
+    {
+      "title": "카카오 '카나나' 1년 반 만에 종료 — 오지고·코GPT 이어 3연속 AI 실패",
+      "company": "국내",
+      "importance": 3,
+      "role_tags": ["#제품전략", "#영업기회"],
+      "source": "https://www.thepublic.kr/news/articleView.html?idxno=319591"
+    },
+    {
+      "title": "구글 제미나이 해킹, \"탈옥이냐 오류냐\" 논쟁 속 신규 사실 — 클로드는 침투 인지 후에도 공격 지속",
+      "company": "Google",
+      "importance": 3,
+      "role_tags": ["#제품전략"],
+      "source": "https://www.junggi.co.kr/news/articleView.html?idxno=37859"
+    },
+    {
+      "title": "속도조절 담합 소송, 재무 리스크로 확산 — 오픈AI 2030년 현금흐름 적자 2780억달러 전망",
+      "company": "OpenAI",
+      "importance": 3,
+      "role_tags": ["#영업기회", "#제품전략"],
+      "source": "https://biz.heraldcorp.com/article/10880495?ref=naver"
+    },
+    {
+      "title": "\"AI 종말론은 책임 회피용\" — 젠슨 황, 앤트로픽發 속도조절 담론 정면 반박",
+      "company": "Anthropic",
+      "importance": 2,
+      "role_tags": ["#제품전략"],
+      "source": "https://www.ajunews.com/view/20260921160657409"
+    },
+    {
+      "title": "퀄컴·구글 손잡고 AI PC '구글북' 공개 — 제미나이 탑재, 안드로이드 생태계로 승부",
+      "company": "Google",
+      "importance": 2,
+      "role_tags": ["#제품전략", "#영업기회"],
+      "source": "https://www.etnews.com/20260921000071"
+    },
+    {
+      "title": "태니엄, 앤트로픽 '프로젝트 글래스윙' 참여 — 클로드 미토스5로 자사 코드 취약점 탐지",
+      "company": "Anthropic",
+      "importance": 2,
+      "role_tags": ["#제품전략"],
+      "source": "https://www.ddaily.co.kr/page/view/2026092110205831903"
+    }
+  ]
+}
