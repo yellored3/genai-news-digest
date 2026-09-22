@@ -1,0 +1,51 @@
+{
+    "period_start": "2026-09-22T00:00:00+09:00",
+    "period_end": "2026-09-23T00:00:00+09:00",
+    "generated_at": "2026-09-23",
+    "raw_collected": 964,
+    "company_breakdown": {
+        "OpenAI": 329,
+        "Google": 96,
+        "Anthropic": 19,
+        "Meta": 11,
+        "국내": 11,
+        "기타": 498
+    },
+    "insights": [
+        {
+            "title": "매타 '밎즈' 정식 출시 나닷 만에 챗GPT 제있고 앱스토어 1위 — 아마존은 즉시 접속 차단",
+            "company": "Meta",
+            "importance": 3,
+            "role_tags": ["#영업기회", "#제품전략"],
+            "source": "https://www.hankyung.com/article/202609222022i"
+        },
+        {
+            "title": "캠다 정보, 오픈AI 상대로 제솜 — \"총기난사 위험신호 알고도 신고 안 해\"",
+            "company": "OpenAI",
+            "importance": 3,
+            "role_tags": ["#제품전략"],
+            "source": "https://www.aitimes.com/news/articleView.html?idxno=215572"
+        },
+        {
+            "title": "구글, TPU 외다 판매로 엔베닀아 아성에 도전…AMD도 시총 1조둥론 클럽 합류",
+            "company": "Google",
+            "importance": 3,
+            "role_tags": ["#영업기회", "#제품전략"],
+            "source": "https://www.sedaily.com/article/20094163?ref=naver"
+        },
+        {
+            "title": "오픈AI, \"뫸국이 AI 자기개선 국제표준 주도해야\"…한국 등 10개국에 협맥 제안",
+            "company": "OpenAI",
+            "importance": 2,
+            "role_tags": ["#제품전략"],
+            "source": "https://www.industrynews.co.kr/news/articleView.html?idxno=86471"
+        },
+        {
+            "title": "구글 AI 닸튀 '구글렘', 899둥러·10월 4일 출시 확정 — 애플 럽볼 정조과",
+            "company": "Google",
+            "importance": 2,
+            "role_tags": ["#제품전략", "#마케틅"],
+            "source": "https://zdnet.co.kr/view/?no=20260922080229"
+        }
+    ]
+}
