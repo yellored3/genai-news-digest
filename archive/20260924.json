@@ -1,0 +1,65 @@
+{
+    "period_start": "2026-09-23T00:00:00+09:00",
+    "period_end": "2026-09-24T00:00:00+09:00",
+    "generated_at": "2026-09-24",
+    "raw_collected": 904,
+    "company_breakdown": {
+        "OpenAI": 334,
+        "Google": 91,
+        "Anthropic": 20,
+        "Meta": 18,
+        "국내": 11,
+        "기타": 430
+    },
+    "insights": [
+        {
+            "title": "AI 속도조절론 무색하게…오픈AI·앤트로픽 동시에 '반값 모델' 출시",
+            "company": "OpenAI/Anthropic",
+            "importance": 3,
+            "role_tags": ["#제품전략", "#영업기회"],
+            "source": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=702887"
+        },
+        {
+            "title": "메타 '뮤즈' 12일 만에 280만 다운로드…메타 주가 11%↑, 이면엔 개인정보 유출 취약점",
+            "company": "Meta",
+            "importance": 3,
+            "role_tags": ["#제품전략", "#영업기회"],
+            "source": "https://www.fnnews.com/news/202609231631391835"
+        },
+        {
+            "title": "트럼프, 국제 AI 규제협정 정면 거부…'초지능 장려' 선언",
+            "company": "정부/미국",
+            "importance": 3,
+            "role_tags": ["#제품전략"],
+            "source": "https://www.bloter.net/news/articleView.html?idxno=674287"
+        },
+        {
+            "title": "메타 94% 독주하던 AI 안경 시장에 삼성 참전…중국은 AR 출하량 263%↑ 추격",
+            "company": "Meta",
+            "importance": 2,
+            "role_tags": ["#제품전략", "#마케팅"],
+            "source": "https://www.autodaily.co.kr/news/articleView.html?idxno=600688"
+        },
+        {
+            "title": "국내 공정위, AI로 확산되는 플랫폼 지배력 정조준…'검색→AI→결제' 통합 생태계 규율 예고",
+            "company": "국내",
+            "importance": 2,
+            "role_tags": ["#제품전략"],
+            "source": "https://www.edaily.co.kr/News/Read?newsId=01613766645583072&mediaCodeNo=257"
+        },
+        {
+            "title": "알리바바, 자체 AI칩 '전우 V900' 공개…美 반도체 규제 속 자립 가속",
+            "company": "Alibaba",
+            "importance": 2,
+            "role_tags": ["#영업기회", "#제품전략"],
+            "source": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=702641"
+        },
+        {
+            "title": "국내 AI 유니콘 뤼튼, IPO 시동…해외 매출이 국내 매출 추월",
+            "company": "국내",
+            "importance": 2,
+            "role_tags": ["#영업기회"],
+            "source": "https://www.venturesquare.net/1115953/"
+        }
+    ]
+}
