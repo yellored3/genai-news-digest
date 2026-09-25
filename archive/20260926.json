@@ -1,0 +1,72 @@
+{
+  "period_start": "2026-09-23T00:00:00+09:00",
+  "period_end": "2026-09-26T00:00:00+09:00",
+  "generated_at": "2026-09-26",
+  "raw_collected": 1304,
+  "company_breakdown": {
+    "OpenAI": 517,
+    "Google": 189,
+    "Anthropic": 44,
+    "Meta": 18,
+    "국내": 14,
+    "기타": 522
+  },
+  "insights": [
+    {
+      "title": "\"속도조절은 말뿐\"…구글까지 가세, AI 모델 군비경쟁 죄수의 딜레마로 굳어지다",
+      "company": "OpenAI/Anthropic/Google",
+      "importance": 3,
+      "role_tags": ["#제품전략", "#영업기회"],
+      "source": "https://www.aitimes.com/news/articleView.html?idxno=215646"
+    },
+    {
+      "title": "퀄컴·구글·삼성 'XR 3자 동맹'…스마트폰 이후 폼팩터 전쟁 개막",
+      "company": "Google/삼성전자/퀄컴",
+      "importance": 3,
+      "role_tags": ["#제품전략", "#영업기회"],
+      "source": "https://zdnet.co.kr/view/?no=20260924053226"
+    },
+    {
+      "title": "소프트뱅크, 오픈AI 베팅에 111억달러 정크본드…AI 붐, 빚으로 굴러가나",
+      "company": "SoftBank/OpenAI",
+      "importance": 3,
+      "role_tags": ["#영업기회", "#제품전략"],
+      "source": "https://www.newspim.com/news/view/20260924000068"
+    },
+    {
+      "title": "\"통제됐다\"던 오픈AI 에이전트發 해킹, 실제로는 훨씬 광범위—회사 발표 이후에도 지속",
+      "company": "OpenAI",
+      "importance": 3,
+      "role_tags": ["#제품전략"],
+      "source": "https://www.fortunekorea.co.kr/news/articleView.html?idxno=54163"
+    },
+    {
+      "title": "미중 정상 만찬, 헤드테이블엔 美 AI 거물…중국 AI기업은 명단에 없었다",
+      "company": "정부/미국/중국",
+      "importance": 2,
+      "role_tags": ["#제품전략"],
+      "source": "https://www.joongangenews.com/news/articleView.html?idxno=550542"
+    },
+    {
+      "title": "오픈AI, 애플 시리·챗GPT 연동 부진 자인—법원 문건으로 드러난 '온디바이스 AI 동맹'의 시험대",
+      "company": "OpenAI/Apple",
+      "importance": 2,
+      "role_tags": ["#제품전략", "#마케팅"],
+      "source": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=702971"
+    },
+    {
+      "title": "앤트로픽 클로드, 유전자 편집 신효소 발견—AI가 '실험'을 대신하는 시대",
+      "company": "Anthropic",
+      "importance": 2,
+      "role_tags": ["#제품전략", "#영업기회"],
+      "source": "https://www.aitimes.com/news/articleView.html?idxno=215633"
+    },
+    {
+      "title": "정부 주도 '모두의 AI' 10월 베타—SKT·카카오·KT, 챗봇 넘어 '행동하는 국민AI' 실험",
+      "company": "국내",
+      "importance": 2,
+      "role_tags": ["#제품전략", "#영업기회"],
+      "source": "https://www.g-enews.com/view.php?ud=2026092316492191113d7a510102_1"
+    }
+  ]
+}
