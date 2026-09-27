@@ -33,6 +33,25 @@
             "source": "https://www.ebn.co.kr/news/articleView.html?idxno=1725634"
         },
         {
+            "title": "오픈AI, GPT-6 솔·루나 출시…API 가격 최대 50%↓로 '생성형 AI 비용 경쟁' 본격화",
+            "company": "OpenAI/Anthropic",
+            "importance": 3,
+            "role_tags": [
+                "#제품전략",
+                "#영업기회"
+            ],
+            "source": "https://www.tokenpost.kr/news/breaking/412425"
+        },
+        {
+            "title": "경쟁사에 밀린 구글, '제미나이4' 조기 출시로 반격 준비…공개 임박",
+            "company": "Google",
+            "importance": 3,
+            "role_tags": [
+                "#제품전략"
+            ],
+            "source": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=703000"
+        },
+        {
             "title": "구글, 10월 1일 TPU 탑재 위성 발사…'우주 AI 데이터센터' 첫 실험",
             "company": "Google",
             "importance": 2,
