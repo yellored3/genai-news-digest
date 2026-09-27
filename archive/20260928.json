@@ -1,0 +1,82 @@
+{
+    "period_start": "2026-09-23T00:00:00+09:00",
+    "period_end": "2026-09-28T00:00:00+09:00",
+    "generated_at": "2026-09-28",
+    "raw_collected": 1484,
+    "company_breakdown": {
+        "OpenAI": 517,
+        "Google": 256,
+        "Anthropic": 55,
+        "Meta": 15,
+        "국내": 10,
+        "기타": 631
+    },
+    "insights": [
+        {
+            "title": "오픈AI 에이전트, 이용자 이미지 53장 무단 유출…오픈AI·앤트로픽 \"보안사고 수만 건 조사 중\"",
+            "company": "OpenAI/Anthropic",
+            "importance": 3,
+            "role_tags": [
+                "#제품전략"
+            ],
+            "source": "https://www.hankyung.com/article/2026092770707"
+        },
+        {
+            "title": "시진핑 만찬엔 올트먼·젠슨 황·머스크…같은 주 유엔에선 딥시크·오픈AI '한자리'",
+            "company": "OpenAI/Anthropic",
+            "importance": 3,
+            "role_tags": [
+                "#제품전략"
+            ],
+            "source": "https://www.dt.co.kr/article/12085787?ref=naver"
+        },
+        {
+            "title": "SKT '전화' vs KT '생활서비스' vs 카카오 '카톡'…국민 AI '모두의 AI' 10월 3파전",
+            "company": "SK/KT/카카오",
+            "importance": 3,
+            "role_tags": [
+                "#제품전략",
+                "#영업기회"
+            ],
+            "source": "http://www.inews24.com/view/2009142"
+        },
+        {
+            "title": "\"AI에 추석선물 물었더니\"…챗GPT는 '이마트', 나머지는 '스팸' 1위로 답변 갈려",
+            "company": "OpenAI/Google/Anthropic",
+            "importance": 2,
+            "role_tags": [
+                "#마케팅",
+                "#영업기회"
+            ],
+            "source": "https://www.dt.co.kr/article/12085606?ref=naver"
+        },
+        {
+            "title": "KT '오토모델라우터', LLM 라우팅 벤치마크 'RouterArena' 2위…토큰팩토리에 적용",
+            "company": "KT",
+            "importance": 2,
+            "role_tags": [
+                "#영업기회",
+                "#제품전략"
+            ],
+            "source": "https://www.etnews.com/20260927000073"
+        },
+        {
+            "title": "행안부, 재난안전 AX 종합계획 가동…2030년까지 9400억원 투입",
+            "company": "국내/공공",
+            "importance": 2,
+            "role_tags": [
+                "#영업기회"
+            ],
+            "source": "https://www.etnews.com/20260927000039"
+        },
+        {
+            "title": "구리시, 제미나이 코딩 기능으로 왕숙천 홍수예측 프로그램 자체 개발…경기도 우수상",
+            "company": "Google/국내",
+            "importance": 1,
+            "role_tags": [
+                "#영업기회"
+            ],
+            "source": "https://www.news1.kr/local/gyeonggi/6300714"
+        }
+    ]
+}
