@@ -1,0 +1,119 @@
+{
+    "period_start": "2026-09-28T00:00:00+09:00",
+    "period_end": "2026-09-29T00:00:00+09:00",
+    "generated_at": "2026-09-29",
+    "raw_collected": 845,
+    "company_breakdown": {
+        "OpenAI": 234,
+        "Google": 51,
+        "Anthropic": 46,
+        "Meta": 15,
+        "국내": 5,
+        "기타": 500
+    },
+    "insights": [
+        {
+            "title": "메타 '뮤즈' 출시 15일 만에 300만 다운로드…에이전틱 커머스 시대 개막",
+            "company": "Meta",
+            "importance": 3,
+            "role_tags": [
+                "#제품전략",
+                "#영업기회",
+                "#마케팅"
+            ],
+            "source": "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609280006&t=NN"
+        },
+        {
+            "title": "AI 에이전트, 호주 정부·美 교육부 시스템까지 침투 시도…올트먼 \"자율 규제로는 부족\"",
+            "company": "OpenAI",
+            "importance": 3,
+            "role_tags": [
+                "#제품전략"
+            ],
+            "source": "https://www.ytn.co.kr/_ln/0104_202609282327464698"
+        },
+        {
+            "title": "다크웹서 오픈AI·구글·앤트로픽 계정 97% 할인 거래…'LLM 재킹' 암시장 조직화",
+            "company": "OpenAI/Google/Anthropic",
+            "importance": 2,
+            "role_tags": [
+                "#제품전략"
+            ],
+            "source": "https://www.etnews.com/20260928000004"
+        },
+        {
+            "title": "트럼프·아모데이, 백악관 첫 단독 만찬…국방부 안전장치 완화 요구 갈등 속 담판",
+            "company": "Anthropic",
+            "importance": 2,
+            "role_tags": [
+                "#영업기회"
+            ],
+            "source": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=703083"
+        },
+        {
+            "title": "구글, '제미나이 4' 조기 출시 공식화…플래그십 갱신 지연 만회 나서",
+            "company": "Google",
+            "importance": 2,
+            "role_tags": [
+                "#제품전략"
+            ],
+            "source": "https://www.itworld.co.kr/article/4227322/구글-연내-제미나이-4-출시-계획-공식화.html"
+        },
+        {
+            "title": "한국 생성형 AI 사용률 40.6%로 세계 12위…\"쓰는 사람은 결제까지, 안 쓰는 사람은 그대로\"",
+            "company": "국내",
+            "importance": 2,
+            "role_tags": [
+                "#마케팅"
+            ],
+            "source": "https://www.etnews.com/20260928000339"
+        },
+        {
+            "title": "'모두의 AI' 10월 베타 시작…SKT·KT·카카오, 무료 유지하며 수익 낼 방법 찾아야",
+            "company": "국내",
+            "importance": 3,
+            "role_tags": [
+                "#영업기회",
+                "#제품전략"
+            ],
+            "source": "https://www.seoulfn.com/news/articleView.html?idxno=638813"
+        },
+        {
+            "title": "한화자산운용, 클로드 기반 AI '오딘' 전사 도입…하루 6만 건 뉴스 읽는 투자 에이전트",
+            "company": "Anthropic/국내",
+            "importance": 2,
+            "role_tags": [
+                "#제품전략"
+            ],
+            "source": "https://www.e-science.co.kr/news/articleView.html?idxno=136141"
+        },
+        {
+            "title": "\"프런티어 모델, 90%면 충분\"…美 기업들, 비용 때문에 개방형 AI로 대이동",
+            "company": "OpenAI/Google/Anthropic",
+            "importance": 2,
+            "role_tags": [
+                "#제품전략",
+                "#영업기회"
+            ],
+            "source": "https://www.etoday.co.kr/news/view/2629988"
+        },
+        {
+            "title": "삼성전자, SK하이닉스와 HBM 격차 반년 만에 절반으로…HBM4가 승부처",
+            "company": "국내",
+            "importance": 2,
+            "role_tags": [
+                "#영업기회"
+            ],
+            "source": "https://www.ceoscoredaily.com/page/view/2026092311323645284"
+        },
+        {
+            "title": "클로드, 물리학 난제 '9루프 산란 진폭' 계산 성공…1,000~2,000달러·1주일로 신기록",
+            "company": "Anthropic",
+            "importance": 1,
+            "role_tags": [
+                "#제품전략"
+            ],
+            "source": "https://www.aitimes.com/news/articleView.html?idxno=215716"
+        }
+    ]
+}
