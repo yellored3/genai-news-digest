@@ -1,0 +1,112 @@
+{
+    "period_start": "2026-09-29T00:00:00+09:00",
+    "period_end": "2026-09-30T00:00:00+09:00",
+    "generated_at": "2026-09-30",
+    "raw_collected": 948,
+    "company_breakdown": {
+        "OpenAI": 328,
+        "Google": 50,
+        "Anthropic": 32,
+        "Meta": 15,
+        "국내": 44,
+        "기타": 479
+    },
+    "insights": [
+        {
+            "title": "오픈AI 'GPT-6.1 아스트라' 안전성 미달로 전격 철회…앤트로픽은 같은 날 '소넷 5.5' 출시",
+            "company": "OpenAI/Anthropic",
+            "importance": 3,
+            "role_tags": [
+                "#제품전략"
+            ],
+            "source": "https://www.ddaily.co.kr/page/view/2026092909102020823"
+        },
+        {
+            "title": "앤트로픽, 2조달러 몸값 노리는 IPO 도전…투자설명서에 \"AI, 인류 멸종급 위험\" 자인",
+            "company": "Anthropic",
+            "importance": 3,
+            "role_tags": [
+                "#영업기회",
+                "#제품전략"
+            ],
+            "source": "https://www.mstoday.co.kr/news/articleView.html?idxno=102712"
+        },
+        {
+            "title": "AMD, '82억달러'로 페이페이 리의 월드랩스 인수…엔비디아 겨냥한 '피지컬 AI' 승부수",
+            "company": "기타",
+            "importance": 2,
+            "role_tags": [
+                "#제품전략",
+                "#영업기회"
+            ],
+            "source": "https://www.fnnews.com/news/202609291122180990"
+        },
+        {
+            "title": "구글, EU '검색데이터·안드로이드 개방' 명령에 불복 소송…\"공정경쟁 vs 개인정보\" 충돌",
+            "company": "Google",
+            "importance": 2,
+            "role_tags": [
+                "#제품전략"
+            ],
+            "source": "https://www.etnews.com/20260929000353"
+        },
+        {
+            "title": "젠슨 황 \"AI는 폭주하지 않는다\"…속도조절론에 정면 반박",
+            "company": "기타",
+            "importance": 2,
+            "role_tags": [
+                "#제품전략"
+            ],
+            "source": "https://view.asiae.co.kr/article/2026092919294643253"
+        },
+        {
+            "title": "카카오 '카나나 상담매니저' 생성형 AI로 고도화…소상공인 고객응대 자동화",
+            "company": "국내",
+            "importance": 2,
+            "role_tags": [
+                "#마케팅",
+                "#제품전략"
+            ],
+            "source": "https://www.m-i.kr/news/articleView.html?idxno=2000767"
+        },
+        {
+            "title": "국내 스타트업 라이너, 'MCP 허브' 액션즈 MCP 출시…1100여개 도구 한 번에 연동",
+            "company": "국내",
+            "importance": 2,
+            "role_tags": [
+                "#제품전략",
+                "#영업기회"
+            ],
+            "source": "https://www.etnews.com/20260929000332"
+        },
+        {
+            "title": "베스핀글로벌·JB금융그룹, 전사 AI 에이전트 전환 추진…\"AI가 일하는 금융\" 본궤도",
+            "company": "국내",
+            "importance": 1,
+            "role_tags": [
+                "#영업기회",
+                "#제품전략"
+            ],
+            "source": "http://www.inews24.com/view/2010049"
+        },
+        {
+            "title": "생성형 AI 도농 격차 1년 새 3배로…\"인프라 격차가 곧 경험 격차\"",
+            "company": "국내",
+            "importance": 2,
+            "role_tags": [
+                "#마케팅",
+                "#영업기회"
+            ],
+            "source": "https://www.kbsm.net/news/view.php?idx=535880"
+        },
+        {
+            "title": "\"AI 에이전트에 권한 어디까지\"…메타·토스, 개인정보 안전장치 선제 도입",
+            "company": "Meta/국내",
+            "importance": 2,
+            "role_tags": [
+                "#제품전략"
+            ],
+            "source": "https://news.mtn.co.kr/news-detail/2026092915195124670"
+        }
+    ]
+}
