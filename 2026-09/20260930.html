@@ -34,6 +34,14 @@
   @media (prefers-color-scheme: dark) { .article-item a { color:#8ab4f8; } .article-item { border-color:#333; } }
   .note { font-size:12px; color:#888; margin-top:20px; }
   footer { margin-top:32px; font-size:12px; color:#999; text-align:center; }
+  .tip-card { background:#eefcf5; border:1px solid #bfe9d3; border-radius:12px; padding:16px;
+              margin-bottom:20px; }
+  @media (prefers-color-scheme: dark) { .tip-card { background:#0f2a1e; border-color:#1f4a34; } }
+  .tip-card .tip-label { font-size:11px; font-weight:600; color:#0a6; letter-spacing:.02em;
+                          margin-bottom:6px; }
+  .tip-card h3 { margin:0 0 8px; font-size:15px; }
+  .tip-card p { margin:0; font-size:13.5px; line-height:1.55; color:#333; }
+  @media (prefers-color-scheme: dark) { .tip-card p { color:#ccc; } }
 </style>
 </head>
 <body>
@@ -42,6 +50,12 @@
     <h1>생성형 AI 뉴스 인사이트</h1>
     <p>9/29 종합 · 948건 수집 분석 · 10개 인사이트</p>
   </header>
+
+  <div class="tip-card">
+    <div class="tip-label">오늘의 AI 활용 팁</div>
+    <h3>AI 환각 막는 가장 간단한 방법? "페이지에 없으면 추측하지 마"</h3>
+    <p>생성형 AI가 없는 사실을 지어내는 '환각(hallucination)'을 줄이는 가장 손쉬운 방법은 프롬프트에 "제공된 문서/페이지에 없는 내용이면 추측하지 말고 모른다고 답하라"는 지시를 명시하는 것이다. RAG(검색증강생성)든 단순 문서 Q&amp;A든, 이 한 줄만 추가해도 근거 없는 답변이 크게 줄어든다. 다만 이 지시가 환각을 완전히 없애주지는 않으므로, 중요한 답변일수록 출처를 함께 확인하는 습관은 여전히 필요하다.</p>
+  </div>
 
   <div class="insight-card">
     <div class="importance">★★★</div>
