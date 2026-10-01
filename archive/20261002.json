@@ -1,0 +1,109 @@
+{
+    "period_start": "2026-10-01T00:00:00+09:00",
+    "period_end": "2026-10-02T00:00:00+09:00",
+    "generated_at": "2026-10-02",
+    "raw_collected": 1122,
+    "company_breakdown": {
+        "OpenAI": 330,
+        "Google": 230,
+        "Anthropic": 22,
+        "Meta": 2,
+        "국내": 6,
+        "기타": 532
+    },
+    "insights": [
+        {
+            "title": "구글, 7개월 만에 최상위 AI '제미나이 4 아르곤' 복귀…보안 파트너 한정 공개 속 내부 회의론도",
+            "company": "Google",
+            "importance": 3,
+            "role_tags": [
+                "#제품전략"
+            ],
+            "source": "https://www.aitimes.com/news/articleView.html?idxno=215824"
+        },
+        {
+            "title": "메타 '뮤즈' 돌풍에 월간 주가 27%↑…오픈AI '닷', xAI 그록봇까지 'AI 비서 대전' 개막",
+            "company": "Meta/OpenAI",
+            "importance": 3,
+            "role_tags": [
+                "#제품전략",
+                "#마케팅"
+            ],
+            "source": "https://www.sedaily.com/article/20096954?ref=naver"
+        },
+        {
+            "title": "다올투자증권, 챗GPT·클로드로 실주식 주문까지…'MCP 트레이딩' 정식 출시",
+            "company": "국내/OpenAI/Anthropic",
+            "importance": 3,
+            "role_tags": [
+                "#영업기회",
+                "#제품전략"
+            ],
+            "source": "https://www.dt.co.kr/article/12086937?ref=naver"
+        },
+        {
+            "title": "클로드로 가짜 X계정 1000개 관리…말레이시아 222개 선거구 겨냥한 여론공작 적발",
+            "company": "Anthropic",
+            "importance": 3,
+            "role_tags": [
+                "#제품전략"
+            ],
+            "source": "https://www.newsis.com/view/NISX20261001_0003811285"
+        },
+        {
+            "title": "앤트로픽 \"中 오픈소스 모델 'GLM-5.3', 단돈 1200달러로 안전장치 무력화 가능\"",
+            "company": "Anthropic",
+            "importance": 2,
+            "role_tags": [
+                "#제품전략"
+            ],
+            "source": "https://www.g-enews.com/view.php?ud=202610010920307810c8c1c064d_1"
+        },
+        {
+            "title": "LS증권도 같은 날 챗GPT 연동 '매매코드 자동생성' 서비스 오픈…증권업계 AI-API 동시다발 확산",
+            "company": "국내/OpenAI",
+            "importance": 2,
+            "role_tags": [
+                "#영업기회"
+            ],
+            "source": "https://biz.heraldcorp.com/article/10890701?ref=naver"
+        },
+        {
+            "title": "업스테이지 '솔라 미니 4' 공개…GPU 1장 구동 경량 LLM으로 글로벌 대형모델 경쟁과 차별화",
+            "company": "국내",
+            "importance": 2,
+            "role_tags": [
+                "#제품전략"
+            ],
+            "source": "https://www.etnews.com/20261001000457"
+        },
+        {
+            "title": "LG CNS, 美 제너럴 애틀랜틱과 SW·AI 공동투자…\"AI 빌려쓰기 넘어 SW 직접 품는다\"",
+            "company": "국내",
+            "importance": 2,
+            "role_tags": [
+                "#영업기회",
+                "#제품전략"
+            ],
+            "source": "http://www.thefirstmedia.net/news/articleView.html?idxno=209908"
+        },
+        {
+            "title": "국내 생성형 AI 스타트업 올거나이즈, 도쿄증권거래소 상장 승인…해외 자본시장 데뷔",
+            "company": "국내",
+            "importance": 2,
+            "role_tags": [
+                "#영업기회"
+            ],
+            "source": "https://www.ddaily.co.kr/page/view/2026100116552066232"
+        },
+        {
+            "title": "트럼프가 극찬한 美 연방 AI 챗봇, 트럼프 거짓 주장 반박 하루 뒤 돌연 답변 거부",
+            "company": "Google/기타",
+            "importance": 2,
+            "role_tags": [
+                "#제품전략"
+            ],
+            "source": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008779104&plink=ORI&cooper=NAVER"
+        }
+    ]
+}
