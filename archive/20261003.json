@@ -1,0 +1,100 @@
+{
+    "period_start": "2026-10-02T00:00:00+09:00",
+    "period_end": "2026-10-03T00:00:00+09:00",
+    "generated_at": "2026-10-03",
+    "raw_collected": 924,
+    "company_breakdown": {
+        "OpenAI": 176,
+        "Google": 83,
+        "Anthropic": 19,
+        "Meta": 6,
+        "국내": 5,
+        "기타": 635
+    },
+    "insights": [
+        {
+            "title": "신한·국민·하나은행 연쇄 해킹에 중국산 AI 침투도구 'ARTEX' 흔적…\"AI 범용화가 공격도 폭발시킨다\"",
+            "company": "기타",
+            "importance": 3,
+            "role_tags": [
+                "#제품전략"
+            ],
+            "source": "https://www.techm.kr/news/articleView.html?idxno=155830"
+        },
+        {
+            "title": "현대차, 신형 투싼에 LLM 기반 AI 에이전트 '글레오 AI' 탑재…완성차도 '음성비서 대전' 참전",
+            "company": "기타",
+            "importance": 3,
+            "role_tags": [
+                "#제품전략",
+                "#마케팅"
+            ],
+            "source": "http://www.inews24.com/view/2011170"
+        },
+        {
+            "title": "구글, 최상위 모델 '제미나이4 아르곤'은 여전히 한정 공개…'AI 프로' 구독은 40% 할인으로 공격적 확대",
+            "company": "Google",
+            "importance": 3,
+            "role_tags": [
+                "#마케팅",
+                "#제품전략"
+            ],
+            "source": "https://www.mstoday.co.kr/news/articleView.html?idxno=200061"
+        },
+        {
+            "title": "오픈AI, 외부 AI안전평가기관과 정보 공유한 안전팀 연구원 3명 해고…\"투명성과 기업보안의 충돌\"",
+            "company": "OpenAI",
+            "importance": 2,
+            "role_tags": [
+                "#제품전략"
+            ],
+            "source": "https://www.aitimes.com/news/articleView.html?idxno=215876"
+        },
+        {
+            "title": "앤트로픽 \"2025년 순손실 420억달러\" 숫자 뒤엔 회계상 평가손실…실제 영업손실은 80억달러",
+            "company": "Anthropic",
+            "importance": 2,
+            "role_tags": [
+                "#영업기회"
+            ],
+            "source": "https://www.itdaily.kr/news/articleView.html?idxno=241982"
+        },
+        {
+            "title": "넷리스트, 마이크론 HBM 특허소송에 엔비디아·구글·브로드컴까지 피고로…SK하이닉스는 솔리다임 IPO로 자본 재배치",
+            "company": "기타",
+            "importance": 2,
+            "role_tags": [
+                "#제품전략"
+            ],
+            "source": "http://www.bizwnews.com/news/articleView.html?idxno=147925"
+        },
+        {
+            "title": "코레일, 추석 연휴 생성형 AI로 위조한 가짜 승차권 적발…명절 성수기 '증서 위조' 악용 확산",
+            "company": "기타",
+            "importance": 2,
+            "role_tags": [
+                "#제품전략"
+            ],
+            "source": "https://www.tjb.co.kr/news05/bodo/view/id/104366"
+        },
+        {
+            "title": "영국 바클레이스, 개발자 절반에 '클로드 코드' 확대 도입…금융권 AI 코딩도구 '전사 표준화' 모델 제시",
+            "company": "Anthropic",
+            "importance": 2,
+            "role_tags": [
+                "#제품전략",
+                "#영업기회"
+            ],
+            "source": "https://www.aitimes.kr/news/articleView.html?idxno=42171"
+        },
+        {
+            "title": "LG유플러스·옵트에이아이, 같은 GPU로 AI 토큰 처리량 4배 높이는 '토큰 최적화' 상용화 추진",
+            "company": "기타",
+            "importance": 2,
+            "role_tags": [
+                "#제품전략"
+            ],
+            "source": "https://www.pointdaily.co.kr/news/articleView.html?idxno=321224"
+        }
+    ]
+}
