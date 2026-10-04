@@ -1,0 +1,67 @@
+{
+    "period_start": "2026-10-02T00:00:00+09:00",
+    "period_end": "2026-10-05T00:00:00+09:00",
+    "generated_at": "2026-10-05",
+    "raw_collected": 1213,
+    "company_breakdown": {
+        "OpenAI": 304,
+        "Google": 132,
+        "Anthropic": 40,
+        "Meta": 11,
+        "Upstage": 9,
+        "Nvidia": 8,
+        "국내": 5,
+        "Microsoft": 5,
+        "Perplexity": 2,
+        "기타": 656
+    },
+    "insights": [
+        {
+            "title": "금융권 해킹에 등장한 'ARTEX' AI 침투툴, 전세계 14개국·359개 IP서 포착",
+            "company": "기타",
+            "importance": 3,
+            "role_tags": [
+                "#제품전략"
+            ],
+            "source": "https://www.dailysecu.com/news/articleView.html?idxno=208724"
+        },
+        {
+            "title": "애플, AI 에이전트의 맥OS '전체 디스크 접근' 권한에 추가 승인 절차 도입",
+            "company": "OpenAI",
+            "importance": 3,
+            "role_tags": [
+                "#제품전략"
+            ],
+            "source": "https://www.aitimes.com/news/articleView.html?idxno=215938"
+        },
+        {
+            "title": "구글, TPU 4개 실은 위성 궤도 발사…'프로젝트 선캐처'로 우주 데이터센터 실증 착수",
+            "company": "Google",
+            "importance": 2,
+            "role_tags": [
+                "#제품전략"
+            ],
+            "source": "https://www.sedaily.com/article/20097715?ref=naver"
+        },
+        {
+            "title": "업스테이지, 350억 파라미터 소형 LLM '솔라 미니 4' 공개…글로벌 벤치마크서 큐원·네모트론 앞서",
+            "company": "국내",
+            "importance": 2,
+            "role_tags": [
+                "#제품전략",
+                "#영업기회"
+            ],
+            "source": "https://byline.network/?p=9004111222622107"
+        },
+        {
+            "title": "퍼플렉시티, 연내 한국 법인 설립 추진…미래에셋은 1억달러 베팅",
+            "company": "Perplexity",
+            "importance": 2,
+            "role_tags": [
+                "#영업기회",
+                "#제품전략"
+            ],
+            "source": "https://zdnet.co.kr/view/?no=20261004000952"
+        }
+    ]
+}
