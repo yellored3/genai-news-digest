@@ -1,0 +1,57 @@
+{
+    "period_start": "2026-10-02T00:00:00+09:00",
+    "period_end": "2026-10-06T00:00:00+09:00",
+    "generated_at": "2026-10-06",
+    "raw_collected": 1428,
+    "company_breakdown": {
+        "OpenAI": 381,
+        "Google": 185,
+        "Anthropic": 56,
+        "국내": 33,
+        "Upstage": 10,
+        "Nvidia": 9,
+        "Meta": 6,
+        "Microsoft": 5,
+        "xAI": 2,
+        "Apple": 2,
+        "Perplexity": 1,
+        "기타": 738
+    },
+    "insights": [
+        {
+            "title": "금융권 AI 해킹 전방위 확산…\"망분리만으론 못 막는다\" 보안체계 재검토 논쟁",
+            "company": "국내",
+            "importance": 3,
+            "role_tags": ["#제품전략"],
+            "source": "https://www.khan.co.kr/article/202610052119005"
+        },
+        {
+            "title": "구글, 11개월 만의 최상위 모델 '제미나이4 아르곤' 깜짝 공개…속도조절론 무색케 한 공개 방식",
+            "company": "Google",
+            "importance": 3,
+            "role_tags": ["#제품전략"],
+            "source": "https://www.ajunews.com/view/20261002085818186"
+        },
+        {
+            "title": "구글, 제미나이 무료·저가 요금제서 '프로' 모델 제외…아르곤 수익화 본격 시동",
+            "company": "Google",
+            "importance": 2,
+            "role_tags": ["#제품전략", "#영업기회"],
+            "source": "https://www.hankyung.com/article/2026100539317"
+        },
+        {
+            "title": "앤트로픽, 기업가치 최대 2조 달러 '메가 IPO' 추진…추수감사절 전 상장 목표로 일정 재조정",
+            "company": "Anthropic",
+            "importance": 3,
+            "role_tags": ["#영업기회", "#제품전략"],
+            "source": "https://zdnet.co.kr/view/?no=20261002083313"
+        },
+        {
+            "title": "오픈AI 안전시스템팀 리더 퇴사 \"AI 기업, 원전처럼 겹겹의 안전장치 갖춰야\"",
+            "company": "OpenAI",
+            "importance": 2,
+            "role_tags": ["#제품전략"],
+            "source": "https://www.econovill.com/news/articleView.html?idxno=752695"
+        }
+    ]
+}
