@@ -1,0 +1,82 @@
+{
+    "period_start": "2026-10-07T00:00:00+09:00",
+    "period_end": "2026-10-08T00:00:00+09:00",
+    "generated_at": "2026-10-08",
+    "raw_collected": 1050,
+    "company_breakdown": {
+        "OpenAI": 308,
+        "Google": 90,
+        "Amazon": 22,
+        "Anthropic": 19,
+        "국내": 17,
+        "Samsung": 9,
+        "LG": 8,
+        "Meta": 6,
+        "Nvidia": 4,
+        "Apple": 3,
+        "Upstage": 3,
+        "Microsoft": 1,
+        "xAI": 1,
+        "Perplexity": 1,
+        "KAIST": 1,
+        "기타": 557
+    },
+    "insights": [
+        {
+            "title": "금융권 해킹 'ARTEX' 사태, WSJ 보도로 전세계 이슈화…딥시크 연동까지 확인",
+            "company": "기타",
+            "importance": 3,
+            "role_tags": ["#제품전략"],
+            "source": "https://www.fnnews.com/news/202610071820584232"
+        },
+        {
+            "title": "美 국방부, 앤트로픽 클로드 사용 전면 중단 확인",
+            "company": "Anthropic",
+            "importance": 3,
+            "role_tags": ["#제품전략"],
+            "source": "https://en.asiatoday.co.kr/view.php?key=20261007000931139"
+        },
+        {
+            "title": "구글, 美 최대 원전기업과 20년 전력계약…AI 데이터센터용 3.59GW 확보",
+            "company": "Google",
+            "importance": 3,
+            "role_tags": ["#제품전략"],
+            "source": "https://www.ebn.co.kr/news/articleView.html?idxno=1726908"
+        },
+        {
+            "title": "국내 AI 앱 순위 재편…클로드 사용자 1년 새 13배 급증",
+            "company": "Anthropic",
+            "importance": 2,
+            "role_tags": ["#마케팅", "#제품전략"],
+            "source": "https://www.edaily.co.kr/News/Read?newsId=02892966645610624&mediaCodeNo=257"
+        },
+        {
+            "title": "BC카드, 카드사 최초 챗GPT 연계 '퍼스널 쇼퍼' 서비스 출시",
+            "company": "OpenAI",
+            "importance": 2,
+            "role_tags": ["#마케팅", "#영업기회"],
+            "source": "https://www.cnbizm.com/news/articleView.html?idxno=317372"
+        },
+        {
+            "title": "로그프레소, 챗GPT 엔터프라이즈 사용기록 SIEM에 통합",
+            "company": "OpenAI",
+            "importance": 2,
+            "role_tags": ["#제품전략"],
+            "source": "https://www.dt.co.kr/article/12088027?ref=naver"
+        },
+        {
+            "title": "오픈AI, 상시 작업형 에이전트 '닷(Dots)' 공개…시연 오류 속 경쟁 가속",
+            "company": "OpenAI",
+            "importance": 2,
+            "role_tags": ["#제품전략"],
+            "source": "http://www.digitalbizon.com/news/articleView.html?idxno=2343947"
+        },
+        {
+            "title": "미스트랄, 1조 파라미터 오픈웨이트 모델 '라지4' 공개…보안 특화 내세워",
+            "company": "기타",
+            "importance": 2,
+            "role_tags": ["#제품전략"],
+            "source": "https://www.aitimes.com/news/articleView.html?idxno=216024"
+        }
+    ]
+}
