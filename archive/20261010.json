@@ -1,0 +1,65 @@
+{
+  "period_start": "2026-10-09T00:00:00+09:00",
+  "period_end": "2026-10-10T00:00:00+09:00",
+  "generated_at": "2026-10-10T08:08:20+09:00",
+  "raw_collected": 386,
+  "company_breakdown": {
+    "OpenAI": 116,
+    "Anthropic": 34,
+    "Google": 14,
+    "Meta": 8,
+    "국내": 4,
+    "Samsung": 4,
+    "Nvidia": 3,
+    "Apple": 2,
+    "SKT": 2,
+    "Amazon": 1,
+    "Upstage": 1,
+    "Mistral": 1,
+    "기타": 196
+  },
+  "insights": [
+    {
+      "title": "오픈AI 연매출, 알려졌던 700억달러 아닌 500억달러…AI 거품론 재점화",
+      "company": "OpenAI",
+      "importance": 3,
+      "role_tags": ["#제품전략"],
+      "source": "https://www.aitimes.com/news/articleView.html?idxno=216098"
+    },
+    {
+      "title": "금융권 해킹 '아르텍스', 중국 광둥성 26세 추정 용의자 포착…개발사는 결국 비공개 전환",
+      "company": "Anthropic",
+      "importance": 3,
+      "role_tags": ["#제품전략"],
+      "source": "https://www.kmib.co.kr/article/view.asp?arcid=9000021141&cp=nv"
+    },
+    {
+      "title": "\"12억명에 무료 푼 오픈AI\" vs \"비용 75%↓ 앤트로픽\"…같은 날 격돌한 가격 전략",
+      "company": "OpenAI",
+      "importance": 3,
+      "role_tags": ["#마케팅", "#제품전략"],
+      "source": "https://www.cbci.co.kr/news/articleView.html?idxno=613547"
+    },
+    {
+      "title": "AI발 해킹 확산에 보안 인력난 가속…상반기 채용수요 88%↑",
+      "company": "기타",
+      "importance": 2,
+      "role_tags": ["#영업기회", "#제품전략"],
+      "source": "https://www.sedaily.com/article/20099893?ref=naver"
+    },
+    {
+      "title": "구글, 기업용 '제미나이 에이전트' 출시…자사 모델 아닌 클로드까지 얹은 멀티모델 전략",
+      "company": "Google",
+      "importance": 2,
+      "role_tags": ["#제품전략", "#영업기회"],
+      "source": "https://www.aitimes.com/news/articleView.html?idxno=216096"
+    },
+    {
+      "title": "앤트로픽, 오픈소스 취약점 무료 탐지 'OSS 스캐너' 공개…AI 보안의 두 얼굴",
+      "company": "Anthropic",
+      "importance": 2,
+      "role_tags": ["#제품전략"],
+      "source": "https://www.aitimes.com/news/articleView.html?idxno=216101"
+    }
+  ]
+}
