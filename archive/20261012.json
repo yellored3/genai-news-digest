@@ -1,0 +1,63 @@
+{
+  "period_start": "2026-10-08T00:00:00+09:00",
+  "period_end": "2026-10-12T00:00:00+09:00",
+  "generated_at": "2026-10-12T08:30:00+09:00",
+  "raw_collected": 1400,
+  "company_breakdown": {
+    "OpenAI": 464,
+    "Anthropic": 153,
+    "Google": 99,
+    "Samsung": 21,
+    "DeepSeek": 20,
+    "Meta": 19,
+    "국내": 34,
+    "LG": 12,
+    "Upstage": 10,
+    "Nvidia": 8,
+    "Apple": 4,
+    "Mistral": 4,
+    "xAI": 2,
+    "Amazon": 1,
+    "Microsoft": 1,
+    "SKT": 1,
+    "Tesla": 1,
+    "기타": 546
+  },
+  "insights": [
+    {
+      "title": "금융권 해킹 사태, 용의자는 \"누명\" 반박…크라우드스트라이크 \"6개 공격조직 추적, 빙산의 일각\"",
+      "company": "기타",
+      "importance": 3,
+      "role_tags": ["#제품전략"],
+      "source": "https://zdnet.co.kr/view/?no=20261011131228"
+    },
+    {
+      "title": "오픈AI, 자해대응 안전성 86%→99%로 끌어올렸지만…내부 안전연구원 해고 공방, 청소년 보호 실효성 의문",
+      "company": "OpenAI",
+      "importance": 3,
+      "role_tags": ["#제품전략", "#마케팅"],
+      "source": "https://www.g-enews.com/view.php?ud=2026101022123059839a1f309431_1"
+    },
+    {
+      "title": "메타 '뮤즈' 출시 2주 만에 DAU 64만 돌파…'에이전트 관문' 주도권 경쟁 본격화",
+      "company": "Meta",
+      "importance": 3,
+      "role_tags": ["#제품전략", "#영업기회"],
+      "source": "https://www.koit.co.kr/news/articleView.html?idxno=209402"
+    },
+    {
+      "title": "앤트로픽, \"클로드에 반복 욕설하면 대화 종료\"…AI 의인화 논쟁에 불 붙은 이용정책",
+      "company": "Anthropic",
+      "importance": 2,
+      "role_tags": ["#제품전략"],
+      "source": "https://www.munhwa.com/article/11622490?ref=naver"
+    },
+    {
+      "title": "엔비디아, '리플렉션AI' 인수 협상…'美판 딥시크' 만들어 오픈웨이트 생태계 선점",
+      "company": "Nvidia",
+      "importance": 2,
+      "role_tags": ["#영업기회", "#제품전략"],
+      "source": "https://www.edaily.co.kr/News/Read?newsId=01295606645611936&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article"
+    }
+  ]
+}
