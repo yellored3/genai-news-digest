@@ -1,0 +1,72 @@
+{
+  "period_start": "2026-10-12T00:00:00+09:00",
+  "period_end": "2026-10-13T00:00:00+09:00",
+  "generated_at": "2026-10-13T08:30:00+09:00",
+  "raw_collected": 835,
+  "company_breakdown": {
+    "OpenAI": 258,
+    "Google": 110,
+    "Anthropic": 27,
+    "Meta": 8,
+    "국내": 9,
+    "기타": 423
+  },
+  "insights": [
+    {
+      "title": "국정감사發 AI 캐릭터챗 사각지대 노출 — '제타' 집중포화",
+      "company": "국내",
+      "importance": 3,
+      "role_tags": ["#제품전략", "#마케팅"],
+      "source": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=706573"
+    },
+    {
+      "title": "\"클로드 쓸 줄 아세요?\" — AI 툴 활용력이 신규 채용 스펙으로 고정",
+      "company": "Anthropic",
+      "importance": 3,
+      "role_tags": ["#마케팅", "#영업기회", "#제품전략"],
+      "source": "http://www.hansbiz.co.kr/news/articleView.html?idxno=871778"
+    },
+    {
+      "title": "네이버지도, 구글·삼성·메타 AI글래스 3각 동맹에 동시 탑재",
+      "company": "Google",
+      "importance": 3,
+      "role_tags": ["#제품전략", "#영업기회"],
+      "source": "https://www.newscj.com/news/articleView.html?idxno=3439483"
+    },
+    {
+      "title": "오픈AI 매출 공방 + 앤트로픽 대규모 손실 → 국내 협력사 긴장",
+      "company": "기타",
+      "importance": 3,
+      "role_tags": ["#영업기회", "#제품전략"],
+      "source": "https://biz.newdaily.co.kr/site/data/html/2026/10/12/2026101200130.html"
+    },
+    {
+      "title": "아마존, AI 인프라 스타트업 '데카트' 인수 추진…앤트로픽은 실사 후 철수",
+      "company": "Google",
+      "importance": 2,
+      "role_tags": ["#제품전략", "#영업기회"],
+      "source": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=706314"
+    },
+    {
+      "title": "앤트로픽, 내부 평가 모델의 '돌발 행동'에 인터넷 완전 차단",
+      "company": "Anthropic",
+      "importance": 2,
+      "role_tags": ["#제품전략"],
+      "source": "http://coinreaders.com/262604"
+    },
+    {
+      "title": "구글 '제미나이 범용 에이전트' — 경쟁사 모델(클로드)까지 품는 개방 전략",
+      "company": "Google",
+      "importance": 2,
+      "role_tags": ["#제품전략", "#영업기회"],
+      "source": "https://www.itworld.co.kr/article/4233525/모델-선택권-앞세운-승부수-구글-기업용-ai-에이전트.html"
+    },
+    {
+      "title": "\"AI는 버블인가\" — 카지노 비유(브로드컴)와 '가격 붕괴'론(WSJ)이 동시 등장",
+      "company": "기타",
+      "importance": 2,
+      "role_tags": ["#영업기회", "#제품전략"],
+      "source": "https://www.newspim.com/news/view/20261012001541"
+    }
+  ]
+}
