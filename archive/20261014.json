@@ -1,0 +1,65 @@
+{
+  "period_start": "2026-10-13T00:00:00+09:00",
+  "period_end": "2026-10-14T00:00:00+09:00",
+  "generated_at": "2026-10-14T00:00:00+09:00",
+  "raw_collected": 760,
+  "company_breakdown": {
+    "OpenAI": 352,
+    "Google": 98,
+    "Anthropic": 19,
+    "Meta": 3,
+    "국내": 7,
+    "기타": 281
+  },
+  "insights": [
+    {
+      "title": "식약처 비공개 임상자료 2,672건, 로그인 없이 챗GPT로 열람 가능",
+      "company": "기타",
+      "importance": 3,
+      "role_tags": ["#제품전략"],
+      "source": "https://www.jasm.co.kr/news/view/321332/?sc=Naver"
+    },
+    {
+      "title": "메타 '뮤즈 원더' 출시 — 저커버그 \"오픈AI·앤트로픽 따라잡았다\"",
+      "company": "Meta",
+      "importance": 3,
+      "role_tags": ["#제품전략", "#영업기회"],
+      "source": "https://www.hankookilbo.com/news/article/A2026101312500003150?did=NA"
+    },
+    {
+      "title": "카카오, 카카오톡에 AI 에이전트 심는다 — '카나나 스페이스' + 라이언 호출",
+      "company": "국내",
+      "importance": 3,
+      "role_tags": ["#마케팅", "#영업기회", "#제품전략"],
+      "source": "https://www.khan.co.kr/article/202610132057025"
+    },
+    {
+      "title": "\"AI 투자는 카지노\" 경고 다음날, 삼성전자·SK하이닉스 패닉 하락",
+      "company": "기타",
+      "importance": 3,
+      "role_tags": ["#영업기회"],
+      "source": "https://www.mediawatch.kr/news/article.html?no=261337"
+    },
+    {
+      "title": "현대차·기아, AI 데이터 인프라 '바스트 데이터'에 전략적 투자",
+      "company": "기타",
+      "importance": 2,
+      "role_tags": ["#영업기회", "#제품전략"],
+      "source": "https://www.venturesquare.net/1119352/"
+    },
+    {
+      "title": "통신 3사, AI를 '구독 혜택'과 '대화형 에이전트'로 쪼개 공략",
+      "company": "기타",
+      "importance": 2,
+      "role_tags": ["#마케팅", "#영업기회"],
+      "source": "https://www.pointe.co.kr/news/articleView.html?idxno=85957"
+    },
+    {
+      "title": "크래프톤, '사회적 지능' 내세운 로봇 AI — 내년 초 '루디 1.0' 공개",
+      "company": "기타",
+      "importance": 2,
+      "role_tags": ["#제품전략"],
+      "source": "https://news.bizwatch.co.kr/article/mobile/2026/10/13/0031"
+    }
+  ]
+}
