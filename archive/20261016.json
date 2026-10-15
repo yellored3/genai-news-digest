@@ -1,0 +1,65 @@
+{
+    "period_start": "2026-10-15T00:00:00+09:00",
+    "period_end": "2026-10-16T00:00:00+09:00",
+    "generated_at": "2026-10-16T00:00:00+09:00",
+    "raw_collected": 913,
+    "company_breakdown": {
+        "OpenAI": 296,
+        "Google": 71,
+        "Anthropic": 18,
+        "Meta": 1,
+        "국내": 43,
+        "기타": 484
+    },
+    "insights": [
+        {
+            "title": "美 FTC, 오픈AI·앤트로픽 조사 착수 — 반복된 'AI 에이전트 해킹' 사고가 부른 민사조사",
+            "company": "OpenAI",
+            "importance": 3,
+            "role_tags": ["#제품전략"],
+            "source": "https://www.etoday.co.kr/news/view/2636418"
+        },
+        {
+            "title": "앤트로픽, 3분기 매출 168억달러·2개 분기 연속 조정흑자 — IPO 밸류에이션 2조달러 시험대",
+            "company": "Anthropic",
+            "importance": 3,
+            "role_tags": ["#영업기회", "#제품전략"],
+            "source": "https://www.ddaily.co.kr/page/view/2026101509535619079"
+        },
+        {
+            "title": "애플, 12월 중국서 AI 서비스 출시 — 알리바바 큐원 올라타고 새 시리는 제외",
+            "company": "Google",
+            "importance": 3,
+            "role_tags": ["#제품전략", "#영업기회"],
+            "source": "https://www.aitimes.com/news/articleView.html?idxno=216283"
+        },
+        {
+            "title": "오픈AI, 22일 서울서 '데브데이 익스체인지' — 에이전트·코덱스 보안 다루며 韓 개발자 공략",
+            "company": "OpenAI",
+            "importance": 2,
+            "role_tags": ["#마케팅", "#영업기회"],
+            "source": "https://zdnet.co.kr/view/?no=20261015102313"
+        },
+        {
+            "title": "애플, 종가 기준 시총 5조달러 첫 돌파 — 엔비디아 이어 美 2번째",
+            "company": "Google",
+            "importance": 2,
+            "role_tags": ["#영업기회"],
+            "source": "https://www.etoday.co.kr/news/view/2636076"
+        },
+        {
+            "title": "베슬AI, 2030년 GPU 20만장 확보 추진 — 국내 네오클라우드, 실리콘밸리 컴퓨팅 허브로",
+            "company": "기타",
+            "importance": 2,
+            "role_tags": ["#영업기회", "#제품전략"],
+            "source": "https://www.itdaily.kr/news/articleView.html?idxno=242215"
+        },
+        {
+            "title": "마인드로직, 월 5900원 멀티모델 플랫폼 '베이즈' 출시 — 기관 시장서 검증한 경쟁력, 개인으로 확장",
+            "company": "기타",
+            "importance": 2,
+            "role_tags": ["#제품전략", "#마케팅"],
+            "source": "https://platum.kr/archives/296336"
+        }
+    ]
+}
