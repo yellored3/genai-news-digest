@@ -1,0 +1,72 @@
+{
+    "period_start": "2026-10-16T00:00:00+09:00",
+    "period_end": "2026-10-17T00:00:00+09:00",
+    "generated_at": "2026-10-17T00:00:00+09:00",
+    "raw_collected": 741,
+    "company_breakdown": {
+        "OpenAI": 205,
+        "Google": 42,
+        "Anthropic": 12,
+        "Meta": 7,
+        "국내": 6,
+        "기타": 469
+    },
+    "insights": [
+        {
+            "title": "美 8개 주, 오픈AI 전면 소송 — FTC 조사가 실제 소송전으로 격화",
+            "company": "OpenAI",
+            "importance": 3,
+            "role_tags": ["#제품전략"],
+            "source": "https://www.etnews.com/20261016000005"
+        },
+        {
+            "title": "앤트로픽 IPO 모멘텀 급반전 — 매출 호조 뒤에 가려진 성장 둔화와 밸류에이션 재조정",
+            "company": "Anthropic",
+            "importance": 3,
+            "role_tags": ["#영업기회", "#제품전략"],
+            "source": "https://www.mstoday.co.kr/news/articleView.html?idxno=200179"
+        },
+        {
+            "title": "엔비디아, 개인용 에이전틱 AI PC 'RTX 스파크' 글로벌 출시 — 로컬 AI 하드웨어 경쟁 본격화",
+            "company": "기타",
+            "importance": 3,
+            "role_tags": ["#제품전략", "#영업기회"],
+            "source": "https://www.econovill.com/news/articleView.html?idxno=753927"
+        },
+        {
+            "title": "AI 에이전트發 보안위협 확산 — 해킹 도구화 vs 금융권의 선제적 권한 차단",
+            "company": "기타",
+            "importance": 3,
+            "role_tags": ["#제품전략"],
+            "source": "https://www.kmib.co.kr/article/view.asp?arcid=9000023236&cp=nv"
+        },
+        {
+            "title": "국내 금융권 AI 에이전트 도입 가속, 그러나 '효율화'에 머문다는 지적도 공존",
+            "company": "기타",
+            "importance": 2,
+            "role_tags": ["#제품전략", "#영업기회"],
+            "source": "http://www.4th.kr/news/articleView.html?idxno=2119868"
+        },
+        {
+            "title": "오픈AI, 역대급 성과급(영국법인 1인당 평균 41억원)으로 AI 인재 전쟁 가열",
+            "company": "OpenAI",
+            "importance": 2,
+            "role_tags": ["#제품전략"],
+            "source": "https://biz.heraldcorp.com/article/10905391?ref=naver"
+        },
+        {
+            "title": "트웰브랩스, 챗GPT·클로드 앱 연동 영상 AI 에이전트 '자키' 정식 출시",
+            "company": "기타",
+            "importance": 2,
+            "role_tags": ["#제품전략", "#영업기회"],
+            "source": "http://www.hansbiz.co.kr/news/articleView.html?idxno=873416"
+        },
+        {
+            "title": "앤트로픽 저작권 침해 논란 속 출판계 \"AI 학습 대가 지급\" 공동성명",
+            "company": "Anthropic",
+            "importance": 2,
+            "role_tags": ["#제품전략"],
+            "source": "https://www.newsis.com/view/NISX20261016_0003828797"
+        }
+    ]
+}
