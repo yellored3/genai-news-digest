@@ -1,0 +1,63 @@
+{
+  "period_start": "2026-10-16T00:00:00+09:00",
+  "period_end": "2026-10-19T00:00:00+09:00",
+  "generated_at": "2026-10-19T00:00:00+09:00",
+  "raw_collected": 1003,
+  "company_breakdown": {
+    "OpenAI": 347,
+    "Google": 77,
+    "Anthropic": 32,
+    "Meta": 9,
+    "국내": 10,
+    "기타": 528
+  },
+  "insights": [
+    {
+      "title": "앤트로픽 저작권 논란 확산 — 한국 작가 책 21종 확정, 보상 청구 절차까지 가시화",
+      "company": "Anthropic",
+      "importance": 3,
+      "role_tags": [
+        "#제품전략"
+      ],
+      "source": "https://economist.co.kr/article/view/ecn202610170007"
+    },
+    {
+      "title": "美 8개 주, 챗GPT 아동피해 소송 확산 — 오픈AI 공식 대응 등장, 메타 180억달러 선례와 비교돼",
+      "company": "OpenAI",
+      "importance": 3,
+      "role_tags": [
+        "#제품전략"
+      ],
+      "source": "https://www.wikitree.co.kr/articles/1167049"
+    },
+    {
+      "title": "오픈AI·앤트로픽 프리미엄 모델 이탈 가속 — 오픈웨이트 전환과 中 딥시크 저가 공세가 동시에",
+      "company": "기타",
+      "importance": 3,
+      "role_tags": [
+        "#제품전략",
+        "#영업기회"
+      ],
+      "source": "https://www.dailycar.co.kr/content/news.html?type=view&autoId=62842"
+    },
+    {
+      "title": "오픈AI, 챗GPT 보이스 한국어 전용 음성 추가 — 구글 제미나이4 아르곤과 동시 공개, 벤치마크 신뢰성 논란도",
+      "company": "OpenAI",
+      "importance": 2,
+      "role_tags": [
+        "#마케팅",
+        "#제품전략"
+      ],
+      "source": "https://www.cbci.co.kr/news/articleView.html?idxno=616357"
+    },
+    {
+      "title": "공무원이 직접 만든 생성형 AI 행정시스템 — 경북도, 상용 SW 없이 7000만원 절감",
+      "company": "기타",
+      "importance": 2,
+      "role_tags": [
+        "#제품전략"
+      ],
+      "source": "https://www.gukjenews.com/news/articleView.html?idxno=3724985"
+    }
+  ]
+}
