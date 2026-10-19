@@ -1,0 +1,65 @@
+{
+  "period_start": "2026-10-19T00:00:00+09:00",
+  "period_end": "2026-10-20T00:00:00+09:00",
+  "generated_at": "2026-10-20T00:00:00+09:00",
+  "raw_collected": 948,
+  "company_breakdown": {
+    "OpenAI": 337,
+    "Google": 50,
+    "Anthropic": 22,
+    "Meta": 19,
+    "국내": 32,
+    "기타": 488
+  },
+  "insights": [
+    {
+      "title": "앤트로픽 '프리미엄 모델 이탈' 경고, 레플릿이 첫 사례로 확인됐다",
+      "company": "Anthropic",
+      "importance": 3,
+      "role_tags": ["#영업기회", "#제품전략"],
+      "source": "https://www.aitimes.com/news/articleView.html?idxno=216404"
+    },
+    {
+      "title": "딥시크 '토큰 가성비' 공세 심화 — 한국 기업들 '중국 AI 딜레마'에 빠지다",
+      "company": "기타",
+      "importance": 3,
+      "role_tags": ["#제품전략", "#영업기회"],
+      "source": "https://www.news1.kr/it-science/internet-platform/6325065"
+    },
+    {
+      "title": "AI 에이전트 '접근권 전쟁' 확산 — 아마존·델타·JP모건·슈왑 vs 메타·월마트",
+      "company": "기타",
+      "importance": 3,
+      "role_tags": ["#제품전략", "#영업기회"],
+      "source": "https://www.techm.kr/news/articleView.html?idxno=156246"
+    },
+    {
+      "title": "美 AI 데이터센터 올해 47곳 '제동' — 10조달러 투자 붐에 금 가는 중",
+      "company": "기타",
+      "importance": 3,
+      "role_tags": ["#제품전략"],
+      "source": "https://www.mt.co.kr/world/2026/10/19/2026101914492412155"
+    },
+    {
+      "title": "한국투자공사(KIC), 수출통제 대상 중국 모델 '큐원3' 탑재 논란",
+      "company": "국내",
+      "importance": 2,
+      "role_tags": ["#제품전략"],
+      "source": "https://www.delighti.co.kr/news/articleView.html?idxno=123431"
+    },
+    {
+      "title": "오픈AI, 경영진 줄사퇴에도 스페이스X·메타·xAI 출신 영입하며 영업조직 확대",
+      "company": "OpenAI",
+      "importance": 2,
+      "role_tags": ["#영업기회"],
+      "source": "https://www.aitimes.com/news/articleView.html?idxno=216409"
+    },
+    {
+      "title": "앤트로픽, IPO 앞두고 지분 5% 공익기금 출연 — 기업가치 오르면 최대 20%까지",
+      "company": "Anthropic",
+      "importance": 2,
+      "role_tags": ["#제품전략"],
+      "source": "https://www.news1.kr/world/international-economy/6323843"
+    }
+  ]
+}
