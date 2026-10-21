@@ -1,0 +1,93 @@
+{
+  "period_start": "2026-10-21T00:00:00+09:00",
+  "period_end": "2026-10-22T00:00:00+09:00",
+  "generated_at": "2026-10-22T00:00:00+09:00",
+  "raw_collected": 1123,
+  "company_breakdown": {
+    "OpenAI": 275,
+    "Google": 308,
+    "Anthropic": 53,
+    "Meta": 11,
+    "국내": 33,
+    "기타": 443
+  },
+  "insights": [
+    {
+      "title": "이재명 대통령, '제미나이 답변'으로 국무회의 논란 반박 — AI가 정치 공방의 근거로 등판",
+      "company": "Google",
+      "importance": 3,
+      "role_tags": [
+        "#제품전략"
+      ],
+      "source": "https://www.ngonews.kr/news/articleView.html?idxno=241084"
+    },
+    {
+      "title": "크래프톤, 30B급 자체 LLM '라온-1 미니' 오픈소스 공개 — 게임사발 독자 모델 경쟁 가세",
+      "company": "국내",
+      "importance": 3,
+      "role_tags": [
+        "#제품전략",
+        "#영업기회"
+      ],
+      "source": "http://www.consumernews.co.kr/news/articleView.html?idxno=766458"
+    },
+    {
+      "title": "앤트로픽, 상반기 매출 15배 급증에도 순손실 107조원 — IPO 앞두고 수익성 시험대",
+      "company": "Anthropic",
+      "importance": 3,
+      "role_tags": [
+        "#제품전략",
+        "#영업기회"
+      ],
+      "source": "https://www.ddaily.co.kr/page/view/2026102108250041342"
+    },
+    {
+      "title": "메타 AI비서 '뮤즈', 출시 40일 미국서 1000만 다운로드 — 챗GPT 추격 속도 2.8배",
+      "company": "Meta",
+      "importance": 2,
+      "role_tags": [
+        "#제품전략",
+        "#마케팅"
+      ],
+      "source": "https://www.aitimes.com/news/articleView.html?idxno=216479"
+    },
+    {
+      "title": "앤트로픽, 국내 문화재단과 첫 협업 — 클로드로 'AI 해석가능성' 묻는 예술전시",
+      "company": "Anthropic",
+      "importance": 2,
+      "role_tags": [
+        "#마케팅"
+      ],
+      "source": "http://www.efnews.co.kr/news/articleView.html?idxno=133307"
+    },
+    {
+      "title": "'챗GPT·제미나이 답변에 우리 브랜드가 뜨나' — GEO 분석 도구 잇따라 출시",
+      "company": "기타",
+      "importance": 2,
+      "role_tags": [
+        "#마케팅"
+      ],
+      "source": "https://biz.heraldcorp.com/article/10909400?ref=naver"
+    },
+    {
+      "title": "업스테이지 지분투자부터 이스트소프트 sLLM 수주까지 — 국내 'AI 주권' 인프라 투자 잇따라",
+      "company": "국내",
+      "importance": 2,
+      "role_tags": [
+        "#영업기회",
+        "#제품전략"
+      ],
+      "source": "https://www.news2day.co.kr/article/20261020500371"
+    },
+    {
+      "title": "오픈AI, 신약개발 AI 스타트업 '오케스트라 바이오' 인수 — 챗봇 넘어 버티컬 확장",
+      "company": "OpenAI",
+      "importance": 2,
+      "role_tags": [
+        "#영업기회",
+        "#제품전략"
+      ],
+      "source": "https://www.aitimes.com/news/articleView.html?idxno=216485"
+    }
+  ]
+}
