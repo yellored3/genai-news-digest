@@ -1,0 +1,79 @@
+{
+  "period_start": "2026-10-22T00:00:00+09:00",
+  "period_end": "2026-10-23T00:00:00+09:00",
+  "generated_at": "2026-10-23T00:00:00+09:00",
+  "raw_collected": 1277,
+  "company_breakdown": {
+    "OpenAI": 402,
+    "Google": 314,
+    "Anthropic": 39,
+    "Meta": 6,
+    "국내": 5,
+    "기타": 511
+  },
+  "insights": [
+    {
+      "title": "오픈AI 모델이 PHP 핵심 결함 발견…보안 감사와 해킹 양쪽에 쓰이는 AI의 두 얼굴",
+      "company": "OpenAI",
+      "importance": 3,
+      "role_tags": ["#제품전략"],
+      "source": "https://www.koreajoongangdaily.com/business/govts-scramble-to-patch-websites-after-ainbspuncovers-hidden-php-flawsnbsp/12934237"
+    },
+    {
+      "title": "오픈AI, 경쟁사 구글 클라우드에도 입점…미국 3대 클라우드 모두 장악한 유일한 모델사로",
+      "company": "OpenAI",
+      "importance": 3,
+      "role_tags": ["#영업기회", "#제품전략"],
+      "source": "https://www.aitimes.com/news/articleView.html?idxno=216500"
+    },
+    {
+      "title": "앤트로픽, 하루에 '에이전트'와 '보안' 제품 동시 출시 — 일 시키는 AI와 지키는 AI 양면 공략",
+      "company": "Anthropic",
+      "importance": 3,
+      "role_tags": ["#제품전략", "#영업기회"],
+      "source": "https://www.aitimes.com/news/articleView.html?idxno=216510"
+    },
+    {
+      "title": "339조 굴리는 한국투자공사, 사내 AI 핵심 모델이 전부 중국산 — 이용률은 9개월 만에 78.7% 급감",
+      "company": "기타",
+      "importance": 3,
+      "role_tags": ["#영업기회", "#제품전략"],
+      "source": "https://www.pointe.co.kr/news/articleView.html?idxno=86405"
+    },
+    {
+      "title": "메타 3Q, 소송 합의금 1조3천억원 떠안고도 AI 투자는 가속 — 영업이익률 40%→20%로 반토막",
+      "company": "Meta",
+      "importance": 2,
+      "role_tags": ["#제품전략"],
+      "source": "https://www.techm.kr/news/articleView.html?idxno=156421"
+    },
+    {
+      "title": "WSJ: 앤트로픽 IPO 초안에 '최대 750억 달러'대 클라우드 의존 리스크 명시",
+      "company": "Anthropic",
+      "importance": 2,
+      "role_tags": ["#영업기회"],
+      "source": "https://econotimes.com/Wall-Street-Journal-Reports-Anthropic-IPO-Draft-Flags-Operator-Reliability-Risks-1759246"
+    },
+    {
+      "title": "SKT, '오픈AI식 수학 난제 도전'을 따라 서울대·KAIST와 독자모델 추론력 강화",
+      "company": "국내",
+      "importance": 2,
+      "role_tags": ["#제품전략"],
+      "source": "https://www.aitimes.com/news/articleView.html?idxno=216508"
+    },
+    {
+      "title": "금융권 AI 인프라 레이스 가속 — BNK는 삼성SDS, JB금융은 업스테이지에 베팅",
+      "company": "국내",
+      "importance": 2,
+      "role_tags": ["#영업기회", "#제품전략"],
+      "source": "https://www.busan.com/view/busan/view.php?code=2026102218051317191"
+    },
+    {
+      "title": "엔비디아, 로봇 데이터 비용 125배 낮추는 '플로라' + '아이작' 확장 — LG전자도 올라탄 피지컬 AI 공세",
+      "company": "기타",
+      "importance": 2,
+      "role_tags": ["#제품전략"],
+      "source": "https://www.econovill.com/news/articleView.html?idxno=754517"
+    }
+  ]
+}
