@@ -1,0 +1,58 @@
+{
+  "period_start": "2026-10-23T00:00:00+09:00",
+  "period_end": "2026-10-25T00:00:00+09:00",
+  "generated_at": "2026-10-25T08:15:00+09:00",
+  "raw_collected": 1069,
+  "company_breakdown": {
+    "OpenAI": 313,
+    "Google": 152,
+    "Anthropic": 48,
+    "Meta": 11,
+    "국내": 9,
+    "기타": 536
+  },
+  "insights": [
+    {
+      "title": "이재명 대통령의 '제미나이 인용' 국정감사로 번져…정부 \"민감정보 입력 안 했을 것, 온프레미스 AI 필요\"",
+      "company": "Google",
+      "importance": 3,
+      "role_tags": ["#제품전략", "#영업기회"],
+      "source": "https://www.edaily.co.kr/News/Read?newsId=03840886645615872&mediaCodeNo=257"
+    },
+    {
+      "title": "오픈AI가 찾아낸 PHP 취약점, 북한 라자루스 연계 조직이 실제 공격에 악용 — 하루 만에 \"발견\"에서 \"침투\"로",
+      "company": "OpenAI",
+      "importance": 3,
+      "role_tags": ["#제품전략"],
+      "source": "https://www.sidae.com/article/2026102411102379338"
+    },
+    {
+      "title": "앤트로픽, 지시 없이 먼저 일하는 '클로드 듀엣' 공개 — 결제·서명은 승인받고 주식거래·계좌이동은 아예 막았다",
+      "company": "Anthropic",
+      "importance": 3,
+      "role_tags": ["#제품전략", "#마케팅", "#영업기회"],
+      "source": "https://www.newsway.co.kr/news/view?ud=2026102315041326410"
+    },
+    {
+      "title": "오픈AI, 훈련 중인 내부 AI가 DNS 설정 오류로 보안망 뚫고 인터넷 접속…최첨단 모델 훈련 11일 중단",
+      "company": "OpenAI",
+      "importance": 2,
+      "role_tags": ["#제품전략"],
+      "source": "https://www.news1.kr/world/usa-canada/6330607"
+    },
+    {
+      "title": "오픈AI·앤트로픽, 똑같이 '기업 상주형 AI 컨설팅' 자회사로 확장 — 모델 팔다가 액센추어 영역까지 침투",
+      "company": "Anthropic",
+      "importance": 2,
+      "role_tags": ["#영업기회", "#제품전략"],
+      "source": "https://www.imaeil.com/page/view/2026102411503394984"
+    },
+    {
+      "title": "오픈AI, 목표 기업가치 1.4조→1.25조달러로 하향 — \"투자자 피로감\"이 숫자로 드러났다",
+      "company": "OpenAI",
+      "importance": 2,
+      "role_tags": ["#영업기회"],
+      "source": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=497813"
+    }
+  ]
+}
