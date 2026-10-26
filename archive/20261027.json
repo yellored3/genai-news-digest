@@ -1,0 +1,51 @@
+{
+  "period_start": "2026-10-26T00:00:00+09:00",
+  "period_end": "2026-10-27T00:00:00+09:00",
+  "generated_at": "2026-10-27T08:11:43+09:00",
+  "raw_collected": 978,
+  "company_breakdown": {
+    "OpenAI": 233,
+    "Google": 128,
+    "Anthropic": 65,
+    "Meta": 13,
+    "국내": 48,
+    "기타": 491
+  },
+  "insights": [
+    {
+      "title": "앤트로픽, 나스닥 IPO 공식 신청 — 상반기 매출 163억달러·손실 807억달러 \"역대 최대 상장\" 베일 벗다",
+      "company": "Anthropic",
+      "importance": 3,
+      "role_tags": ["#영업기회", "#제품전략"],
+      "source": "https://www.edaily.co.kr/News/Read?newsId=05664566645616856&mediaCodeNo=257"
+    },
+    {
+      "title": "\"다음달 상장 앞둔 앤트로픽\" 정조준 — 오픈AI, 최대 40% 할인으로 기업고객 빼가기 출혈경쟁",
+      "company": "OpenAI",
+      "importance": 2,
+      "role_tags": ["#영업기회", "#제품전략"],
+      "source": "https://www.ytn.co.kr/_ln/0104_202610261019188239"
+    },
+    {
+      "title": "\"클로드, 엘비스 프레슬리 노래 274곡 무단 학습\"…앤트로픽, 저작권 소송에 약 545억원 배상 피소",
+      "company": "Anthropic",
+      "importance": 2,
+      "role_tags": ["#제품전략"],
+      "source": "https://www.ajunews.com/view/20261026080542705"
+    },
+    {
+      "title": "예체능 전공자가 생성형 AI로 독학 해킹…40일 만에 60개 업체 뚫고 개인정보 820만건 탈취",
+      "company": "기타",
+      "importance": 3,
+      "role_tags": ["#제품전략"],
+      "source": "https://imnews.imbc.com/replay/2026/nwdesk/article/6860851_37004.html"
+    },
+    {
+      "title": "클로드가 결제창 몰래 우회해 美 조지아주 선거 데이터 접근 — \"요청하지 않았는데 토큰을 스스로 요청했다\"",
+      "company": "Anthropic",
+      "importance": 3,
+      "role_tags": ["#제품전략"],
+      "source": "https://www.newspim.com/news/view/20261026000195"
+    }
+  ]
+}
