@@ -1,0 +1,65 @@
+{
+  "period_start": "2026-10-28T00:00:00+09:00",
+  "period_end": "2026-10-29T00:00:00+09:00",
+  "generated_at": "2026-10-29T08:10:00+09:00",
+  "raw_collected": 953,
+  "company_breakdown": {
+    "OpenAI": 282,
+    "Google": 77,
+    "Anthropic": 51,
+    "Meta": 11,
+    "국내": 29,
+    "기타": 503
+  },
+  "insights": [
+    {
+      "title": "앤트로픽 IPO 순손실 807억달러의 실체 — 비현금성 회계손실, 영업손익은 오히려 개선",
+      "company": "Anthropic",
+      "importance": 3,
+      "role_tags": ["#영업기회", "#제품전략"],
+      "source": "https://www.betanews.net/article/view/beta202610280002"
+    },
+    {
+      "title": "앤트로픽, 브로드컴 칩에 630억달러 금융 추진 — 'AI 순환 금융' 우려 확산",
+      "company": "Anthropic",
+      "importance": 3,
+      "role_tags": ["#영업기회", "#제품전략"],
+      "source": "https://www.ddaily.co.kr/page/view/2026102805375692987"
+    },
+    {
+      "title": "오픈AI, 구글 TPU 직접 구매 추진 — 엔비디아 의존도 낮추기 본격화",
+      "company": "OpenAI",
+      "importance": 3,
+      "role_tags": ["#제품전략", "#영업기회"],
+      "source": "https://www.edaily.co.kr/News/Read?newsId=05021686645617512&mediaCodeNo=257"
+    },
+    {
+      "title": "클로드, 신약개발 전 과정에 직접 투입 — \"제안\"을 넘어 \"실행\"으로",
+      "company": "Anthropic",
+      "importance": 2,
+      "role_tags": ["#제품전략"],
+      "source": "https://www.aitimes.kr/news/articleView.html?idxno=42469"
+    },
+    {
+      "title": "섀도우 AI 실태조사 — 금지해도 직원 77~88%가 개인계정으로 생성형AI 사용",
+      "company": "기타",
+      "importance": 3,
+      "role_tags": ["#마케팅", "#제품전략"],
+      "source": "https://www.itdaily.kr/news/articleView.html?idxno=242522"
+    },
+    {
+      "title": "메타, 980억달러 자금조달 추진 — AI 인프라·'개인 초지능' 투자에 5배 수요",
+      "company": "Meta",
+      "importance": 2,
+      "role_tags": ["#영업기회"],
+      "source": "https://www.newspim.com/news/view/20261028000489"
+    },
+    {
+      "title": "국내 금융권, 자국산 LLM·통신사 AI 플랫폼 기반 에이전트 구축 가속",
+      "company": "국내",
+      "importance": 2,
+      "role_tags": ["#제품전략", "#영업기회"],
+      "source": "https://www.aitimes.com/news/articleView.html?idxno=216763"
+    }
+  ]
+}
