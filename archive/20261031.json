@@ -1,0 +1,72 @@
+{
+  "period_start": "2026-10-30T00:00:00+09:00",
+  "period_end": "2026-10-31T00:00:00+09:00",
+  "generated_at": "2026-10-31T00:00:00+09:00",
+  "raw_collected": 897,
+  "company_breakdown": {
+    "OpenAI": 254,
+    "Google": 145,
+    "Anthropic": 22,
+    "Meta": 7,
+    "국내": 6,
+    "기타": 463
+  },
+  "insights": [
+    {
+      "title": "앤스로픽 상장 레이스 본격화 — 스페이스X 매출 34.5% 의존·1205억달러 장기계약이 드러낸 집중 리스크",
+      "company": "Anthropic",
+      "importance": 3,
+      "role_tags": ["#영업기회", "#제품전략"],
+      "source": "https://www.joongangenews.com/news/articleView.html?idxno=559795"
+    },
+    {
+      "title": "중국 AI 증류 전쟁터, 클로드에서 오픈AI '아스트라'로 이동 — 방어 성공이 부른 풍선효과",
+      "company": "Anthropic",
+      "importance": 2,
+      "role_tags": ["#제품전략"],
+      "source": "https://www.aitimes.com/news/articleView.html?idxno=216820"
+    },
+    {
+      "title": "구글 알파벳, 상장 이후 최악의 하루 — 시총 670조원 증발, AI 투자 ROI 의구심 본격화",
+      "company": "Google",
+      "importance": 3,
+      "role_tags": ["#영업기회", "#제품전략"],
+      "source": "https://www.etnews.com/20261030000077"
+    },
+    {
+      "title": "엔비디아, 1조3천억원 투자로 네이버 'AI 팩토리' 동맹 완성 — GPU 공급을 지분으로 묶다",
+      "company": "국내",
+      "importance": 3,
+      "role_tags": ["#영업기회", "#제품전략"],
+      "source": "https://www.moneystorm.kr/news/articleView.html?idxno=7884"
+    },
+    {
+      "title": "커서 마켓플레이스에 가짜 'Claude Code' 확장 — SSH 백도어로 최대 5000명 노출",
+      "company": "Anthropic",
+      "importance": 3,
+      "role_tags": ["#제품전략"],
+      "source": "https://www.tokenpost.kr/news/breaking/430254"
+    },
+    {
+      "title": "MS, 북한 해킹조직의 AI 활용 실태 공개 — \"속도·규모는 커졌지만 공격 지휘는 여전히 사람\"",
+      "company": "기타",
+      "importance": 2,
+      "role_tags": ["#제품전략"],
+      "source": "https://www.industrynews.co.kr/news/articleView.html?idxno=88619"
+    },
+    {
+      "title": "오픈AI, 'Model Spec' 개정 — 인간 감독을 최상위 규칙으로 명문화",
+      "company": "OpenAI",
+      "importance": 2,
+      "role_tags": ["#제품전략"],
+      "source": "https://www.dailyt.co.kr/newsView/dlt202610300015"
+    },
+    {
+      "title": "국내 소비자 생성형AI 유료화 본격 개화 — 이용률 85%·유료결제 25.9%·월 3.6만원, 챗GPT가 1위",
+      "company": "기타",
+      "importance": 2,
+      "role_tags": ["#마케팅", "#영업기회"],
+      "source": "https://www.venturesquare.net/1124471/"
+    }
+  ]
+}
