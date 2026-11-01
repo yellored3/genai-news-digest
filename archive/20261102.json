@@ -1,0 +1,65 @@
+{
+  "period_start": "2026-10-30T00:00:00+09:00",
+  "period_end": "2026-11-02T00:00:00+09:00",
+  "generated_at": "2026-11-02T00:00:00+09:00",
+  "raw_collected": 1277,
+  "company_breakdown": {
+    "OpenAI": 486,
+    "Google": 200,
+    "Anthropic": 49,
+    "Meta": 1,
+    "국내": 11,
+    "기타": 530
+  },
+  "insights": [
+    {
+      "title": "샘 올트먼 방한 — 메모리 공급 동맹에서 '전사적 AI 경영' 동맹으로 확장",
+      "company": "OpenAI",
+      "importance": 3,
+      "role_tags": ["#영업기회", "#제품전략"],
+      "source": "https://www.moneystorm.kr/news/articleView.html?idxno=7910"
+    },
+    {
+      "title": "오픈AI 투자유치 목표 절반도 못 채워 — 앤스로픽과 벌어진 수익성 격차가 'AI 거품론'에 불 붙이다",
+      "company": "OpenAI",
+      "importance": 3,
+      "role_tags": ["#영업기회", "#제품전략"],
+      "source": "https://www.mt.co.kr/world/2026/11/02/2026110107554581881"
+    },
+    {
+      "title": "앤스로픽 상장 코앞인데 블랙스톤 '정크본드' 경고 — 807억달러 손실 뒤엔 8000억달러 인프라 베팅",
+      "company": "Anthropic",
+      "importance": 3,
+      "role_tags": ["#영업기회"],
+      "source": "https://www.mediapen.com/news/view/1134082"
+    },
+    {
+      "title": "AI 보안, 공격도 방어도 생성형 AI 몫 — 日정부는 클로드·GPT 보안모델 도입, 해커는 챗GPT·클로드 사칭",
+      "company": "기타",
+      "importance": 2,
+      "role_tags": ["#제품전략"],
+      "source": "https://www.g-enews.com/view.php?ud=2026103122145457000c8c1c064d_1"
+    },
+    {
+      "title": "AI 안경으로 시험 커닝? 제미나이 82.78% 정답 — 국내는 수능 스마트안경 전담인력 배치로 대응",
+      "company": "Google",
+      "importance": 2,
+      "role_tags": ["#제품전략"],
+      "source": "https://www.kbsm.net/news/view.php?idx=539832"
+    },
+    {
+      "title": "클로드 '5시간 제한' 풀자 오픈AI도 한도 2배로 — AI 에이전트 장시간 작업 경쟁 본격화",
+      "company": "Anthropic",
+      "importance": 2,
+      "role_tags": ["#제품전략", "#영업기회"],
+      "source": "https://www.edaily.co.kr/News/Read?newsId=02050006645618496&mediaCodeNo=257"
+    },
+    {
+      "title": "오픈AI·구글·MS '내 콘텐츠 AI 학습 금지' 통합 표준 도입 — 저작권 소송 압박에 손든 빅테크",
+      "company": "기타",
+      "importance": 2,
+      "role_tags": ["#제품전략", "#영업기회"],
+      "source": "https://view.asiae.co.kr/article/2026110116114272821"
+    }
+  ]
+}
