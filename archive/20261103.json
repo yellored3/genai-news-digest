@@ -1,0 +1,90 @@
+{
+    "period_start": "2026-11-02T00:00:00+09:00",
+    "period_end": "2026-11-03T00:00:00+09:00",
+    "generated_at": "2026-11-03T00:00:00+09:00",
+    "raw_collected": 925,
+    "company_breakdown": {
+        "OpenAI": 250,
+        "Google": 72,
+        "Anthropic": 28,
+        "Meta": 8,
+        "국내": 8,
+        "기타": 559
+    },
+    "insights": [
+        {
+            "title": "앤트로픽, 美상장 앞두고 일본서 최대 4.7조원 공모주 추진 — 정크본드 경고에도 자금줄은 더 넓힌다",
+            "company": "Anthropic",
+            "importance": 3,
+            "role_tags": [
+                "#영업기회"
+            ],
+            "source": "https://www.news1.kr/world/northeast-asia/6340525"
+        },
+        {
+            "title": "메타 광고 26%, 구글 검색 12% — AI가 가른 빅테크 격차, 알파벳 시총 5000억달러 증발",
+            "company": "기타",
+            "importance": 3,
+            "role_tags": [
+                "#마케팅",
+                "#영업기회"
+            ],
+            "source": "https://www.the-today.com/news/articleView.html?idxno=92858"
+        },
+        {
+            "title": "판사 80% \"AI가 만든 가짜 판례 봤다\" — 대법원 설문 공개, 법정에 스며든 AI 환각",
+            "company": "OpenAI",
+            "importance": 3,
+            "role_tags": [
+                "#제품전략"
+            ],
+            "source": "https://www.ajunews.com/view/20261102143440530"
+        },
+        {
+            "title": "챗GPT 대화 '삭제'해도 서버엔 최대 7년 남는다 — 섀도AI 유출사고 1년 새 2배",
+            "company": "OpenAI",
+            "importance": 3,
+            "role_tags": [
+                "#제품전략"
+            ],
+            "source": "https://www.etnews.com/20261102000466"
+        },
+        {
+            "title": "AI 스마트글래스 삼각전쟁 — 삼성 12월 참전, 구글·엑스리얼 '아우라' 국내 출시, 메타는 독주 수성",
+            "company": "기타",
+            "importance": 2,
+            "role_tags": [
+                "#제품전략",
+                "#영업기회"
+            ],
+            "source": "https://www.autodaily.co.kr/news/articleView.html?idxno=601681"
+        },
+        {
+            "title": "딥시크, \"호출 없이 먼저 제안\"하는 자율 코딩 에이전트 공개 — 코딩 패권 전쟁에 중국도 참전",
+            "company": "기타",
+            "importance": 2,
+            "role_tags": [
+                "#제품전략"
+            ],
+            "source": "https://zdnet.co.kr/view/?no=20261102084328"
+        },
+        {
+            "title": "오라클, AI 투자 위해 28조원 긴급 조달 — 매출의 1.9배 빚더미, 오픈AI 의존 부담까지",
+            "company": "OpenAI",
+            "importance": 2,
+            "role_tags": [
+                "#영업기회"
+            ],
+            "source": "https://www.newspim.com/news/view/20261102001642"
+        },
+        {
+            "title": "카이스트, AI 학습시간 70% 단축 기술 개발 — '거품론' 속 국내 R&D의 반격",
+            "company": "국내",
+            "importance": 2,
+            "role_tags": [
+                "#제품전략"
+            ],
+            "source": "https://biz.heraldcorp.com/article/10922042?ref=naver"
+        }
+    ]
+}
