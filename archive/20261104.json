@@ -1,0 +1,95 @@
+{
+    "period_start": "2026-11-03T00:00:00+09:00",
+    "period_end": "2026-11-04T00:00:00+09:00",
+    "generated_at": "2026-11-04T00:00:00+09:00",
+    "raw_collected": 966,
+    "company_breakdown": {
+        "OpenAI": 224,
+        "Google": 47,
+        "Anthropic": 29,
+        "Meta": 5,
+        "국내": 20,
+        "기타": 641
+    },
+    "insights": [
+        {
+            "title": "현대차, 해킹 우려로 챗GPT·클로드 등 외부 생성형AI 전격 차단",
+            "company": "기타",
+            "importance": 3,
+            "role_tags": [
+                "#영업기회",
+                "#제품전략"
+            ],
+            "source": "https://www.etnews.com/20261103000455"
+        },
+        {
+            "title": "앤트로픽, 3분기 매출 12배 늘었지만 영업적자 전환 — IPO 앞두고 수익성이 시험대",
+            "company": "Anthropic",
+            "importance": 3,
+            "role_tags": [
+                "#영업기회",
+                "#제품전략"
+            ],
+            "source": "https://www.aitimes.com/news/articleView.html?idxno=216932"
+        },
+        {
+            "title": "바이트댄스도 사내 클로드·코덱스 접근 제한 추진 — 기업 AI 보안통제, 글로벌로 확산",
+            "company": "기타",
+            "importance": 2,
+            "role_tags": [
+                "#영업기회",
+                "#제품전략"
+            ],
+            "source": "https://www.tokenpost.kr/news/ai/431813"
+        },
+        {
+            "title": "국산 LLM '업스테이지 솔라프로4', 정부 행정망 공통 AI 기반에 정식 입성",
+            "company": "국내",
+            "importance": 3,
+            "role_tags": [
+                "#영업기회",
+                "#제품전략"
+            ],
+            "source": "https://www.hankyung.com/article/2026110336471"
+        },
+        {
+            "title": "베스핀글로벌, 질의응답 AI 접고 '실행형 에이전트'로 승부수 — AI 파일럿 트랩 넘기 경쟁",
+            "company": "국내",
+            "importance": 2,
+            "role_tags": [
+                "#제품전략"
+            ],
+            "source": "https://zdnet.co.kr/view/?no=20261103104737"
+        },
+        {
+            "title": "오픈AI, 전 육군장관 영입해 국방·안보 AI 사업 확대",
+            "company": "OpenAI",
+            "importance": 2,
+            "role_tags": [
+                "#영업기회",
+                "#제품전략"
+            ],
+            "source": "https://www.joongangenews.com/news/articleView.html?idxno=560629"
+        },
+        {
+            "title": "일레븐랩스, 모델 선택만으로 끝나는 음성대화 AI '일레븐 리얼타임' 공개",
+            "company": "기타",
+            "importance": 2,
+            "role_tags": [
+                "#제품전략",
+                "#영업기회"
+            ],
+            "source": "https://www.ddaily.co.kr/page/view/2026110310275057395"
+        },
+        {
+            "title": "네이버 AI검색 'AI탭', 국내 최초 AI 경영시스템 국제표준(ISO 42001) 인증 — 에이전틱 검색 안전 경쟁 시작",
+            "company": "국내",
+            "importance": 2,
+            "role_tags": [
+                "#마케팅",
+                "#제품전략"
+            ],
+            "source": "https://www.joongangenews.com/news/articleView.html?idxno=560626"
+        }
+    ]
+}
