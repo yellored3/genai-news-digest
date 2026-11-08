@@ -1,0 +1,51 @@
+{
+  "period_start": "2026-11-06T00:00:00+09:00",
+  "period_end": "2026-11-09T00:00:00+09:00",
+  "generated_at": "2026-11-09T00:00:00+09:00",
+  "raw_collected": 1135,
+  "company_breakdown": {
+    "OpenAI": 444,
+    "Google": 86,
+    "Anthropic": 41,
+    "Meta": 15,
+    "국내": 32,
+    "기타": 517
+  },
+  "insights": [
+    {
+      "title": "챗GPT 국내 이용자 1800만 첫 돌파 — 클로드는 15배 폭증하며 2위로 도약",
+      "company": "OpenAI",
+      "importance": 3,
+      "role_tags": ["#제품전략", "#마케팅"],
+      "source": "http://www.metroseoul.co.kr/article/20261108500058"
+    },
+    {
+      "title": "최태원 SK 회장, 서울대 특강서 \"AI 네이티브 국가\" 전략 제시 — 젠슨 황의 'AI 5대층' 인용",
+      "company": "국내",
+      "importance": 2,
+      "role_tags": ["#제품전략"],
+      "source": "https://www.lawleader.co.kr/news/articleView.html?idxno=20356"
+    },
+    {
+      "title": "파라다이스그룹, 복합리조트 업계 최초 '챗GPT 엔터프라이즈' 전사 도입 — \"교육이 먼저, 도입은 그 다음\"",
+      "company": "OpenAI",
+      "importance": 2,
+      "role_tags": ["#영업기회", "#마케팅"],
+      "source": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065591457864306"
+    },
+    {
+      "title": "단국대, GPT-4o·클로드3.5·라마3.1·하이퍼클로바X 교차비교해 'AI 가상환자' 평가체계 개발 — NeurIPS 2026 채택",
+      "company": "OpenAI",
+      "importance": 2,
+      "role_tags": ["#제품전략"],
+      "source": "http://www.beyondpost.co.kr/view.php?ud=20261108192553728992e75d13a3_30"
+    },
+    {
+      "title": "엔비디아 '로컬 AI PC' RTX 스파크 — 128GB·1PFLOPS 갖췄지만 500만~900만원대 가격에 \"타깃 모호성\" 비판",
+      "company": "null",
+      "importance": 2,
+      "role_tags": ["#영업기회", "#제품전략"],
+      "source": "https://www.itdaily.kr/news/articleView.html?idxno=242751"
+    }
+  ]
+}
