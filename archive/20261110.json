@@ -1,0 +1,58 @@
+{
+  "period_start": "2026-11-09T00:00:00+09:00",
+  "period_end": "2026-11-10T00:00:00+09:00",
+  "generated_at": "2026-11-10T00:00:00+09:00",
+  "raw_collected": 894,
+  "company_breakdown": {
+    "OpenAI": 216,
+    "Google": 86,
+    "Anthropic": 43,
+    "Meta": 6,
+    "국내": 10,
+    "기타": 533
+  },
+  "insights": [
+    {
+      "title": "앤트로픽 '클로드' 국내 기업 계정 100여 개 정보 유출 — 외부 SW 취약점이 침투 경로",
+      "company": "Anthropic",
+      "importance": 3,
+      "role_tags": ["#제품전략", "#영업기회"],
+      "source": "https://www.hankookilbo.com/news/article/A2026110921140004704?did=NA"
+    },
+    {
+      "title": "엔비디아, 한국 AI 스타트업 4곳에 투자 확대 — 업스테이지·모티프·포인트투테크놀로지·리얼월드",
+      "company": "기타",
+      "importance": 3,
+      "role_tags": ["#제품전략", "#영업기회"],
+      "source": "https://www.delighti.co.kr/news/articleView.html?idxno=124632"
+    },
+    {
+      "title": "메가존클라우드, 오픈AI '셀렉트' 파트너 선정 — 챗GPT 엔터프라이즈·Codex·API 공동영업",
+      "company": "OpenAI",
+      "importance": 2,
+      "role_tags": ["#영업기회", "#마케팅"],
+      "source": "https://www.hankyung.com/article/2026110957491"
+    },
+    {
+      "title": "삼성·구글 AI안경 '인텔리전트 아이웨어' 12일 예약판매 — 메타 81% 독점 시장에 도전",
+      "company": "Google",
+      "importance": 2,
+      "role_tags": ["#제품전략", "#마케팅"],
+      "source": "https://www.seoul.co.kr/news/economy/IT/2026/11/09/20261109500386?wlog_tag3=naver"
+    },
+    {
+      "title": "금융보안원, 보이스피싱 대응 플랫폼 'ASAP'에 AI 탐지모델 탑재 — 중소형 금융사까지 확대",
+      "company": "기타",
+      "importance": 2,
+      "role_tags": ["#제품전략", "#영업기회"],
+      "source": "https://www.dailysecu.com/news/articleView.html?idxno=209397"
+    },
+    {
+      "title": "SKT·엔비디아·리벨리온, GPU+NPU 결합한 한국형 소버린 AI 인프라 개발",
+      "company": "기타",
+      "importance": 2,
+      "role_tags": ["#제품전략"],
+      "source": "https://www.thedailypost.kr/news/articleView.html?idxno=116770"
+    }
+  ]
+}
