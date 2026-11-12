@@ -1,0 +1,65 @@
+{
+  "period_start": "2026-11-12T00:00:00+09:00",
+  "period_end": "2026-11-13T00:00:00+09:00",
+  "generated_at": "2026-11-13",
+  "raw_collected": 991,
+  "company_breakdown": {
+    "OpenAI": 294,
+    "Google": 138,
+    "Anthropic": 31,
+    "Meta": 3,
+    "국내": 28,
+    "기타": 497
+  },
+  "insights": [
+    {
+      "title": "엔비디아 CEO 젠슨 황, 결국 사임…불륜 인정 나흘 만에 주가 10% 폭락",
+      "company": "기타",
+      "importance": 3,
+      "role_tags": ["#제품전략", "#영업기회"],
+      "source": "https://www.etoday.co.kr/news/view/2647631"
+    },
+    {
+      "title": "앤트로픽, 18일 공모가 확정·19일 나스닥 상장…개인투자자 배정만 129억달러",
+      "company": "Anthropic",
+      "importance": 3,
+      "role_tags": ["#영업기회", "#제품전략"],
+      "source": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=714920"
+    },
+    {
+      "title": "클로드 정보유출, 국내 기업 100여개 계정 영향 확인…원인은 '승인 없는 보안 점검'",
+      "company": "Anthropic",
+      "importance": 2,
+      "role_tags": ["#제품전략"],
+      "source": "https://www.econovill.com/news/articleView.html?idxno=756925"
+    },
+    {
+      "title": "삼성·구글 '제미나이 안경' 12월 10일 출격…65만원부터, 메타 독주에 도전장",
+      "company": "Google",
+      "importance": 2,
+      "role_tags": ["#마케팅", "#제품전략"],
+      "source": "https://www.etnews.com/20261112000321"
+    },
+    {
+      "title": "어도비, 결국 문 열었다…챗GPT·클로드 에이전트가 포토샵 원본 파일 직접 수정",
+      "company": "기타",
+      "importance": 2,
+      "role_tags": ["#제품전략", "#영업기회"],
+      "source": "https://www.wikitree.co.kr/articles/1173909"
+    },
+    {
+      "title": "유나이티드항공, AI 에이전트 항공권 예약 차단…AI 커머스에 첫 제동",
+      "company": "기타",
+      "importance": 2,
+      "role_tags": ["#제품전략"],
+      "source": "https://www.sedaily.com/article/20113703"
+    },
+    {
+      "title": "한국 정부, AI 투명성·안전망 동시에 조인다…저작권 AI표시 의무화 추진 + 국민모니터링단 출범",
+      "company": "국내",
+      "importance": 2,
+      "role_tags": ["#제품전략", "#마케팅"],
+      "source": "https://zdnet.co.kr/view/?no=20261112160345"
+    }
+  ]
+}
