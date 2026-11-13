@@ -1,0 +1,65 @@
+{
+  "period_start": "2026-11-13T00:00:00+09:00",
+  "period_end": "2026-11-14T00:00:00+09:00",
+  "generated_at": "2026-11-14",
+  "raw_collected": 1006,
+  "company_breakdown": {
+    "OpenAI": 226,
+    "Google": 215,
+    "Anthropic": 30,
+    "Meta": 4,
+    "국내": 4,
+    "기타": 527
+  },
+  "insights": [
+    {
+      "title": "삼성·구글 'AI 안경' 30종 전체 공개…사전예약 수 시간 만에 완판",
+      "company": "Google",
+      "importance": 3,
+      "role_tags": ["#마케팅", "#제품전략"],
+      "source": "https://www.gukjenews.com/news/articleView.html?idxno=3751073"
+    },
+    {
+      "title": "엔비디아 '창업자 없는 체제' 출범…AMD·브로드컴은 나흘 만에 시총 수백억달러 불어",
+      "company": "기타",
+      "importance": 3,
+      "role_tags": ["#제품전략", "#영업기회"],
+      "source": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611130038&t=NN"
+    },
+    {
+      "title": "MS 365 글로벌 장애 이틀째…오픈AI·앤트로픽도 '연동 기능 조사 중'",
+      "company": "기타",
+      "importance": 2,
+      "role_tags": ["#제품전략"],
+      "source": "https://www.aitimes.com/news/articleView.html?idxno=217394"
+    },
+    {
+      "title": "앤트로픽 IPO, 수요예측서 물량 6배 몰려…121조원 조달 전망",
+      "company": "Anthropic",
+      "importance": 3,
+      "role_tags": ["#영업기회", "#제품전략"],
+      "source": "https://www.joongangenews.com/news/articleView.html?idxno=563543"
+    },
+    {
+      "title": "구글, 검색·코딩에 '제미나이4 하이드로젠' 투입…비용 절반으로 속도 2.5배",
+      "company": "Google",
+      "importance": 2,
+      "role_tags": ["#제품전략"],
+      "source": "https://www.aitimes.com/news/articleView.html?idxno=217352"
+    },
+    {
+      "title": "앤트로픽, '클로드 포 매뉴팩처링' 출시…오픈AI와 산업별 AI 격돌",
+      "company": "Anthropic",
+      "importance": 2,
+      "role_tags": ["#영업기회", "#제품전략"],
+      "source": "https://www.aitimes.com/news/articleView.html?idxno=217361"
+    },
+    {
+      "title": "AI가 작곡·가창한 노래, 멜론 톱100 사상 첫 1위",
+      "company": "기타",
+      "importance": 2,
+      "role_tags": ["#마케팅", "#제품전략"],
+      "source": "https://www.khan.co.kr/article/202611131817001"
+    }
+  ]
+}
