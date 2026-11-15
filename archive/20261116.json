@@ -1,0 +1,82 @@
+{
+  "period_start": "2026-11-13T00:00:00+09:00",
+  "period_end": "2026-11-16T00:00:00+09:00",
+  "generated_at": "2026-11-16",
+  "raw_collected": 1469,
+  "company_breakdown": {
+    "OpenAI": 475,
+    "Google": 345,
+    "Anthropic": 67,
+    "Meta": 2,
+    "국내": 3,
+    "기타": 320
+  },
+  "insights": [
+    {
+      "title": "세무사 수석합격자 AI 부정행위 자수…국가시험 신뢰 붕괴에 AI 안경까지 '커닝 기기' 오명",
+      "company": "기타",
+      "importance": 3,
+      "role_tags": [
+        "#제품전략"
+      ],
+      "source": "https://www.segye.com/newsView/20261115509040?OutUrl=naver"
+    },
+    {
+      "title": "엔비디아 리더십 공백 장기화…670조 투자유치 흔들리고 AMD·브로드컴 반사이익 지속",
+      "company": "기타",
+      "importance": 3,
+      "role_tags": [
+        "#제품전략",
+        "#영업기회"
+      ],
+      "source": "https://www.hankookilbo.com/news/article/A2026111514480004168?did=NA"
+    },
+    {
+      "title": "美 연준, AI발 '순환금융' 버블 경고…닷컴버블과 직접 비교",
+      "company": "기타",
+      "importance": 3,
+      "role_tags": [
+        "#영업기회",
+        "#제품전략"
+      ],
+      "source": "https://www.eroun.net/news/articleView.html?idxno=95490"
+    },
+    {
+      "title": "인텔 주도 'K-AI 풀스택 얼라이언스' 출범…국내 AI반도체·서버 생태계 결집",
+      "company": "기타",
+      "importance": 2,
+      "role_tags": [
+        "#영업기회",
+        "#제품전략"
+      ],
+      "source": "https://www.econovill.com/news/articleView.html?idxno=757135"
+    },
+    {
+      "title": "앤트로픽 상장 앞두고 '스페이스X 악몽' 경계령…운용사들 신중모드",
+      "company": "Anthropic",
+      "importance": 2,
+      "role_tags": [
+        "#영업기회"
+      ],
+      "source": "https://www.newsis.com/view/NISX20261113_0003867740"
+    },
+    {
+      "title": "가트너, 2030년까지 AI로 일자리 170만개 순증 전망…그러나 4억3550만명 직무 재편",
+      "company": "기타",
+      "importance": 2,
+      "role_tags": [
+        "#제품전략"
+      ],
+      "source": "https://www.busan.com/view/busan/view.php?code=2026111516422569654"
+    },
+    {
+      "title": "'LLM 재킹' 등 AI 인프라 겨냥 사이버공격 확산…피해기업이 요금 뒤집어써",
+      "company": "기타",
+      "importance": 2,
+      "role_tags": [
+        "#제품전략"
+      ],
+      "source": "https://www.etoday.co.kr/news/view/2647979"
+    }
+  ]
+}
