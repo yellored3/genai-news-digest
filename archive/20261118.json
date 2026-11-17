@@ -1,0 +1,65 @@
+{
+  "period_start": "2026-11-17T00:00:00+09:00",
+  "period_end": "2026-11-18T00:00:00+09:00",
+  "generated_at": "2026-11-18",
+  "raw_collected": 1158,
+  "company_breakdown": {
+    "OpenAI": 300,
+    "Google": 189,
+    "Anthropic": 45,
+    "Meta": 5,
+    "국내": 18,
+    "기타": 601
+  },
+  "insights": [
+    {
+      "title": "'AI안경 커닝' 우려가 현실로…LEET서 실제 안경 바꿔치기 적발, 응시제한 10년까지 추진",
+      "company": "기타",
+      "importance": 3,
+      "role_tags": ["#제품전략", "#영업기회"],
+      "source": "https://www.ytn.co.kr/_ln/0101_202611172157590510"
+    },
+    {
+      "title": "구글 GTIG \"AI 자율 해킹 첫 확인\"…LLM재킹 피해는 하루 10만달러로 확대",
+      "company": "Google",
+      "importance": 3,
+      "role_tags": ["#제품전략", "#영업기회"],
+      "source": "https://www.kmib.co.kr/article/20261117501723"
+    },
+    {
+      "title": "美 캘리포니아, 오픈AI 제소…AI에이전트 통제상실 80건 넘었다",
+      "company": "OpenAI",
+      "importance": 3,
+      "role_tags": ["#제품전략", "#영업기회"],
+      "source": "https://www.wikitree.co.kr/articles/1175431"
+    },
+    {
+      "title": "오픈AI, 아동성착취물 탐지 AI 공개…신규 사례 72% 적중",
+      "company": "OpenAI",
+      "importance": 2,
+      "role_tags": ["#제품전략"],
+      "source": "https://www.aitimes.com/news/articleView.html?idxno=217501"
+    },
+    {
+      "title": "한은 \"AI 활용 66.5%로 급증했지만 생산성은 '핵심업무 집중'에만 효과\"",
+      "company": "기타",
+      "importance": 2,
+      "role_tags": ["#제품전략"],
+      "source": "https://www.khan.co.kr/article/202611172021015"
+    },
+    {
+      "title": "업스테이지, 캐나다 코히어와 '소버린AI' 동맹…코히어 CEO 한·일·싱가포르 순회",
+      "company": "국내",
+      "importance": 2,
+      "role_tags": ["#영업기회", "#제품전략"],
+      "source": "https://zdnet.co.kr/view/?no=20261117152912"
+    },
+    {
+      "title": "中 알리바바, GPT-4/GPT-4o '증류'로 Qwen 훈련 확인…美 수출통제 실효성 우려",
+      "company": "기타",
+      "importance": 2,
+      "role_tags": ["#제품전략"],
+      "source": "https://biz.sbs.co.kr/article_hub/20000347042?division=NAVER"
+    }
+  ]
+}
