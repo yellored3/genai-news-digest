@@ -1,0 +1,65 @@
+{
+  "period_start": "2026-11-18T00:00:00+09:00",
+  "period_end": "2026-11-19T00:00:00+09:00",
+  "generated_at": "2026-11-19",
+  "raw_collected": 466,
+  "company_breakdown": {
+    "OpenAI": 199,
+    "Google": 92,
+    "Anthropic": 45,
+    "Meta": 1,
+    "국내": 10,
+    "기타": 119
+  },
+  "insights": [
+    {
+      "title": "수능 D-1 '위급재난문자' 대책에도 우회법 10분 만에 확산…AI부정행위 예산은 거꾸로 삭감",
+      "company": "기타",
+      "importance": 3,
+      "role_tags": ["#제품전략", "#영업기회"],
+      "source": "https://www.kado.net/news/articleView.html?idxno=2085613"
+    },
+    {
+      "title": "삼성 AI안경 12/10 출시 앞두고 '커닝 공포'와 정면충돌…메타 81% 점유율에 도전",
+      "company": "Google",
+      "importance": 2,
+      "role_tags": ["#마케팅", "#영업기회"],
+      "source": "https://www.hankyung.com/article/202611172092g"
+    },
+    {
+      "title": "오픈AI, 50일 만에 'GPT-6.2 아스트라' 재출시…종합 2위, 가격 20% 인하로 앤트로픽 추격",
+      "company": "OpenAI",
+      "importance": 3,
+      "role_tags": ["#제품전략", "#영업기회"],
+      "source": "https://www.aitimes.com/news/articleView.html?idxno=217513"
+    },
+    {
+      "title": "FBI \"침투 3시간 만에 관리자 권한\"…한국서도 금융정보 6.7만건 유출 확인",
+      "company": "Google",
+      "importance": 3,
+      "role_tags": ["#제품전략", "#영업기회"],
+      "source": "https://www.etoday.co.kr/news/view/2649712"
+    },
+    {
+      "title": "MS \"코파일럿이 에이전트 관제탑\"…오픈AI·앤트로픽 에이전트까지 통합 관리",
+      "company": "기타",
+      "importance": 2,
+      "role_tags": ["#제품전략", "#영업기회"],
+      "source": "https://www.aitimes.com/news/articleView.html?idxno=217532"
+    },
+    {
+      "title": "앤트로픽 IPO 청약 경쟁률 7배로 가열…19일 나스닥 'ANT' 상장",
+      "company": "Anthropic",
+      "importance": 3,
+      "role_tags": ["#영업기회", "#제품전략"],
+      "source": "https://www.hankyung.com/article/202611183170i"
+    },
+    {
+      "title": "제미나이, \"기록 꺼도\" 대화 보관 3일→60일로 20배 늘려…학습 동의는 분리",
+      "company": "Google",
+      "importance": 2,
+      "role_tags": ["#제품전략"],
+      "source": "https://www.wikitree.co.kr/articles/1175482"
+    }
+  ]
+}
