@@ -1,0 +1,65 @@
+{
+  "period_start": "2026-11-19T00:00:00+09:00",
+  "period_end": "2026-11-20T00:00:00+09:00",
+  "generated_at": "2026-11-20",
+  "raw_collected": 1020,
+  "company_breakdown": {
+    "OpenAI": 338,
+    "Google": 129,
+    "Anthropic": 111,
+    "Meta": 4,
+    "국내": 29,
+    "기타": 409
+  },
+  "insights": [
+    {
+      "title": "앤트로픽, 공모가 83달러로 나스닥 상장…스페이스X 넘어 역대 최대 IPO",
+      "company": "Anthropic",
+      "importance": 3,
+      "role_tags": ["#영업기회", "#제품전략"],
+      "source": "https://www.fnnews.com/news/202611191227068337"
+    },
+    {
+      "title": "생성형 AI, 수능 국어 20초 만에 만점…\"이론적 우려가 실측 데이터로\"",
+      "company": "기타",
+      "importance": 3,
+      "role_tags": ["#제품전략"],
+      "source": "https://www.mstoday.co.kr/news/articleView.html?idxno=200528"
+    },
+    {
+      "title": "AI 부정행위 파문 확산—세무사 자백 이후 LEET 만점자 사망, 변호사시험 전수조사까지",
+      "company": "기타",
+      "importance": 3,
+      "role_tags": ["#제품전략", "#영업기회"],
+      "source": "https://www.ytn.co.kr/_ln/0103_202611192243576749"
+    },
+    {
+      "title": "삼성·구글 AI 안경, 출시 전 16종 전량 품절…공교롭게도 '커닝 반입금지' 첫날과 겹쳐",
+      "company": "Google",
+      "importance": 2,
+      "role_tags": ["#마케팅", "#제품전략", "#영업기회"],
+      "source": "https://www.insight.co.kr/news/582790"
+    },
+    {
+      "title": "챗GPT로 의사 도장까지 위조…진단서 41장 만들어 50일 복무 이탈",
+      "company": "OpenAI",
+      "importance": 2,
+      "role_tags": ["#제품전략"],
+      "source": "https://www.busan.com/view/busan/view.php?code=2026111918393996426"
+    },
+    {
+      "title": "\"AI가 약 바꾸라고 해서\"…AI 의료정보 따라 처방 바꾼 소비자 절반이 부작용",
+      "company": "기타",
+      "importance": 2,
+      "role_tags": ["#제품전략"],
+      "source": "https://www.nongmin.com/article/20261119500287"
+    },
+    {
+      "title": "구글, '제미나이 4 네온' 공개…AI 종합지수서 클로드 오퍼스 5.5·GPT-6.2 솔 앞서",
+      "company": "Google",
+      "importance": 2,
+      "role_tags": ["#제품전략", "#영업기회"],
+      "source": "https://zdnet.co.kr/view/?no=20261119143244"
+    }
+  ]
+}
