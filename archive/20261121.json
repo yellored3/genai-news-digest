@@ -1,0 +1,65 @@
+{
+    "period_start": "2026-11-20T00:00:00+09:00",
+    "period_end": "2026-11-22T00:00:00+09:00",
+    "generated_at": "2026-11-21",
+    "raw_collected": 1239,
+    "company_breakdown": {
+        "OpenAI": 381,
+        "Google": 106,
+        "Anthropic": 137,
+        "Meta": 3,
+        "국내": 18,
+        "기타": 594
+    },
+    "insights": [
+        {
+            "title": "앤트로픽, 상장 이틀째 8.5% 급락…공모가 턱밑까지 밀리며 수익성 시험대",
+            "company": "Anthropic",
+            "importance": 3,
+            "role_tags": ["#영업기회", "#제품전략"],
+            "source": "https://www.mediapen.com/news/view/1138983"
+        },
+        {
+            "title": "앤트로픽 상장일, 샌프란시스코 본사 앞 \"AI 개발 중단\" 시위…RSI 금지 요구",
+            "company": "Anthropic",
+            "importance": 2,
+            "role_tags": ["#제품전략"],
+            "source": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3083683"
+        },
+        {
+            "title": "'AI 커닝' 수법 스마트안경까지 진화…세무사·회계사 시험도 부정행위 적발",
+            "company": "기타",
+            "importance": 3,
+            "role_tags": ["#제품전략", "#영업기회"],
+            "source": "https://www.mt.co.kr/society/2026/11/21/2026112023490326613"
+        },
+        {
+            "title": "오픈AI, GPT-6.2 API 요금 최대 40% 할인…'에이전트 시대' 가격경쟁 격화",
+            "company": "OpenAI",
+            "importance": 2,
+            "role_tags": ["#영업기회", "#제품전략"],
+            "source": "https://www.edaily.co.kr/News/Read?newsId=01443206645648016&mediaCodeNo=257"
+        },
+        {
+            "title": "국내 스타트업 뉴로퓨전, 예측 벤치마크서 구글·오픈AI·앤트로픽 제치고 종합 1위",
+            "company": "국내",
+            "importance": 2,
+            "role_tags": ["#제품전략", "#영업기회"],
+            "source": "https://www.hellot.net/news/article.html?no=116474"
+        },
+        {
+            "title": "모레(Moreh), SC26서 추론 최적화 기술 'TIDE' 공개…이기종 GPU로 처리량 1.66배↑",
+            "company": "국내",
+            "importance": 2,
+            "role_tags": ["#제품전략"],
+            "source": "https://www.ddaily.co.kr/page/view/2026112016453866399"
+        },
+        {
+            "title": "대기업 AI 지분투자 비중 급증(8%→27%)…그러나 90%는 단순투자, \"사업화가 관건\"",
+            "company": "국내",
+            "importance": 2,
+            "role_tags": ["#영업기회", "#제품전략"],
+            "source": "https://www.polinews.co.kr/news/articleView.html?idxno=748822"
+        }
+    ]
+}
