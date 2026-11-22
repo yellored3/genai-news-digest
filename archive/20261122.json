@@ -1,0 +1,86 @@
+{
+    "period_start": "2026-11-20T00:00:00+09:00",
+    "period_end": "2026-11-23T00:00:00+09:00",
+    "generated_at": "2026-11-22",
+    "raw_collected": 1392,
+    "company_breakdown": {
+        "OpenAI": 479,
+        "Google": 127,
+        "Anthropic": 151,
+        "Meta": 2,
+        "국내": 11,
+        "기타": 622
+    },
+    "insights": [
+        {
+            "title": "앤트로픽 수학자, 클로드로 '리만 가설' 증명 발표…상장 다음날 공개에 \"증명\" 논란",
+            "company": "Anthropic",
+            "importance": 3,
+            "role_tags": ["#제품전략"],
+            "source": "http://www.choicenews.co.kr/news/articleView.html?idxno=173395"
+        },
+        {
+            "title": "'LEET 만점' 이진우씨 숨진 채 발견…AI 부정행위 의혹 수사 새 국면",
+            "company": "OpenAI",
+            "importance": 3,
+            "role_tags": ["#제품전략"],
+            "source": "https://www.imaeil.com/page/view/2026112018501731097"
+        },
+        {
+            "title": "앤트로픽 상장 후폭풍 — 서학개미는 '신중', 자산운용사·직원은 '질주'",
+            "company": "Anthropic",
+            "importance": 3,
+            "role_tags": ["#영업기회", "#제품전략"],
+            "source": "http://www.inews24.com/view/2028995"
+        },
+        {
+            "title": "\"AI도 수능 봤다\"…GPT-6.2·제미나이4 450점 공동 만점, 국내 모델은 LG가 1위",
+            "company": "OpenAI",
+            "importance": 2,
+            "role_tags": ["#제품전략", "#영업기회"],
+            "source": "https://www.edaily.co.kr/News/Read?newsId=01361206645647688&mediaCodeNo=257"
+        },
+        {
+            "title": "정부, 수능 AI 부정행위 신고 창구 가동…AI기업 이용기록 대조 수사기법 도입",
+            "company": "국내",
+            "importance": 2,
+            "role_tags": ["#제품전략"],
+            "source": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4091672"
+        },
+        {
+            "title": "AI 부정행위 공포, 수능 넘어 내신까지 확산…스마트안경 부정엔 이미 집행유예 선례",
+            "company": "기타",
+            "importance": 2,
+            "role_tags": ["#제품전략", "#영업기회"],
+            "source": "https://www.sedaily.com/article/20117339"
+        },
+        {
+            "title": "구글 제미나이, 산불 출동 무전 30초 이내 감지…비영리 '워치 듀티' 도입 성과",
+            "company": "Google",
+            "importance": 2,
+            "role_tags": ["#제품전략"],
+            "source": "https://www.aitimes.kr/news/articleView.html?idxno=42839"
+        },
+        {
+            "title": "바비톡, 사내 AI 에이전트 플랫폼 'BaaS'로 전사 확산…두 달 만에 23개→123개",
+            "company": "Google",
+            "importance": 2,
+            "role_tags": ["#제품전략", "#영업기회"],
+            "source": "https://www.venturesquare.net/1130413/"
+        },
+        {
+            "title": "은행·카드사, 챗GPT·클로드·그록 구독료까지 30% 적립하는 카드 경쟁",
+            "company": "기타",
+            "importance": 2,
+            "role_tags": ["#마케팅", "#영업기회"],
+            "source": "http://www.newsdream.kr/news/articleView.html?idxno=122696"
+        },
+        {
+            "title": "SK하이닉스, SC26서 메모리 중심 AI랙 시스템 'MARS' 공개…SK텔레콤과 LLM 추론 실증",
+            "company": "국내",
+            "importance": 2,
+            "role_tags": ["#제품전략"],
+            "source": "https://www.ezyeconomy.com/news/articleView.html?idxno=242041"
+        }
+    ]
+}
