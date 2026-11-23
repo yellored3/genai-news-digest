@@ -1,0 +1,51 @@
+{
+    "period_start": "2026-11-23T00:00:00+09:00",
+    "period_end": "2026-11-24T00:00:00+09:00",
+    "generated_at": "2026-11-24",
+    "raw_collected": 991,
+    "company_breakdown": {
+        "OpenAI": 317,
+        "Google": 78,
+        "Anthropic": 50,
+        "Meta": 17,
+        "국내": 14,
+        "기타": 515
+    },
+    "insights": [
+        {
+            "title": "앤트로픽 주가 출렁이자 SK텔레콤도 동반 하락…2GW 데이터센터 '테넌트'가 관전 포인트로",
+            "company": "Anthropic",
+            "importance": 3,
+            "role_tags": ["#영업기회", "#제품전략"],
+            "source": "http://www.lkp.news/news/articleView.html?idxno=86382"
+        },
+        {
+            "title": "엔비디아 젠슨 황, 국가안보 조사 속 사임 11일 만에 전격 복귀…주가 장전 31%↑",
+            "company": "기타",
+            "importance": 3,
+            "role_tags": ["#제품전략", "#영업기회"],
+            "source": "https://www.joongangenews.com/news/articleView.html?idxno=566042"
+        },
+        {
+            "title": "오픈AI 수석과학자 \"2027년 AI가 AI 개발 가속할 수도\"…업계 공통 개발상한 제안에 올트먼도 지지",
+            "company": "OpenAI",
+            "importance": 2,
+            "role_tags": ["#제품전략"],
+            "source": "https://www.aitimes.kr/news/articleView.html?idxno=42843"
+        },
+        {
+            "title": "엔비디아, 오픈소스 '네모트론 포 사이언스'로 과학 연구용 AI 에이전트 생태계 선점",
+            "company": "기타",
+            "importance": 2,
+            "role_tags": ["#제품전략", "#영업기회"],
+            "source": "https://byline.network/?p=9004111222628830"
+        },
+        {
+            "title": "구글, '검색=AI 기본탑재' 고수하자 뉴욕·LA·시카고 교육당국 '탈구글' 검토",
+            "company": "Google",
+            "importance": 2,
+            "role_tags": ["#제품전략", "#영업기회"],
+            "source": "https://www.wikitree.co.kr/articles/1177111"
+        }
+    ]
+}
