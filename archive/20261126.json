@@ -1,0 +1,65 @@
+{
+    "period_start": "2026-11-25T00:00:00+09:00",
+    "period_end": "2026-11-26T00:00:00+09:00",
+    "generated_at": "2026-11-26",
+    "raw_collected": 1059,
+    "company_breakdown": {
+        "OpenAI": 276,
+        "Google": 107,
+        "Anthropic": 45,
+        "Meta": 5,
+        "국내": 49,
+        "기타": 577
+    },
+    "insights": [
+        {
+            "title": "구글, KBO와 2027시즌 공식 '검색' 파트너십…AI 검색을 스포츠 버티컬로 확장",
+            "company": "Google",
+            "importance": 3,
+            "role_tags": ["#영업기회", "#제품전략"],
+            "source": "https://www.venturesquare.net/1131515/"
+        },
+        {
+            "title": "앤트로픽, 상장 나흘 만에 공모가 하회…기업가치 2조달러→1.1조달러로 반토막",
+            "company": "Anthropic",
+            "importance": 3,
+            "role_tags": ["#영업기회", "#제품전략"],
+            "source": "https://www.bloter.net/news/articleView.html?idxno=679612"
+        },
+        {
+            "title": "오픈AI·앤트로픽 내부서 \"너무 위험해\" 차세대 모델 비공개 논쟁 확산",
+            "company": "OpenAI",
+            "importance": 3,
+            "role_tags": ["#제품전략"],
+            "source": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=718038"
+        },
+        {
+            "title": "국내 유료 AI 시장, 클로드 결제액이 챗GPT 추월 지속…\"언급은 챗GPT, 결제는 클로드\"",
+            "company": "Anthropic",
+            "importance": 2,
+            "role_tags": ["#제품전략", "#영업기회"],
+            "source": "https://www.edaily.co.kr/News/Read?newsId=02276326645649328&mediaCodeNo=257"
+        },
+        {
+            "title": "카카오뱅크, 프랑스 미스트랄AI와 금융 특화 LLM 공동개발…빅3 대신 오픈웨이트 진영과 손잡기",
+            "company": "국내",
+            "importance": 2,
+            "role_tags": ["#제품전략", "#영업기회"],
+            "source": "https://www.ppss.kr/news/articleView.html?idxno=322859"
+        },
+        {
+            "title": "다나와, 챗GPT에도 AI 쇼핑 MCP 개시…클로드 이어 멀티 AI 에이전트 커머스로 확장",
+            "company": "OpenAI",
+            "importance": 2,
+            "role_tags": ["#영업기회", "#제품전략"],
+            "source": "https://www.nextdaily.co.kr/news/articleView.html?idxno=255290"
+        },
+        {
+            "title": "오픈AI, 범용 AI GPT-6로 전문 모델 없이 단백질 설계 성공…생명과학 AI 경쟁 격화",
+            "company": "OpenAI",
+            "importance": 2,
+            "role_tags": ["#제품전략"],
+            "source": "https://www.aitimes.com/news/articleView.html?idxno=217758"
+        }
+    ]
+}
