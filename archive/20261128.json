@@ -1,0 +1,72 @@
+{
+    "period_start": "2026-11-27T00:00:00+09:00",
+    "period_end": "2026-11-28T00:00:00+09:00",
+    "generated_at": "2026-11-28",
+    "raw_collected": 803,
+    "company_breakdown": {
+        "OpenAI": 236,
+        "Google": 61,
+        "Anthropic": 25,
+        "Meta": 2,
+        "국내": 4,
+        "기타": 475
+    },
+    "insights": [
+        {
+            "title": "AI 쇼핑 에이전트 전쟁, 연말 시즌 첫 시험대…아마존도 결국 '뮤즈'와 협상 테이블로",
+            "company": "복수",
+            "importance": 3,
+            "role_tags": ["#마케팅", "#제품전략"],
+            "source": "https://n.news.naver.com/mnews/article/018/0006416357?sid=101"
+        },
+        {
+            "title": "앤트로픽 주가, 상장 나흘 만에 공모가 붕괴…'컴퓨팅 승수'의 역설이 AI 인프라 버블 논쟁 재점화",
+            "company": "Anthropic",
+            "importance": 3,
+            "role_tags": ["#영업기회", "#제품전략"],
+            "source": "https://www.koreareport.co.kr/news/articleView.html?idxno=55241"
+        },
+        {
+            "title": "美 3대 AI사, 벤치마크 경쟁에서 '수학·과학 난제 해결' 경쟁으로 전선 이동",
+            "company": "복수",
+            "importance": 2,
+            "role_tags": ["#제품전략"],
+            "source": "https://www.aitimes.com/news/articleView.html?idxno=217867"
+        },
+        {
+            "title": "수능 AI 부정행위 70% 급증, 해커톤이 입증한 다층방어의 구조적 한계…정부는 '모두의 AI' 12월 출시로 맞불",
+            "company": "국내",
+            "importance": 3,
+            "role_tags": ["#영업기회", "#제품전략"],
+            "source": "https://www.wikileaks-kr.org/news/articleView.html?idxno=195399"
+        },
+        {
+            "title": "美, 엔비디아 수출통제 우회로 전면 차단 시도…역설적으로 중국 반도체 자립 가속",
+            "company": "복수",
+            "importance": 3,
+            "role_tags": ["#영업기회", "#제품전략"],
+            "source": "https://n.news.naver.com/mnews/article/025/0003568501?sid=101"
+        },
+        {
+            "title": "오픈AI, GPT-6.2 과금 오류 인정…바로잡자 사용한도가 '더 빨리' 닳는 역설",
+            "company": "OpenAI",
+            "importance": 2,
+            "role_tags": ["#제품전략"],
+            "source": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=718631"
+        },
+        {
+            "title": "삼성·구글 '인텔리전트 아이웨어' 1차 완판·2차 돌입…AI 안경, 레이밴메타 대항마로 부상",
+            "company": "Google",
+            "importance": 2,
+            "role_tags": ["#마케팅", "#제품전략"],
+            "source": "https://n.news.naver.com/mnews/article/008/0005447449?sid=105"
+        },
+        {
+            "title": "\"굳이 비싼 모델 써야 하나\"…기업들 오픈웨이트로 이탈, MS도 자체모델로 비용 승부수",
+            "company": "복수",
+            "importance": 3,
+            "role_tags": ["#제품전략", "#영업기회"],
+            "source": "https://www.fortunekorea.co.kr/news/articleView.html?idxno=54889"
+        }
+    ]
+}
